@@ -9,10 +9,12 @@ AI Supermarket publishes source-backed business fact packs for answer engines an
 - Marsirius AI Labs fact pack: https://aisupermarket.dev/entities/marsirius-ai/
 - Marsirius JSON Fact Pack: https://aisupermarket.dev/api/entities/marsirius-ai.json
 - KKTC AI feed: https://aisupermarket.dev/feeds/kktc/ai-companies.json
+- Privacy policy: https://aisupermarket.dev/privacy/
+- Terms: https://aisupermarket.dev/terms/
 - Sitemap: https://aisupermarket.dev/sitemap.xml
 
 ## Connector layer
-AI Supermarket also exposes an MCP/ChatGPT Apps connector for direct retrieval when the app is activated in an AI assistant.
+AI Supermarket also exposes a production MCP/ChatGPT Apps connector for direct retrieval when the app is activated in an AI assistant: https://connector.aisupermarket.dev/mcp
 
 Primary tools:
 - search_companies: search source-backed companies by market/category/query.

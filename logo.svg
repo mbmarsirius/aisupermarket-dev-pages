@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">AI Supermarket logo</title>
+  <desc id="desc">A bold AI Supermarket shelf mark with green verified signal.</desc>
+  <rect width="1024" height="1024" rx="180" fill="#f8f0dc"/>
+  <rect x="92" y="128" width="840" height="712" rx="72" fill="#10120f"/>
+  <rect x="148" y="188" width="728" height="592" rx="42" fill="#fff8e8"/>
+  <path d="M214 330h596M214 512h596M214 694h596" stroke="#10120f" stroke-width="42" stroke-linecap="round"/>
+  <circle cx="304" cy="330" r="56" fill="#16f2a5" stroke="#10120f" stroke-width="28"/>
+  <circle cx="512" cy="512" r="56" fill="#ff4b3e" stroke="#10120f" stroke-width="28"/>
+  <circle cx="720" cy="694" r="56" fill="#16f2a5" stroke="#10120f" stroke-width="28"/>
+  <path d="M280 326l22 24 54-62" fill="none" stroke="#10120f" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M696 690l22 24 54-62" fill="none" stroke="#10120f" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="512" y="922" text-anchor="middle" font-family="Georgia, serif" font-size="86" font-weight="900" letter-spacing="-6" fill="#10120f">AI MARKET</text>
+</svg>
