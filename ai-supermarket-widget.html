@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI Supermarket Fact Pack Widget</title>
+  <style>
+    :root{--paper:#f8f0dc;--ink:#10120f;--green:#16f2a5;--red:#ff4b3e}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,serif}main{padding:20px}h1{font-size:42px;line-height:.9;letter-spacing:-.05em;margin:0 0 12px}.tag{display:inline-block;border:2px solid #111;border-radius:999px;padding:4px 8px;background:var(--green);font:12px ui-monospace,monospace;margin:2px}.card{border:2px solid #111;border-radius:20px;background:#fff8e8;box-shadow:6px 6px 0 #111;padding:16px;margin:12px 0}button{border:2px solid #111;border-radius:12px;background:#111;color:var(--paper);padding:10px 12px;font-weight:700}pre{white-space:pre-wrap;background:#111;color:var(--green);border-radius:14px;padding:12px;overflow:auto}a{color:inherit}</style>
+</head>
+<body>
+<main>
+  <span class="tag">AI Supermarket</span>
+  <h1>Marsirius AI Labs</h1>
+  <p>Source-backed Fact Pack for ChatGPT Apps, MCP connectors, crawlers and answer engines.</p>
+  <div class="card">
+    <b>Machine endpoints</b>
+    <p><a href="/api/entities/marsirius-ai.json">JSON Fact Pack</a> · <a href="/feeds/kktc/ai-companies.json">KKTC AI feed</a> · <a href="/llms.txt">llms.txt</a></p>
+    <button id="load">Load profile via MCP tool</button>
+  </div>
+  <div class="card"><pre id="out">Waiting for ChatGPT Apps host bridge...</pre></div>
+</main>
+<script>
+let rpcId = 0;
+const pending = new Map();
+function post(message){ window.parent.postMessage(message, '*'); }
+function rpcRequest(method, params){
+  const id = ++rpcId;
+  post({jsonrpc:'2.0', id, method, params});
+  return new Promise((resolve,reject)=>pending.set(id,{resolve,reject}));
+}
+function rpcNotify(method, params){ post({jsonrpc:'2.0', method, params}); }
+window.addEventListener('message', (event)=>{
+  const msg = event.data || {};
+  if (msg.id && pending.has(msg.id)) {
+    const p = pending.get(msg.id); pending.delete(msg.id);
+    msg.error ? p.reject(msg.error) : p.resolve(msg.result);
+  }
+  if (msg.method === 'ui/notifications/tool-result') {
+    document.getElementById('out').textContent = JSON.stringify(msg.params?.result?.structuredContent || msg.params, null, 2);
+  }
+});
+async function init(){
+  try {
+    await rpcRequest('ui/initialize', { appInfo:{name:'ai-supermarket-widget',version:'0.1.0'}, appCapabilities:{}, protocolVersion:'2026-01-26' });
+    rpcNotify('ui/notifications/initialized', {});
+    document.getElementById('out').textContent = 'Bridge initialized. Ask for Marsirius or click Load.';
+  } catch(e) {
+    document.getElementById('out').textContent = 'Standalone preview. In ChatGPT, this widget receives MCP tool results.';
+  }
+}
+document.getElementById('load').onclick = async()=>{
+  try {
+    const result = await rpcRequest('tools/call', { name:'get_company_profile', arguments:{slug:'marsirius-ai'} });
+    document.getElementById('out').textContent = JSON.stringify(result?.structuredContent || result, null, 2);
+  } catch(e) { document.getElementById('out').textContent = JSON.stringify(e, null, 2); }
+};
+init();
+</script>
+</body>
+</html>
