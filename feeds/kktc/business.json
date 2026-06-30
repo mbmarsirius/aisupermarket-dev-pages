@@ -1,0 +1,52 @@
+{
+  "market": "kktc",
+  "category": "business",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "concept-ayphilon",
+      "name": "Concept Ayphilon",
+      "summary": "Concept Ayphilon is a business entity for KKTC.",
+      "website": "https://northcyprusstock.com/portfolio-item/concept-ayphilon-resort",
+      "url": "/entities/concept-ayphilon/",
+      "api": "/api/entities/concept-ayphilon.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "gymac",
+      "name": "Gymac",
+      "summary": "Gymac is a business entity for KKTC.",
+      "website": "https://www.instagram.com/gymaccy",
+      "url": "/entities/gymac/",
+      "api": "/api/entities/gymac.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "metropol",
+      "name": "Metropol",
+      "summary": "Metropol is a business entity for KKTC.",
+      "website": "https://www.instagram.com/metropolcyprus/?hl=en",
+      "url": "/entities/metropol/",
+      "api": "/api/entities/metropol.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "packsel",
+      "name": "Packsel",
+      "summary": "Packsel is a business entity for KKTC.",
+      "website": "https://www.packsel.com/page/iletisim",
+      "url": "/entities/packsel/",
+      "api": "/api/entities/packsel.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "tonic",
+      "name": "Tonic",
+      "summary": "Tonic is a business entity for KKTC.",
+      "website": "https://tonicmenu.com",
+      "url": "/entities/tonic/",
+      "api": "/api/entities/tonic.json",
+      "verified_claims": 3
+    }
+  ]
+}

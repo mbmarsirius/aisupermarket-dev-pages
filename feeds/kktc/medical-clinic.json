@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "medical-clinic",
+  "updated": "2026-06-30T15:59:47.908Z",
+  "entities": [
+    {
+      "id": "nis-tip-merkezi",
+      "name": "Nis Tıp Merkezi",
+      "summary": "Nis Tıp Merkezi is a medical clinic entity for KKTC.",
+      "website": "https://www.nistipmerkezi.com",
+      "url": "/entities/nis-tip-merkezi/",
+      "api": "/api/entities/nis-tip-merkezi.json",
+      "verified_claims": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "restaurant",
+  "updated": "2026-06-30T15:59:47.909Z",
+  "entities": [
+    {
+      "id": "epic-burger",
+      "name": "Epic Burger",
+      "summary": "Epic Burger is a restaurant entity for KKTC.",
+      "website": "https://www.instagram.com/epicburgercyprus",
+      "url": "/entities/epic-burger/",
+      "api": "/api/entities/epic-burger.json",
+      "verified_claims": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "trading-company",
+  "updated": "2026-06-30T15:59:47.909Z",
+  "entities": [
+    {
+      "id": "enlightened-trading",
+      "name": "Enlightened Trading",
+      "summary": "Enlightened Trading is a trading company entity for KKTC.",
+      "website": "https://www.facebook.com/enlightened.trading.3",
+      "url": "/entities/enlightened-trading/",
+      "api": "/api/entities/enlightened-trading.json",
+      "verified_claims": 3
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "etik-lab",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:01.412Z",
+  "name": "Etik Lab",
+  "summary": "Etik Lab is a laboratory entity for KKTC.",
+  "categories": [
+    "laboratory"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://etiklab.net",
+  "claims": [
+    {
+      "id": "claim_e601fa590c465593",
+      "claim": "Etik Lab operates an official website at etiklab.net.",
+      "claim_type": "contact",
+      "status": "partially_verified",
+      "evidence": [
+        "https://etiklab.net"
+      ],
+      "confidence": 0.82,
+      "risk_level": "high",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_83766a9596539759",
+      "claim": "Etik Lab is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "partially_verified",
+      "evidence": [
+        "https://etiklab.net"
+      ],
+      "confidence": 0.82,
+      "risk_level": "high",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_c105ba2989bc1659",
+      "claim": "Etik Lab is categorized as laboratory.",
+      "claim_type": "category",
+      "status": "partially_verified",
+      "evidence": [
+        "https://etiklab.net"
+      ],
+      "confidence": 0.82,
+      "risk_level": "high",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_75a0afe6ee47f577",
+      "entity_id": "etik-lab",
+      "url": "https://etiklab.net",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:00.592Z",
+      "title": "Etik Laboratuvarı - Bilimin Işığında İleri Teknoloji | Güvenilir Tanı Hizmetleri",
+      "text_excerpt": "Etik Laboratuvarı olarak modern altyapımız ve uzman kadromuzla güvenilir tanı hizmetleri sunuyoruz. Hızlı sonuçlar, yüksek doğruluk oranı, evde numune alma hizmeti.",
+      "hash": "2508c116982aeda096e669ce68cd33dae52475f94d0cfc55d770f05ad5604dc3"
+    },
+    {
+      "id": "source_7165f99e1c7e3f5f",
+      "entity_id": "etik-lab",
+      "url": "https://www.instagram.com/etik.lab",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:00.883Z",
+      "title": "Etik Laboratuvarı (&#064;etik.lab) • Instagram photos and videos",
+      "text_excerpt": "Etik Laboratuvarı (&#064;etik.lab) • Instagram photos and videos",
+      "hash": "992dcee01bf02c7595fd8a256d811d80ccab74ae39623672c70450d9ecf8547f"
+    },
+    {
+      "id": "source_957602f701920237",
+      "entity_id": "etik-lab",
+      "url": "https://www.facebook.com/etiklaboratuvari",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:01.411Z",
+      "title": "Etik Laboratuvarı | Nicosia",
+      "text_excerpt": "Etik Laboratuvar&#x131;, &#x39b;&#x3b5;&#x3c5;&#x3ba;&#x3c9;&#x3c3;&#x3af;&#x3b1;. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 640 &#xb7; 92 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 1 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. Etik Laboratuvar&#x131;. Modern teknoloji, g&#xfc;venilir sonu&#xe7;lar.",
+      "hash": "84dfd52aaa7dba99511474d33b061bfb3c6a8068268a3200507517f6443bd9f1"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 0,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "laboratory"
+  ],
+  "sources": [
+    {
+      "id": "source_75a0afe6ee47f577",
+      "entity_id": "etik-lab",
+      "url": "https://etiklab.net",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:00.592Z",
+      "title": "Etik Laboratuvarı - Bilimin Işığında İleri Teknoloji | Güvenilir Tanı Hizmetleri",
+      "text_excerpt": "Etik Laboratuvarı olarak modern altyapımız ve uzman kadromuzla güvenilir tanı hizmetleri sunuyoruz. Hızlı sonuçlar, yüksek doğruluk oranı, evde numune alma hizmeti.",
+      "hash": "2508c116982aeda096e669ce68cd33dae52475f94d0cfc55d770f05ad5604dc3"
+    },
+    {
+      "id": "source_7165f99e1c7e3f5f",
+      "entity_id": "etik-lab",
+      "url": "https://www.instagram.com/etik.lab",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:00.883Z",
+      "title": "Etik Laboratuvarı (&#064;etik.lab) • Instagram photos and videos",
+      "text_excerpt": "Etik Laboratuvarı (&#064;etik.lab) • Instagram photos and videos",
+      "hash": "992dcee01bf02c7595fd8a256d811d80ccab74ae39623672c70450d9ecf8547f"
+    },
+    {
+      "id": "source_957602f701920237",
+      "entity_id": "etik-lab",
+      "url": "https://www.facebook.com/etiklaboratuvari",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:01.411Z",
+      "title": "Etik Laboratuvarı | Nicosia",
+      "text_excerpt": "Etik Laboratuvar&#x131;, &#x39b;&#x3b5;&#x3c5;&#x3ba;&#x3c9;&#x3c3;&#x3af;&#x3b1;. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 640 &#xb7; 92 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 1 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. Etik Laboratuvar&#x131;. Modern teknoloji, g&#xfc;venilir sonu&#xe7;lar.",
+      "hash": "84dfd52aaa7dba99511474d33b061bfb3c6a8068268a3200507517f6443bd9f1"
+    }
+  ]
+}

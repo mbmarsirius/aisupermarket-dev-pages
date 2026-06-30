@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "currency-exchange",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "monex-exchange",
+      "name": "Monex Exchange",
+      "summary": "Monex Exchange is a currency exchange entity for KKTC.",
+      "website": "https://monexcyprus.com",
+      "url": "/entities/monex-exchange/",
+      "api": "/api/entities/monex-exchange.json",
+      "verified_claims": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "broadcasting",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "digiturk-kibris",
+      "name": "Digiturk Kıbrıs",
+      "summary": "Digiturk Kıbrıs is a broadcasting entity for KKTC.",
+      "website": "https://digiturkkibris.com",
+      "url": "/entities/digiturk-kibris/",
+      "api": "/api/entities/digiturk-kibris.json",
+      "verified_claims": 3
+    }
+  ]
+}

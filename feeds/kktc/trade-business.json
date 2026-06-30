@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "trade-business",
+  "updated": "2026-06-30T15:59:47.909Z",
+  "entities": [
+    {
+      "id": "ner-ticaret",
+      "name": "Ner Ticaret",
+      "summary": "Ner Ticaret is a trade business entity for KKTC.",
+      "website": "https://www.volza.com/company-profile/ner-ticaret-limited-90510898",
+      "url": "/entities/ner-ticaret/",
+      "api": "/api/entities/ner-ticaret.json",
+      "verified_claims": 3
+    }
+  ]
+}

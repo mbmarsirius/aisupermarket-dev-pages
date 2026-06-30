@@ -1,0 +1,131 @@
+{
+  "id": "korinium",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:13.871Z",
+  "name": "Korinium",
+  "summary": "Korinium is a hospitality golf entity for KKTC.",
+  "categories": [
+    "hospitality golf"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html",
+  "claims": [
+    {
+      "id": "claim_55b864f882f924d5",
+      "claim": "Korinium operates an official website at www.tripadvisor.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_4bee5211cb4a1ec7",
+      "claim": "Korinium is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_1127c0cd41ee86a8",
+      "claim": "Korinium is categorized as hospitality golf.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_afde6319f50a9116",
+      "entity_id": "korinium",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:12.942Z",
+      "title": "tripadvisor.com",
+      "text_excerpt": "tripadvisor.com Please enable JS and disable any ad blocker",
+      "hash": "987233713f835a979d47f65c964322fea86e3f0ea77da782ec6c80cb8b40a4a3"
+    },
+    {
+      "id": "source_5dd1407e965f02aa",
+      "entity_id": "korinium",
+      "url": "https://www.golfify.io/courses/korinium-golf-club",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:13.393Z",
+      "title": "Korinium Golf Club, Girne - Full Scorecard and Ratings",
+      "text_excerpt": "View key data including course &amp; slope ratings, detailed scorecard, tee yardages, lengths, par and handicap indexes, contact information, directions and more",
+      "hash": "1b76e5a7b3a8bc7f22cac196338e1a0969417c4dac8e101ffb84d268f7d62fb5"
+    },
+    {
+      "id": "source_e2cbba3d1758fc75",
+      "entity_id": "korinium",
+      "url": "https://fullgolf.com/en/golf-course/cyprus/girne/kyrenia/korinium",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:13.871Z",
+      "title": "Korinium Golf Club in Esentepe, Kyrenia, Cyprus",
+      "text_excerpt": "Experience golfing in a picturesque setting at Korinium Golf Club in Kyrenia, with stunning views of the Mediterranean Sea and Besparmak mountains.",
+      "hash": "a1d8b65dd9715e3473149a3081b187e10f7c4a2c7206eb6a341d5634737b84ae"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "hospitality golf"
+  ],
+  "sources": [
+    {
+      "id": "source_afde6319f50a9116",
+      "entity_id": "korinium",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:12.942Z",
+      "title": "tripadvisor.com",
+      "text_excerpt": "tripadvisor.com Please enable JS and disable any ad blocker",
+      "hash": "987233713f835a979d47f65c964322fea86e3f0ea77da782ec6c80cb8b40a4a3"
+    },
+    {
+      "id": "source_5dd1407e965f02aa",
+      "entity_id": "korinium",
+      "url": "https://www.golfify.io/courses/korinium-golf-club",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:13.393Z",
+      "title": "Korinium Golf Club, Girne - Full Scorecard and Ratings",
+      "text_excerpt": "View key data including course &amp; slope ratings, detailed scorecard, tee yardages, lengths, par and handicap indexes, contact information, directions and more",
+      "hash": "1b76e5a7b3a8bc7f22cac196338e1a0969417c4dac8e101ffb84d268f7d62fb5"
+    },
+    {
+      "id": "source_e2cbba3d1758fc75",
+      "entity_id": "korinium",
+      "url": "https://fullgolf.com/en/golf-course/cyprus/girne/kyrenia/korinium",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:13.871Z",
+      "title": "Korinium Golf Club in Esentepe, Kyrenia, Cyprus",
+      "text_excerpt": "Experience golfing in a picturesque setting at Korinium Golf Club in Kyrenia, with stunning views of the Mediterranean Sea and Besparmak mountains.",
+      "hash": "a1d8b65dd9715e3473149a3081b187e10f7c4a2c7206eb6a341d5634737b84ae"
+    }
+  ]
+}

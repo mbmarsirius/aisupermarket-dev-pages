@@ -1,0 +1,133 @@
+{
+  "id": "korvenue-kyrenian",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:14.896Z",
+  "name": "Korvenue Kyrenian",
+  "summary": "Korvenue Kyrenian is a construction entity for KKTC.",
+  "categories": [
+    "construction"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "http://www.korvenue.com",
+  "claims": [
+    {
+      "id": "claim_5918359ca9d8137e",
+      "claim": "Korvenue Kyrenian operates an official website at www.korvenue.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "http://www.korvenue.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_ef33f6757f20367e",
+      "claim": "Korvenue Kyrenian is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.korvenue.com/korvenue.php"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_b8536ec721838535",
+      "claim": "Korvenue Kyrenian is categorized as construction.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "http://www.korvenue.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_25e680a682aa23a6",
+      "entity_id": "korvenue-kyrenian",
+      "url": "http://www.korvenue.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:14.100Z",
+      "title": "Korvenue Kyrenian",
+      "text_excerpt": "Korvenue Kyrenian Ana Sayfa Korman Construction Korvenue Proje Hakkında Konut Seçenekleri Sosyal Alanlar ve Tesisler --> Lokasyon Galeri Satış Bilgileri --> Menü Girne'nin Merkezinde, Girne'nin Yeni Merkezi Yükseliyor! Girne’nin ve Kuzey Kıbrıs’ın geleceğine değer katan eşsiz bir yatırım fırsatı. Şehrin değerini biliyor; ona değer katıyoruz. Proje Hakkında Şimdi, şehrin en özel noktasında yerinizi alın! Korvenue, sadece bir proje değil, şehrin merkezinde yeni bir yaşam… Proje Ayrıntıları 01 Lokasyon Daha Fazla 02 Konut Seçenekleri Daha Fazla 03 İç Mekan Daha Fazla × Kuzey Kıbrıs'ın gözbebeği Girne Şehrin değerini biliyor; ona değer katıyoruz. Girne… Tarihin, doğanın ve modern hayatın kesiştiği eşsiz bir şehir. Ve şimdi, bu şehrin tam kalbinde yeni bir değer yükseliyor: Korvenue. Dağların i",
+      "hash": "ca6201d04bbf1c498d8d016a80842fef7729ffa0f3c1e366b3976df3a7699817"
+    },
+    {
+      "id": "source_c7c59221ef0f4092",
+      "entity_id": "korvenue-kyrenian",
+      "url": "https://www.facebook.com/people/Korvenue-Kyrenian/61571462774957",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:14.755Z",
+      "title": "Korvenue Kyrenian | Kyrenia",
+      "text_excerpt": "Korvenue Kyrenian, Kyrenia. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 126. Korvenue, sadece bir konut projesi de&#x11f;il, Girne&#x2019;nin ve Kuzey K&#x131;br&#x131;s&#x2019;&#x131;n gelece&#x11f;ine de&#x11f;er katan bir ya&#x15f;am...",
+      "hash": "47a0fe0db128cf4fcf761f8488378a6b233dff32212bf696ed6da0f6f661bb40"
+    },
+    {
+      "id": "source_134181da94f1380e",
+      "entity_id": "korvenue-kyrenian",
+      "url": "https://www.korvenue.com/korvenue.php",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:14.895Z",
+      "title": "Korvenue Kyrenian seed source",
+      "text_excerpt": "Korvenue Kyrenian\nconstruction\nKKTC",
+      "hash": "46a43c0a581f5c5483744c58ee25f02a0d234d2aac3c325f85fc698f72247d16",
+      "fetch_error": "fetch failed"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "construction"
+  ],
+  "sources": [
+    {
+      "id": "source_25e680a682aa23a6",
+      "entity_id": "korvenue-kyrenian",
+      "url": "http://www.korvenue.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:14.100Z",
+      "title": "Korvenue Kyrenian",
+      "text_excerpt": "Korvenue Kyrenian Ana Sayfa Korman Construction Korvenue Proje Hakkında Konut Seçenekleri Sosyal Alanlar ve Tesisler --> Lokasyon Galeri Satış Bilgileri --> Menü Girne'nin Merkezinde, Girne'nin Yeni Merkezi Yükseliyor! Girne’nin ve Kuzey Kıbrıs’ın geleceğine değer katan eşsiz bir yatırım fırsatı. Şehrin değerini biliyor; ona değer katıyoruz. Proje Hakkında Şimdi, şehrin en özel noktasında yerinizi alın! Korvenue, sadece bir proje değil, şehrin merkezinde yeni bir yaşam… Proje Ayrıntıları 01 Lokasyon Daha Fazla 02 Konut Seçenekleri Daha Fazla 03 İç Mekan Daha Fazla × Kuzey Kıbrıs'ın gözbebeği Girne Şehrin değerini biliyor; ona değer katıyoruz. Girne… Tarihin, doğanın ve modern hayatın kesiştiği eşsiz bir şehir. Ve şimdi, bu şehrin tam kalbinde yeni bir değer yükseliyor: Korvenue. Dağların i",
+      "hash": "ca6201d04bbf1c498d8d016a80842fef7729ffa0f3c1e366b3976df3a7699817"
+    },
+    {
+      "id": "source_c7c59221ef0f4092",
+      "entity_id": "korvenue-kyrenian",
+      "url": "https://www.facebook.com/people/Korvenue-Kyrenian/61571462774957",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:14.755Z",
+      "title": "Korvenue Kyrenian | Kyrenia",
+      "text_excerpt": "Korvenue Kyrenian, Kyrenia. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 126. Korvenue, sadece bir konut projesi de&#x11f;il, Girne&#x2019;nin ve Kuzey K&#x131;br&#x131;s&#x2019;&#x131;n gelece&#x11f;ine de&#x11f;er katan bir ya&#x15f;am...",
+      "hash": "47a0fe0db128cf4fcf761f8488378a6b233dff32212bf696ed6da0f6f661bb40"
+    },
+    {
+      "id": "source_134181da94f1380e",
+      "entity_id": "korvenue-kyrenian",
+      "url": "https://www.korvenue.com/korvenue.php",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:14.895Z",
+      "title": "Korvenue Kyrenian seed source",
+      "text_excerpt": "Korvenue Kyrenian\nconstruction\nKKTC",
+      "hash": "46a43c0a581f5c5483744c58ee25f02a0d234d2aac3c325f85fc698f72247d16",
+      "fetch_error": "fetch failed"
+    }
+  ]
+}

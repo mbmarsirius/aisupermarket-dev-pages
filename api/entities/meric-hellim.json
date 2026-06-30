@@ -1,0 +1,131 @@
+{
+  "id": "meric-hellim",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:19.991Z",
+  "name": "Meriç Hellim",
+  "summary": "Meriç Hellim is a food producer entity for KKTC.",
+  "categories": [
+    "food producer"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345",
+  "claims": [
+    {
+      "id": "claim_2351d62e5958a63a",
+      "claim": "Meriç Hellim operates an official website at www.trendyol.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_5d5969bd7f79a3b2",
+      "claim": "Meriç Hellim is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_f24be543b0cd8ccc",
+      "claim": "Meriç Hellim is categorized as food producer.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_3b7dd64d5eb9340b",
+      "entity_id": "meric-hellim",
+      "url": "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:19.224Z",
+      "title": "Meriç Hellim source",
+      "text_excerpt": "",
+      "hash": "1d9ed3cda089a9dbf2a49b612337fba89c5269ead2de825e2374f2d502c418b0"
+    },
+    {
+      "id": "source_68db2960677567e8",
+      "entity_id": "meric-hellim",
+      "url": "https://www.instagram.com/mericdairy",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:19.811Z",
+      "title": "Meriç Dairy (&#064;mericdairy) • Instagram photos and videos",
+      "text_excerpt": "Meriç Dairy (&#064;mericdairy) • Instagram photos and videos",
+      "hash": "5c0f5d286b3aaff318340b0a13c12fd4235a2efbc7aeb036c88a17679d8d4ec5"
+    },
+    {
+      "id": "source_4057dcc4a639271d",
+      "entity_id": "meric-hellim",
+      "url": "https://www.trendyol.com/meric-hellim-peyniri-y-s284547",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:19.990Z",
+      "title": "Meriç Hellim source",
+      "text_excerpt": "",
+      "hash": "1d9ed3cda089a9dbf2a49b612337fba89c5269ead2de825e2374f2d502c418b0"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "food producer"
+  ],
+  "sources": [
+    {
+      "id": "source_3b7dd64d5eb9340b",
+      "entity_id": "meric-hellim",
+      "url": "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:19.224Z",
+      "title": "Meriç Hellim source",
+      "text_excerpt": "",
+      "hash": "1d9ed3cda089a9dbf2a49b612337fba89c5269ead2de825e2374f2d502c418b0"
+    },
+    {
+      "id": "source_68db2960677567e8",
+      "entity_id": "meric-hellim",
+      "url": "https://www.instagram.com/mericdairy",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:19.811Z",
+      "title": "Meriç Dairy (&#064;mericdairy) • Instagram photos and videos",
+      "text_excerpt": "Meriç Dairy (&#064;mericdairy) • Instagram photos and videos",
+      "hash": "5c0f5d286b3aaff318340b0a13c12fd4235a2efbc7aeb036c88a17679d8d4ec5"
+    },
+    {
+      "id": "source_4057dcc4a639271d",
+      "entity_id": "meric-hellim",
+      "url": "https://www.trendyol.com/meric-hellim-peyniri-y-s284547",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:19.990Z",
+      "title": "Meriç Hellim source",
+      "text_excerpt": "",
+      "hash": "1d9ed3cda089a9dbf2a49b612337fba89c5269ead2de825e2374f2d502c418b0"
+    }
+  ]
+}

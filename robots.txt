@@ -10,3 +10,4 @@ Allow: /feeds/
 Allow: /markets/
 Allow: /answers/
 Allow: /entities/
+Allow: /factory/

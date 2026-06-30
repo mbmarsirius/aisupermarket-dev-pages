@@ -1,0 +1,131 @@
+{
+  "id": "enlightened-trading",
+  "version": 1,
+  "generated_at": "2026-06-30T15:58:58.820Z",
+  "name": "Enlightened Trading",
+  "summary": "Enlightened Trading is a trading company entity for KKTC.",
+  "categories": [
+    "trading company"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.facebook.com/enlightened.trading.3",
+  "claims": [
+    {
+      "id": "claim_559acf17b9dbcd9b",
+      "claim": "Enlightened Trading operates an official website at www.facebook.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.facebook.com/enlightened.trading.3"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_49b865900147346e",
+      "claim": "Enlightened Trading is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.facebook.com/enlightened.trading.3"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_21f2f38e308a6b0b",
+      "claim": "Enlightened Trading is categorized as trading company.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.facebook.com/enlightened.trading.3"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_09b1b6c88e937f8a",
+      "entity_id": "enlightened-trading",
+      "url": "https://www.facebook.com/enlightened.trading.3",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:58:57.795Z",
+      "title": "Enlightened Trading (&#064;enlightened.trading.3) • Facebook, Connect with friends",
+      "text_excerpt": "&#x39f; Enlightened Trading &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9; &#x3c3;&#x3c4;&#x3bf; Facebook. &#x393;&#x3c1;&#x3b1;&#x3c6;&#x3c4;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3c3;&#x3c4;&#x3bf; Facebook &#x3b3;&#x3b9;&#x3b1; &#x3bd;&#x3b1; &#x3c3;&#x3c5;&#x3bd;&#x3b4;&#x3b5;&#x3b8;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3bc;&#x3b5; &#x3c4;&#x3bf;&#x3bd; Enlightened Trading &#x3ba;&#x3b1;&#x3b9; &#x3ac;&#x3bb;&#x3bb;&#x3b1; &#x3ac;&#x3c4;&#x3bf;&#x3bc;&#x3b1; &#x3c0;&#x3bf;&#x3c5; &#x3af;&#x3c3;&#x3c9;&#x3c2; &#x3b3;&#x3bd;&#x3c9;&#x3c1;&#x3af;&#x3b6;&#x3b5;&#x3c4;&#x3b5;. &#x3a4;&#x3bf;...",
+      "hash": "88d7d8a4bb93abef2c7bd9a288fd23d7535b72df426c583ed8903acad24e358c"
+    },
+    {
+      "id": "source_11c9584d2be338cc",
+      "entity_id": "enlightened-trading",
+      "url": "https://cy.linkedin.com/in/talat-yavuz-2474441b3",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:58:58.275Z",
+      "title": "Enlightened Trading source",
+      "text_excerpt": "",
+      "hash": "86797c6f1a4c4cdc0e8f5cf765394379134d6b97185c48132d649f3b10b0cea1"
+    },
+    {
+      "id": "source_89bc4444499933db",
+      "entity_id": "enlightened-trading",
+      "url": "https://www.arti392.com/enlightened-tradingden-khydye-bagis",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:58:58.819Z",
+      "title": "Enlightened Trading’den KHYD’ye bağış - vatangazetesi.com - KIBRIS&#039;IN HABER PORTALI",
+      "text_excerpt": "Kanser Hastalarına Yardım Derneği (KHYD) Başkanı Raziye Kocaismail derneğin kapanmakla karşı karşıya kaldığı duyurusunun yapılmasından sonrasında  medyanın büyük gücünü yanlarında bulduklarını belirterek, derneğin kapanmaması yönünde duyarlı davranan  herkese teşekkür etti.",
+      "hash": "38ab6ced846cf591d419b1cbfe7c62d075dffb416f234802353a016220f60c28"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "trading company"
+  ],
+  "sources": [
+    {
+      "id": "source_09b1b6c88e937f8a",
+      "entity_id": "enlightened-trading",
+      "url": "https://www.facebook.com/enlightened.trading.3",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:58:57.795Z",
+      "title": "Enlightened Trading (&#064;enlightened.trading.3) • Facebook, Connect with friends",
+      "text_excerpt": "&#x39f; Enlightened Trading &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9; &#x3c3;&#x3c4;&#x3bf; Facebook. &#x393;&#x3c1;&#x3b1;&#x3c6;&#x3c4;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3c3;&#x3c4;&#x3bf; Facebook &#x3b3;&#x3b9;&#x3b1; &#x3bd;&#x3b1; &#x3c3;&#x3c5;&#x3bd;&#x3b4;&#x3b5;&#x3b8;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3bc;&#x3b5; &#x3c4;&#x3bf;&#x3bd; Enlightened Trading &#x3ba;&#x3b1;&#x3b9; &#x3ac;&#x3bb;&#x3bb;&#x3b1; &#x3ac;&#x3c4;&#x3bf;&#x3bc;&#x3b1; &#x3c0;&#x3bf;&#x3c5; &#x3af;&#x3c3;&#x3c9;&#x3c2; &#x3b3;&#x3bd;&#x3c9;&#x3c1;&#x3af;&#x3b6;&#x3b5;&#x3c4;&#x3b5;. &#x3a4;&#x3bf;...",
+      "hash": "88d7d8a4bb93abef2c7bd9a288fd23d7535b72df426c583ed8903acad24e358c"
+    },
+    {
+      "id": "source_11c9584d2be338cc",
+      "entity_id": "enlightened-trading",
+      "url": "https://cy.linkedin.com/in/talat-yavuz-2474441b3",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:58:58.275Z",
+      "title": "Enlightened Trading source",
+      "text_excerpt": "",
+      "hash": "86797c6f1a4c4cdc0e8f5cf765394379134d6b97185c48132d649f3b10b0cea1"
+    },
+    {
+      "id": "source_89bc4444499933db",
+      "entity_id": "enlightened-trading",
+      "url": "https://www.arti392.com/enlightened-tradingden-khydye-bagis",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:58:58.819Z",
+      "title": "Enlightened Trading’den KHYD’ye bağış - vatangazetesi.com - KIBRIS&#039;IN HABER PORTALI",
+      "text_excerpt": "Kanser Hastalarına Yardım Derneği (KHYD) Başkanı Raziye Kocaismail derneğin kapanmakla karşı karşıya kaldığı duyurusunun yapılmasından sonrasında  medyanın büyük gücünü yanlarında bulduklarını belirterek, derneğin kapanmaması yönünde duyarlı davranan  herkese teşekkür etti.",
+      "hash": "38ab6ced846cf591d419b1cbfe7c62d075dffb416f234802353a016220f60c28"
+    }
+  ]
+}

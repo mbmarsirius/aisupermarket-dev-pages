@@ -1,0 +1,131 @@
+{
+  "id": "inara-concept",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:12.181Z",
+  "name": "İnara Concept",
+  "summary": "İnara Concept is a furniture entity for KKTC.",
+  "categories": [
+    "furniture"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.instagram.com/inaraconcept",
+  "claims": [
+    {
+      "id": "claim_9addeff34a693636",
+      "claim": "İnara Concept operates an official website at www.instagram.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.instagram.com/inaraconcept"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_5b79c5b376869960",
+      "claim": "İnara Concept is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.instagram.com/inaraconcept"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_11443270b89071bd",
+      "claim": "İnara Concept is categorized as furniture.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.instagram.com/inaraconcept"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_139bb69c02d2e731",
+      "entity_id": "inara-concept",
+      "url": "https://www.instagram.com/inaraconcept",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:10.305Z",
+      "title": "Inara Concept (&#064;inaraconcept) • Instagram photos and videos",
+      "text_excerpt": "Inara Concept (&#064;inaraconcept) • Instagram photos and videos",
+      "hash": "5cce5d2d0481bbd1c8e1cf439b929a8af687121342d76b73df51a118dd3c4396"
+    },
+    {
+      "id": "source_5aed102865329966",
+      "entity_id": "inara-concept",
+      "url": "https://www.youtube.com/watch?v=JjWE9QLXAOM",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:11.283Z",
+      "title": "İNARA CONCEPT KAPILARINI AÇIYOR - YouTube",
+      "text_excerpt": "İNARA CONCEPT KAPILARINI AÇIYOR",
+      "hash": "5ff12ea4ffb9c1bc9d54643cf6f78877dc972600aa876f308135ef40e3ef6392"
+    },
+    {
+      "id": "source_8152fa0ea4e31a45",
+      "entity_id": "inara-concept",
+      "url": "https://www.facebook.com/61580429417430",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:12.180Z",
+      "title": "İnara Concept | Asagı Dikmen",
+      "text_excerpt": "&#x130;nara Concept, Asag&#x131; Dikmen. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 36 &#xb7; 8 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1;. &#x130;nara Concept | Zaman, Sadelik, Ruh.\nBu bir ba&#x15f;lang&#x131;&#xe7;. &#x130;lkbaharda g&#xf6;r&#xfc;&#x15f;mek &#xfc;zere.",
+      "hash": "dbfe006e0bb9a588c62a78eaadb326c2576a187ccde3b2a0d5108290b5881e36"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "furniture"
+  ],
+  "sources": [
+    {
+      "id": "source_139bb69c02d2e731",
+      "entity_id": "inara-concept",
+      "url": "https://www.instagram.com/inaraconcept",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:10.305Z",
+      "title": "Inara Concept (&#064;inaraconcept) • Instagram photos and videos",
+      "text_excerpt": "Inara Concept (&#064;inaraconcept) • Instagram photos and videos",
+      "hash": "5cce5d2d0481bbd1c8e1cf439b929a8af687121342d76b73df51a118dd3c4396"
+    },
+    {
+      "id": "source_5aed102865329966",
+      "entity_id": "inara-concept",
+      "url": "https://www.youtube.com/watch?v=JjWE9QLXAOM",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:11.283Z",
+      "title": "İNARA CONCEPT KAPILARINI AÇIYOR - YouTube",
+      "text_excerpt": "İNARA CONCEPT KAPILARINI AÇIYOR",
+      "hash": "5ff12ea4ffb9c1bc9d54643cf6f78877dc972600aa876f308135ef40e3ef6392"
+    },
+    {
+      "id": "source_8152fa0ea4e31a45",
+      "entity_id": "inara-concept",
+      "url": "https://www.facebook.com/61580429417430",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:12.180Z",
+      "title": "İnara Concept | Asagı Dikmen",
+      "text_excerpt": "&#x130;nara Concept, Asag&#x131; Dikmen. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 36 &#xb7; 8 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1;. &#x130;nara Concept | Zaman, Sadelik, Ruh.\nBu bir ba&#x15f;lang&#x131;&#xe7;. &#x130;lkbaharda g&#xf6;r&#xfc;&#x15f;mek &#xfc;zere.",
+      "hash": "dbfe006e0bb9a588c62a78eaadb326c2576a187ccde3b2a0d5108290b5881e36"
+    }
+  ]
+}

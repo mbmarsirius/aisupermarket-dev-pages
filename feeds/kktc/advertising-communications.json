@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "advertising-communications",
+  "updated": "2026-06-30T15:59:47.906Z",
+  "entities": [
+    {
+      "id": "slogan-kurumsal",
+      "name": "Slogan Kurumsal",
+      "summary": "Slogan Kurumsal is a advertising communications entity for KKTC.",
+      "website": "https://cy.linkedin.com/company/slogan-kurumsal",
+      "url": "/entities/slogan-kurumsal/",
+      "api": "/api/entities/slogan-kurumsal.json",
+      "verified_claims": 3
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ovis-coffees",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:38.946Z",
+  "name": "Ovis Coffees",
+  "summary": "Ovis Coffees is a coffee entity for KKTC.",
+  "categories": [
+    "coffee"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.oviscoffees.co.uk/about-us",
+  "claims": [
+    {
+      "id": "claim_2e9e50188eb22b19",
+      "claim": "Ovis Coffees operates an official website at www.oviscoffees.co.uk.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.oviscoffees.co.uk/about-us"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_74118778a84b7e7a",
+      "claim": "Ovis Coffees is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.oviscoffees.co.uk/about-us"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_cfc81f92ec0813ef",
+      "claim": "Ovis Coffees is categorized as coffee.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.oviscoffees.co.uk/about-us"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_86980069674d5ae2",
+      "entity_id": "ovis-coffees",
+      "url": "https://www.oviscoffees.co.uk/about-us",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:34.453Z",
+      "title": "About Us",
+      "text_excerpt": "About Us About Menu Sign Up Order Pause. Refresh. Repeat. Ovis Coffees — a stylish café from Cyprus, now in Tottenham Court Road. We bring Mediterranean spirit, specialty coffee, super lattes, and healthy bites like smoothies, chia pots, and salads — all served with soul and style. Coffees by name and by nature We&#x27;re dedicated to serving great coffee, passionately made in beautiful environments. We focus on every aspect of our coffee from sourcing to roasting, brewing and enjoying, to cultivate an experience that leaves you feeling bright and flourishing. 2024 From Cyprus to London: The Birth of Ovis Coffees Ovis Coffees , originally founded in Cyprus with several outlets across the island, expanded to the UK in October 2024 — bringing the Mediterranean spirit to London. With its cont",
+      "hash": "d27cd9433106f9383ee5b3ecc9838293cd6d6703ceee32706d4dd61a98ee2744"
+    },
+    {
+      "id": "source_ec1804cc2948d3ec",
+      "entity_id": "ovis-coffees",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g190378-d27473830-Reviews-Ovis_Coffees-Kyrenia_Kyrenia_District.html",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:36.292Z",
+      "title": "tripadvisor.com",
+      "text_excerpt": "tripadvisor.com Please enable JS and disable any ad blocker",
+      "hash": "987233713f835a979d47f65c964322fea86e3f0ea77da782ec6c80cb8b40a4a3"
+    },
+    {
+      "id": "source_0c0a96e532f6c70b",
+      "entity_id": "ovis-coffees",
+      "url": "https://www.instagram.com/oviscoffees/?hl=en",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:38.945Z",
+      "title": "OVIS COFFEES. (&#064;oviscoffees) • Instagram photos and videos",
+      "text_excerpt": "OVIS COFFEES. (&#064;oviscoffees) • Instagram photos and videos",
+      "hash": "47828a3b1be14ba2a5df30888412e530ff66283de939b36409078dd1740fc9e8"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "coffee"
+  ],
+  "sources": [
+    {
+      "id": "source_86980069674d5ae2",
+      "entity_id": "ovis-coffees",
+      "url": "https://www.oviscoffees.co.uk/about-us",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:34.453Z",
+      "title": "About Us",
+      "text_excerpt": "About Us About Menu Sign Up Order Pause. Refresh. Repeat. Ovis Coffees — a stylish café from Cyprus, now in Tottenham Court Road. We bring Mediterranean spirit, specialty coffee, super lattes, and healthy bites like smoothies, chia pots, and salads — all served with soul and style. Coffees by name and by nature We&#x27;re dedicated to serving great coffee, passionately made in beautiful environments. We focus on every aspect of our coffee from sourcing to roasting, brewing and enjoying, to cultivate an experience that leaves you feeling bright and flourishing. 2024 From Cyprus to London: The Birth of Ovis Coffees Ovis Coffees , originally founded in Cyprus with several outlets across the island, expanded to the UK in October 2024 — bringing the Mediterranean spirit to London. With its cont",
+      "hash": "d27cd9433106f9383ee5b3ecc9838293cd6d6703ceee32706d4dd61a98ee2744"
+    },
+    {
+      "id": "source_ec1804cc2948d3ec",
+      "entity_id": "ovis-coffees",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g190378-d27473830-Reviews-Ovis_Coffees-Kyrenia_Kyrenia_District.html",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:36.292Z",
+      "title": "tripadvisor.com",
+      "text_excerpt": "tripadvisor.com Please enable JS and disable any ad blocker",
+      "hash": "987233713f835a979d47f65c964322fea86e3f0ea77da782ec6c80cb8b40a4a3"
+    },
+    {
+      "id": "source_0c0a96e532f6c70b",
+      "entity_id": "ovis-coffees",
+      "url": "https://www.instagram.com/oviscoffees/?hl=en",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:38.945Z",
+      "title": "OVIS COFFEES. (&#064;oviscoffees) • Instagram photos and videos",
+      "text_excerpt": "OVIS COFFEES. (&#064;oviscoffees) • Instagram photos and videos",
+      "hash": "47828a3b1be14ba2a5df30888412e530ff66283de939b36409078dd1740fc9e8"
+    }
+  ]
+}

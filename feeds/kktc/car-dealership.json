@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "car-dealership",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "link-cars",
+      "name": "Link Cars",
+      "summary": "Link Cars is a car dealership entity for KKTC.",
+      "website": "https://www.kktcarabam.com/uye/link-cars",
+      "url": "/entities/link-cars/",
+      "api": "/api/entities/link-cars.json",
+      "verified_claims": 3
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "haber-kibris",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:04.793Z",
+  "name": "Haber Kıbrıs",
+  "summary": "Haber Kıbrıs is a news portal entity for KKTC.",
+  "categories": [
+    "news portal"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://haberkibris.com",
+  "claims": [
+    {
+      "id": "claim_71ba9ea44139d21d",
+      "claim": "Haber Kıbrıs operates an official website at haberkibris.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://haberkibris.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_daa073e78eaa99fd",
+      "claim": "Haber Kıbrıs is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://haberkibris.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_094356a8e354a121",
+      "claim": "Haber Kıbrıs is categorized as news portal.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://haberkibris.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_93003f0d2697c1d5",
+      "entity_id": "haber-kibris",
+      "url": "https://haberkibris.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:03.849Z",
+      "title": "Kıbrıs Haberleri | KKTC Son Dakika ve Gazete Manşetleri",
+      "text_excerpt": "Haber Kıbrıs en güncel haliyle geniş güçlü kadrosu ile haber kıbrısta gazeteler kktc son dakika manşet haberler gündem",
+      "hash": "a08d33dd601b4b01af4fc95cd765c306794c72a432deb90428367e68989f4990"
+    },
+    {
+      "id": "source_1ccb83ba416d32e4",
+      "entity_id": "haber-kibris",
+      "url": "https://www.facebook.com/kibrishaberleri/?locale=tr_TR",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:04.270Z",
+      "title": "Haber Kıbrıs | Gönyeli",
+      "text_excerpt": "Haber K&#x131;br&#x131;s, G&#xf6;nyeli, Lefko&#x15f;a. 268.713 be&#x11f;enme &#xb7; 34.968 ki&#x15f;i bunun hakk&#x131;nda konu&#x15f;uyor &#xb7; 547 ki&#x15f;i buradayd&#x131;. K&#x131;br&#x131;s&#039;&#x131;n ve D&#xfc;nya&#039;n&#x131;n haberi",
+      "hash": "231b0c57a2eeeecfc196c2ea60ac6fccd9a3c417abd4d7062baef7394c897f20"
+    },
+    {
+      "id": "source_eada52605a78f795",
+      "entity_id": "haber-kibris",
+      "url": "https://www.instagram.com/haberkibrishk",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:04.793Z",
+      "title": "HABER KIBRIS (&#064;haberkibrishk) • Instagram photos and videos",
+      "text_excerpt": "HABER KIBRIS (&#064;haberkibrishk) • Instagram photos and videos",
+      "hash": "974c80801b2c6e584091864921cb15fe0b4f02a9543da63e62b7d0125d9aaa1e"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "news portal"
+  ],
+  "sources": [
+    {
+      "id": "source_93003f0d2697c1d5",
+      "entity_id": "haber-kibris",
+      "url": "https://haberkibris.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:03.849Z",
+      "title": "Kıbrıs Haberleri | KKTC Son Dakika ve Gazete Manşetleri",
+      "text_excerpt": "Haber Kıbrıs en güncel haliyle geniş güçlü kadrosu ile haber kıbrısta gazeteler kktc son dakika manşet haberler gündem",
+      "hash": "a08d33dd601b4b01af4fc95cd765c306794c72a432deb90428367e68989f4990"
+    },
+    {
+      "id": "source_1ccb83ba416d32e4",
+      "entity_id": "haber-kibris",
+      "url": "https://www.facebook.com/kibrishaberleri/?locale=tr_TR",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:04.270Z",
+      "title": "Haber Kıbrıs | Gönyeli",
+      "text_excerpt": "Haber K&#x131;br&#x131;s, G&#xf6;nyeli, Lefko&#x15f;a. 268.713 be&#x11f;enme &#xb7; 34.968 ki&#x15f;i bunun hakk&#x131;nda konu&#x15f;uyor &#xb7; 547 ki&#x15f;i buradayd&#x131;. K&#x131;br&#x131;s&#039;&#x131;n ve D&#xfc;nya&#039;n&#x131;n haberi",
+      "hash": "231b0c57a2eeeecfc196c2ea60ac6fccd9a3c417abd4d7062baef7394c897f20"
+    },
+    {
+      "id": "source_eada52605a78f795",
+      "entity_id": "haber-kibris",
+      "url": "https://www.instagram.com/haberkibrishk",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:04.793Z",
+      "title": "HABER KIBRIS (&#064;haberkibrishk) • Instagram photos and videos",
+      "text_excerpt": "HABER KIBRIS (&#064;haberkibrishk) • Instagram photos and videos",
+      "hash": "974c80801b2c6e584091864921cb15fe0b4f02a9543da63e62b7d0125d9aaa1e"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "coffee",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "ovis-coffees",
+      "name": "Ovis Coffees",
+      "summary": "Ovis Coffees is a coffee entity for KKTC.",
+      "website": "https://www.oviscoffees.co.uk/about-us",
+      "url": "/entities/ovis-coffees/",
+      "api": "/api/entities/ovis-coffees.json",
+      "verified_claims": 3
+    }
+  ]
+}

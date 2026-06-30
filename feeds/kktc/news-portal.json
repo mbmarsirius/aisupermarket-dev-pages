@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "news-portal",
+  "updated": "2026-06-30T15:59:47.908Z",
+  "entities": [
+    {
+      "id": "haber-kibris",
+      "name": "Haber Kıbrıs",
+      "summary": "Haber Kıbrıs is a news portal entity for KKTC.",
+      "website": "https://haberkibris.com",
+      "url": "/entities/haber-kibris/",
+      "api": "/api/entities/haber-kibris.json",
+      "verified_claims": 3
+    }
+  ]
+}

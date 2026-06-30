@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "market",
+  "updated": "2026-06-30T15:59:47.908Z",
+  "entities": [
+    {
+      "id": "ileli-market",
+      "name": "İleli Market",
+      "summary": "İleli Market is a market entity for KKTC.",
+      "website": "https://www.instagram.com/ilelisupermarket/?hl=en",
+      "url": "/entities/ileli-market/",
+      "api": "/api/entities/ileli-market.json",
+      "verified_claims": 3
+    }
+  ]
+}

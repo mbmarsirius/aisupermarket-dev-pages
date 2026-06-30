@@ -1,0 +1,131 @@
+{
+  "id": "link-cars",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:16.328Z",
+  "name": "Link Cars",
+  "summary": "Link Cars is a car dealership entity for KKTC.",
+  "categories": [
+    "car dealership"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.kktcarabam.com/uye/link-cars",
+  "claims": [
+    {
+      "id": "claim_5ff207d860ea0b6c",
+      "claim": "Link Cars operates an official website at www.kktcarabam.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.kktcarabam.com/uye/link-cars"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_3ff0fefb328d6f6b",
+      "claim": "Link Cars is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.kktcarabam.com/uye/link-cars"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_7adbcfefe2443156",
+      "claim": "Link Cars is categorized as car dealership.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.kktcarabam.com/uye/link-cars"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_6f43db84a910be83",
+      "entity_id": "link-cars",
+      "url": "https://www.kktcarabam.com/uye/link-cars",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:15.108Z",
+      "title": "Just a moment...",
+      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
+      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+    },
+    {
+      "id": "source_6622a6288d471a9b",
+      "entity_id": "link-cars",
+      "url": "https://www.facebook.com/p/Link-Cars-100091327444873",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:15.521Z",
+      "title": "Link Cars | Lefkosa",
+      "text_excerpt": "Link Cars, Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 1.438. Ortak&#xf6;y-Lefko&#x15f;a",
+      "hash": "c405644ce91c895e558b14ba4a267aecbaeafaedd2b3e17a6adbf2cf8e86091b"
+    },
+    {
+      "id": "source_be2c5e8e950dbab1",
+      "entity_id": "link-cars",
+      "url": "https://www.japanesecartrade.com/truslinkcars",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:16.327Z",
+      "title": "Link Cars source",
+      "text_excerpt": "--> &nbsp;Favorite &nbsp;Remove Login / Signup Powered by &nbsp;&nbsp; Japanese CarTrade .com --> --> Home About Us Inquiry Japan Used Cars for Zambia Send Inquiry for Used Cars --> --> Search &nbsp; More Filter Trust Link Cars & Logistics, Lusaka, Zambia &nbsp;Japan Time: &times; Welcome to Trust Link Cars & Logistics Trust Link Cars & Logistics Company specializes in sourcing and distributing motor vehicles from reputable dealers in Japan to Zambia. In addition to vehicle procurement, we offer comprehensive shipping services to ensure safe and timely delivery. Read More Contact Details Address Chelstone Mubanga Road No. 928, Lusaka, Zambia, 10101 More Info. To buy any vehicle from Trust Link Cars & Logistics, Please submit below inquiry form. Vehicle & Contact Information Make * Model * ",
+      "hash": "1d891d98e53aea18d3ac888ac6f5d8004eec04f32ef02cd67f109cbcbd8157b0"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "car dealership"
+  ],
+  "sources": [
+    {
+      "id": "source_6f43db84a910be83",
+      "entity_id": "link-cars",
+      "url": "https://www.kktcarabam.com/uye/link-cars",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:15.108Z",
+      "title": "Just a moment...",
+      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
+      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+    },
+    {
+      "id": "source_6622a6288d471a9b",
+      "entity_id": "link-cars",
+      "url": "https://www.facebook.com/p/Link-Cars-100091327444873",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:15.521Z",
+      "title": "Link Cars | Lefkosa",
+      "text_excerpt": "Link Cars, Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 1.438. Ortak&#xf6;y-Lefko&#x15f;a",
+      "hash": "c405644ce91c895e558b14ba4a267aecbaeafaedd2b3e17a6adbf2cf8e86091b"
+    },
+    {
+      "id": "source_be2c5e8e950dbab1",
+      "entity_id": "link-cars",
+      "url": "https://www.japanesecartrade.com/truslinkcars",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:16.327Z",
+      "title": "Link Cars source",
+      "text_excerpt": "--> &nbsp;Favorite &nbsp;Remove Login / Signup Powered by &nbsp;&nbsp; Japanese CarTrade .com --> --> Home About Us Inquiry Japan Used Cars for Zambia Send Inquiry for Used Cars --> --> Search &nbsp; More Filter Trust Link Cars & Logistics, Lusaka, Zambia &nbsp;Japan Time: &times; Welcome to Trust Link Cars & Logistics Trust Link Cars & Logistics Company specializes in sourcing and distributing motor vehicles from reputable dealers in Japan to Zambia. In addition to vehicle procurement, we offer comprehensive shipping services to ensure safe and timely delivery. Read More Contact Details Address Chelstone Mubanga Road No. 928, Lusaka, Zambia, 10101 More Info. To buy any vehicle from Trust Link Cars & Logistics, Please submit below inquiry form. Vehicle & Contact Information Make * Model * ",
+      "hash": "1d891d98e53aea18d3ac888ac6f5d8004eec04f32ef02cd67f109cbcbd8157b0"
+    }
+  ]
+}

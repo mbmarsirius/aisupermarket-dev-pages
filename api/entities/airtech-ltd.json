@@ -1,0 +1,131 @@
+{
+  "id": "airtech-ltd",
+  "version": 1,
+  "generated_at": "2026-06-30T15:58:53.312Z",
+  "name": "Airtech Ltd.",
+  "summary": "Airtech Ltd. is a courier logistics entity for KKTC.",
+  "categories": [
+    "courier logistics"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.airtechkibris.com/airtech-ltd-hakkimizda",
+  "claims": [
+    {
+      "id": "claim_a95d69a50f0c66f3",
+      "claim": "Airtech Ltd. operates an official website at www.airtechkibris.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.airtechkibris.com/airtech-ltd-hakkimizda"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_1f5797450421cb46",
+      "claim": "Airtech Ltd. is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.airtechkibris.com/airtech-ltd-hakkimizda"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_35929647dd52ba1e",
+      "claim": "Airtech Ltd. is categorized as courier logistics.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.airtechkibris.com/airtech-ltd-hakkimizda"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_cbb03694f0f32d3e",
+      "entity_id": "airtech-ltd",
+      "url": "https://www.airtechkibris.com/airtech-ltd-hakkimizda",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:58:52.209Z",
+      "title": "Airtech | airtechkibris.com",
+      "text_excerpt": "Airtech | airtechkibris.com --> Loading ... --> English Germany Ukrainian --> 0 392 444 33 66 info@airtechkibris.com Bizi takip et: Menu Hakkımızda Kurye --> Markalarımız Puma İletişim Merak ettiklerinizi bize sorabilirsiniz. Mail Gönder Gönder İnsan Kaynakları İŞ BAŞVURUSU İletişim Adreslerimiz 0 392 444 33 66 info@airtechkibris.com online destek Kızılay, Lefkoşa 0392 444 33 Salih Mecit Sokak No:5 Çerkez Group Merkez Airtech Hakkında Airtech Kimdir? Airtech’in faaliyet alanları 2 temel başlık altında toplanıyor; Mobil Teknoloji ve Kurye. Mobil Teknoloji uzmanı olarak; Kuzey Kıbrıs Turkcell'in resmi cihaz distribütörü ve bayisiyiz. Iphone ve Samsung markalarının bir çok modelini ithal edip Turkcell müşterileri ile buluşturuyoruz. Bunun yanında Lefkoşa'da iki adet Turkcell İletişim Merkezi ",
+      "hash": "7ad7548add255942528cc58a5add36086ffa073dff653cc15298ef2c2c7de17a"
+    },
+    {
+      "id": "source_82a91df241080492",
+      "entity_id": "airtech-ltd",
+      "url": "https://www.facebook.com/AirtechKibris",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:58:52.936Z",
+      "title": "Airtech Kıbrıs | Lefkosa",
+      "text_excerpt": "Airtech K&#x131;br&#x131;s, Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 14.589 &#xb7; 105 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 126 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. Puma Master Franchise\n&#x1f4cd;Puma Lefko&#x15f;a - https://bit.ly/4eaw5hT,...",
+      "hash": "3f05a03405bf7f98cd5220712236490d9d4d2deb595e91041ac27d9af13465f6"
+    },
+    {
+      "id": "source_0d3dd3ee0e5c6202",
+      "entity_id": "airtech-ltd",
+      "url": "https://www.facebook.com/AirtechKibris/photos/kuzey-k%C4%B1br%C4%B1s%C4%B1n-en-b%C3%BCy%C3%BCk-ve-en-kurumsal-kurye-a%C4%9F%C4%B1-airtechtesadece-d%C3%BCn-bug%C3%BCn-de%C4%9Fil/2222249611245627",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:58:53.311Z",
+      "title": "Facebook",
+      "text_excerpt": "Kuzey K&#x131;br&#x131;s&#039;&#x131;n en b&#xfc;y&#xfc;k ve en kurumsal kurye a&#x11f;&#x131; Airtech&#039;te.\n\nSadece d&#xfc;n, bug&#xfc;n de&#x11f;il, 21 y&#x131;ll&#x131;k kurye deneyimimizle hizmetinizdeyiz.\n\nMa&#x11f;azadan...",
+      "hash": "7b0d1fd0cc32483d7cbee9e1944d0024881b53a350d44ad0d4995846a94cbf68"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "courier logistics"
+  ],
+  "sources": [
+    {
+      "id": "source_cbb03694f0f32d3e",
+      "entity_id": "airtech-ltd",
+      "url": "https://www.airtechkibris.com/airtech-ltd-hakkimizda",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:58:52.209Z",
+      "title": "Airtech | airtechkibris.com",
+      "text_excerpt": "Airtech | airtechkibris.com --> Loading ... --> English Germany Ukrainian --> 0 392 444 33 66 info@airtechkibris.com Bizi takip et: Menu Hakkımızda Kurye --> Markalarımız Puma İletişim Merak ettiklerinizi bize sorabilirsiniz. Mail Gönder Gönder İnsan Kaynakları İŞ BAŞVURUSU İletişim Adreslerimiz 0 392 444 33 66 info@airtechkibris.com online destek Kızılay, Lefkoşa 0392 444 33 Salih Mecit Sokak No:5 Çerkez Group Merkez Airtech Hakkında Airtech Kimdir? Airtech’in faaliyet alanları 2 temel başlık altında toplanıyor; Mobil Teknoloji ve Kurye. Mobil Teknoloji uzmanı olarak; Kuzey Kıbrıs Turkcell'in resmi cihaz distribütörü ve bayisiyiz. Iphone ve Samsung markalarının bir çok modelini ithal edip Turkcell müşterileri ile buluşturuyoruz. Bunun yanında Lefkoşa'da iki adet Turkcell İletişim Merkezi ",
+      "hash": "7ad7548add255942528cc58a5add36086ffa073dff653cc15298ef2c2c7de17a"
+    },
+    {
+      "id": "source_82a91df241080492",
+      "entity_id": "airtech-ltd",
+      "url": "https://www.facebook.com/AirtechKibris",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:58:52.936Z",
+      "title": "Airtech Kıbrıs | Lefkosa",
+      "text_excerpt": "Airtech K&#x131;br&#x131;s, Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 14.589 &#xb7; 105 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 126 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. Puma Master Franchise\n&#x1f4cd;Puma Lefko&#x15f;a - https://bit.ly/4eaw5hT,...",
+      "hash": "3f05a03405bf7f98cd5220712236490d9d4d2deb595e91041ac27d9af13465f6"
+    },
+    {
+      "id": "source_0d3dd3ee0e5c6202",
+      "entity_id": "airtech-ltd",
+      "url": "https://www.facebook.com/AirtechKibris/photos/kuzey-k%C4%B1br%C4%B1s%C4%B1n-en-b%C3%BCy%C3%BCk-ve-en-kurumsal-kurye-a%C4%9F%C4%B1-airtechtesadece-d%C3%BCn-bug%C3%BCn-de%C4%9Fil/2222249611245627",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:58:53.311Z",
+      "title": "Facebook",
+      "text_excerpt": "Kuzey K&#x131;br&#x131;s&#039;&#x131;n en b&#xfc;y&#xfc;k ve en kurumsal kurye a&#x11f;&#x131; Airtech&#039;te.\n\nSadece d&#xfc;n, bug&#xfc;n de&#x11f;il, 21 y&#x131;ll&#x131;k kurye deneyimimizle hizmetinizdeyiz.\n\nMa&#x11f;azadan...",
+      "hash": "7b0d1fd0cc32483d7cbee9e1944d0024881b53a350d44ad0d4995846a94cbf68"
+    }
+  ]
+}

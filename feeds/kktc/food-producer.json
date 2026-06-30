@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "food-producer",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "meric-hellim",
+      "name": "Meriç Hellim",
+      "summary": "Meriç Hellim is a food producer entity for KKTC.",
+      "website": "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345",
+      "url": "/entities/meric-hellim/",
+      "api": "/api/entities/meric-hellim.json",
+      "verified_claims": 3
+    }
+  ]
+}

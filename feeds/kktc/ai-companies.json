@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "ai-companies",
-  "updated": "2026-06-27T10:13:23Z",
+  "updated": "2026-06-30T15:59:47.907Z",
   "entities": [
     {
       "id": "marsirius-ai",
@@ -10,7 +10,7 @@
       "website": "https://www.marsirius.ai",
       "url": "/entities/marsirius-ai/",
       "api": "/api/entities/marsirius-ai.json",
-      "verified_claims": 6
+      "verified_claims": 9
     }
   ]
 }

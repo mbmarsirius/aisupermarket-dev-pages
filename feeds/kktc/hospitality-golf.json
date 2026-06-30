@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "hospitality-golf",
+  "updated": "2026-06-30T15:59:47.908Z",
+  "entities": [
+    {
+      "id": "korinium",
+      "name": "Korinium",
+      "summary": "Korinium is a hospitality golf entity for KKTC.",
+      "website": "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html",
+      "url": "/entities/korinium/",
+      "api": "/api/entities/korinium.json",
+      "verified_claims": 3
+    }
+  ]
+}

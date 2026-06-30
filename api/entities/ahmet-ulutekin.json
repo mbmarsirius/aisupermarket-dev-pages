@@ -1,0 +1,131 @@
+{
+  "id": "ahmet-ulutekin",
+  "version": 1,
+  "generated_at": "2026-06-30T15:58:51.321Z",
+  "name": "Ahmet Ulutekin",
+  "summary": "Ahmet Ulutekin is a professional entity for KKTC.",
+  "categories": [
+    "professional"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://www.hangiev.com/ahmetulutekin/en",
+  "claims": [
+    {
+      "id": "claim_97a3e5a2675d3b6a",
+      "claim": "Ahmet Ulutekin operates an official website at www.hangiev.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.hangiev.com/ahmetulutekin/en"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_55b6048c75a9f772",
+      "claim": "Ahmet Ulutekin is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.hangiev.com/ahmetulutekin/en"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_167490cdffd10d40",
+      "claim": "Ahmet Ulutekin is categorized as professional.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://www.hangiev.com/ahmetulutekin/en"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_efa17d5f10c215ea",
+      "entity_id": "ahmet-ulutekin",
+      "url": "https://www.hangiev.com/ahmetulutekin/en",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:58:47.159Z",
+      "title": "Just a moment...",
+      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
+      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+    },
+    {
+      "id": "source_c2976c0535ed49c7",
+      "entity_id": "ahmet-ulutekin",
+      "url": "https://www.cb.com.tr/danismanlar/ahmet-ali-ulutekin-2825?srsltid=AfmBOoqUpkKiVNII8Kf6WwyLNvetm_sxWNF7-w7kwVNsHRaFEVOh4jos",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:58:48.269Z",
+      "title": "Ahmet Ali Ulutekin | Gayrimenkul Danışmanı - CB NOVEST",
+      "text_excerpt": "CB NOVEST ofisindeki Ahmet Ali Ulutekin ile profesyonel emlak danışmanlığı hizmetlerine ulaşın. G&#252;venilir ve deneyimli bir ofis kullanıcısından hizmet almak i&#231;in l&#252;tfen ofisimizle veya Ahmet Ali Ulutekin ile iletişime ge&#231;in!",
+      "hash": "b11ede025e9bfded9faf3dda946211c0431f1619cbc253351237d9d23e866b95"
+    },
+    {
+      "id": "source_cc65a55bd9036d43",
+      "entity_id": "ahmet-ulutekin",
+      "url": "https://kimibilin.com/f/dr-ahmet-ulutekin",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:58:51.318Z",
+      "title": "Dr. Ahmet Ulutekin - Lefkoşa Klinik ve Doktor Kuzey Kıbrıs (KKTC) - İş Yeri / Firma Bilgileri | kimibilin.com",
+      "text_excerpt": "Dr. Ahmet Ulutekin Lefkoşa Klinik ve Doktor adres, telefon, e-mail, sosyal medya iletişim bilgileri, müşterileri değerlendirmeleri ve çalışma saatleri",
+      "hash": "dd96b2f03d2c12749abc5964112e2be26936455494adf00e71964d573688ca46"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "professional"
+  ],
+  "sources": [
+    {
+      "id": "source_efa17d5f10c215ea",
+      "entity_id": "ahmet-ulutekin",
+      "url": "https://www.hangiev.com/ahmetulutekin/en",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:58:47.159Z",
+      "title": "Just a moment...",
+      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
+      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+    },
+    {
+      "id": "source_c2976c0535ed49c7",
+      "entity_id": "ahmet-ulutekin",
+      "url": "https://www.cb.com.tr/danismanlar/ahmet-ali-ulutekin-2825?srsltid=AfmBOoqUpkKiVNII8Kf6WwyLNvetm_sxWNF7-w7kwVNsHRaFEVOh4jos",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:58:48.269Z",
+      "title": "Ahmet Ali Ulutekin | Gayrimenkul Danışmanı - CB NOVEST",
+      "text_excerpt": "CB NOVEST ofisindeki Ahmet Ali Ulutekin ile profesyonel emlak danışmanlığı hizmetlerine ulaşın. G&#252;venilir ve deneyimli bir ofis kullanıcısından hizmet almak i&#231;in l&#252;tfen ofisimizle veya Ahmet Ali Ulutekin ile iletişime ge&#231;in!",
+      "hash": "b11ede025e9bfded9faf3dda946211c0431f1619cbc253351237d9d23e866b95"
+    },
+    {
+      "id": "source_cc65a55bd9036d43",
+      "entity_id": "ahmet-ulutekin",
+      "url": "https://kimibilin.com/f/dr-ahmet-ulutekin",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:58:51.318Z",
+      "title": "Dr. Ahmet Ulutekin - Lefkoşa Klinik ve Doktor Kuzey Kıbrıs (KKTC) - İş Yeri / Firma Bilgileri | kimibilin.com",
+      "text_excerpt": "Dr. Ahmet Ulutekin Lefkoşa Klinik ve Doktor adres, telefon, e-mail, sosyal medya iletişim bilgileri, müşterileri değerlendirmeleri ve çalışma saatleri",
+      "hash": "dd96b2f03d2c12749abc5964112e2be26936455494adf00e71964d573688ca46"
+    }
+  ]
+}

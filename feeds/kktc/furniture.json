@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "furniture",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "inara-concept",
+      "name": "İnara Concept",
+      "summary": "İnara Concept is a furniture entity for KKTC.",
+      "website": "https://www.instagram.com/inaraconcept",
+      "url": "/entities/inara-concept/",
+      "api": "/api/entities/inara-concept.json",
+      "verified_claims": 3
+    }
+  ]
+}

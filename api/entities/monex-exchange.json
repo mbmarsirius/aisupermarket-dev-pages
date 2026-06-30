@@ -1,0 +1,131 @@
+{
+  "id": "monex-exchange",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:22.921Z",
+  "name": "Monex Exchange",
+  "summary": "Monex Exchange is a currency exchange entity for KKTC.",
+  "categories": [
+    "currency exchange"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://monexcyprus.com",
+  "claims": [
+    {
+      "id": "claim_4b0a8271bc249157",
+      "claim": "Monex Exchange operates an official website at monexcyprus.com.",
+      "claim_type": "contact",
+      "status": "partially_verified",
+      "evidence": [
+        "https://monexcyprus.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "high",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_60a8f5d65b7d2225",
+      "claim": "Monex Exchange is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "partially_verified",
+      "evidence": [
+        "https://monexcyprus.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "high",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_29751b8c6fd5d92d",
+      "claim": "Monex Exchange is categorized as currency exchange.",
+      "claim_type": "category",
+      "status": "partially_verified",
+      "evidence": [
+        "https://www.bordeaux-tourism.co.uk/shop-and-services/monex-exchange-gambetta.html"
+      ],
+      "confidence": 0.68,
+      "risk_level": "high",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_0b787288b6c4db64",
+      "entity_id": "monex-exchange",
+      "url": "https://monexcyprus.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:22.185Z",
+      "title": "Monexhange Exchange Office",
+      "text_excerpt": "Kyrenia’s Specialist Exchange",
+      "hash": "1c9b44a667d86edfb55e7b3862f25504f192ed175396c84669b75f9eed7bfdf0"
+    },
+    {
+      "id": "source_242303416455630a",
+      "entity_id": "monex-exchange",
+      "url": "https://wise.com/gb/currency-exchange/maroni",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:22.515Z",
+      "title": "Best places to exchange money in Maroni, Cyprus",
+      "text_excerpt": "If you’re headed to Maroni, you may want to know where to change your money for Euro at the best exchange rate. Discover physical and digital options for spending abroad.",
+      "hash": "1b7a23c175713dd4082a8e3b4c1d0293b3392d689b09b31b61484cc608057295"
+    },
+    {
+      "id": "source_e78a5ea1d7af9a73",
+      "entity_id": "monex-exchange",
+      "url": "https://www.bordeaux-tourism.co.uk/shop-and-services/monex-exchange-gambetta.html",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:22.920Z",
+      "title": "Monex Exchange - Gambetta | Bordeaux Tourism &amp; Conventions",
+      "text_excerpt": "Monex Exchange: Your Trusted Partner for Currency Exchange and Precious Metals in Bordeaux",
+      "hash": "d614b066ebf9ec455e6ffdaf3393cbceb11144f43ca7546cd19c11ac22ad9785"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 0,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "currency exchange"
+  ],
+  "sources": [
+    {
+      "id": "source_0b787288b6c4db64",
+      "entity_id": "monex-exchange",
+      "url": "https://monexcyprus.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:22.185Z",
+      "title": "Monexhange Exchange Office",
+      "text_excerpt": "Kyrenia’s Specialist Exchange",
+      "hash": "1c9b44a667d86edfb55e7b3862f25504f192ed175396c84669b75f9eed7bfdf0"
+    },
+    {
+      "id": "source_242303416455630a",
+      "entity_id": "monex-exchange",
+      "url": "https://wise.com/gb/currency-exchange/maroni",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:22.515Z",
+      "title": "Best places to exchange money in Maroni, Cyprus",
+      "text_excerpt": "If you’re headed to Maroni, you may want to know where to change your money for Euro at the best exchange rate. Discover physical and digital options for spending abroad.",
+      "hash": "1b7a23c175713dd4082a8e3b4c1d0293b3392d689b09b31b61484cc608057295"
+    },
+    {
+      "id": "source_e78a5ea1d7af9a73",
+      "entity_id": "monex-exchange",
+      "url": "https://www.bordeaux-tourism.co.uk/shop-and-services/monex-exchange-gambetta.html",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:22.920Z",
+      "title": "Monex Exchange - Gambetta | Bordeaux Tourism &amp; Conventions",
+      "text_excerpt": "Monex Exchange: Your Trusted Partner for Currency Exchange and Precious Metals in Bordeaux",
+      "hash": "d614b066ebf9ec455e6ffdaf3393cbceb11144f43ca7546cd19c11ac22ad9785"
+    }
+  ]
+}

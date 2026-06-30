@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "courier-logistics",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "airtech-ltd",
+      "name": "Airtech Ltd.",
+      "summary": "Airtech Ltd. is a courier logistics entity for KKTC.",
+      "website": "https://www.airtechkibris.com/airtech-ltd-hakkimizda",
+      "url": "/entities/airtech-ltd/",
+      "api": "/api/entities/airtech-ltd.json",
+      "verified_claims": 3
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "mehmet-saydam",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:18.945Z",
+  "name": "Mehmet Saydam",
+  "summary": "Mehmet Saydam is a professional entity for KKTC.",
+  "categories": [
+    "professional"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://mehmetsaydam.com/biyografi",
+  "claims": [
+    {
+      "id": "claim_5b15f930ffdd3412",
+      "claim": "Mehmet Saydam operates an official website at mehmetsaydam.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://mehmetsaydam.com/biyografi"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_a7b75e5fe34750c2",
+      "claim": "Mehmet Saydam is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://mehmetsaydam.com/biyografi"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_2a700bc898e6e510",
+      "claim": "Mehmet Saydam is categorized as professional.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://mehmetsaydam.com/biyografi"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_13e4836034d6774b",
+      "entity_id": "mehmet-saydam",
+      "url": "https://mehmetsaydam.com/biyografi",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:16.720Z",
+      "title": "Biyografi - Mehmet SAYDAM",
+      "text_excerpt": "Biyografi - Mehmet SAYDAM İçeriğe geç Çitköy Sok.No:4 Yenişehir/Lefkoşa KKTC +90 533 826 11 44 mehmetsaydam@grs.com.tr Anasayfa Biyografi Saydam &#038; Co SAYTEV Mehmet SAYDAM Anasayfa Biyografi Saydam &#038; Co SAYTEV © 2019 Biyografi © 2026 Mehmet SAYDAM. Created for free using WordPress and Colibri",
+      "hash": "c546d3c0f5d13d86c44bd1856391861646191f26f394a1a0f23dbec4444f5d53"
+    },
+    {
+      "id": "source_ad7966e66198790f",
+      "entity_id": "mehmet-saydam",
+      "url": "https://www.grs.com.tr",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:18.580Z",
+      "title": "Ana Sayfa | G. Saydam &amp; Co.",
+      "text_excerpt": "Ana Sayfa | G. Saydam &amp; Co. Ana içeriğe atla Ana Sayfa Hizmetler Toggle submenu Hizmetler Hedefinize ulaşmada size yardımcı olalım. Hemen bizi arayıp hizmetlerimiz hakkında bilgi sahibi olabilirsiniz. Muhasebe ve Mali İşler Yönetimi Muhasebe İşlemleri Bordro Hizmetleri Vergi Mevzuatına Uyumluluk ve Beyannameleri Vergi Muhasebesi Şirket Kuruluş ve Tescil İşlemleri Mali Tabloların / Raporların Hazırlanması Vergi ve Finans Hukuku İşlemleri Vergi Danışmanlığı Yatırım Teşvik Mevzuatı Hizmetleri ve Danışmanlık Uluslararası Vergi Hukuğu Danışmanlığı &quot;Kurumlar, Gelir Vergisi ve KDV Danışmanlık Hizmetleri Denetim Bağımsız Denetim Hizmetleri Kurumsal Raporlama Hizmetleri Şirket Durum Değerlendirme Raporu Diğer Danışmanlık Hizmetleri Bütçe Planlama ve Yönetimi İş ve Sosyal Güvenlik Hizmetler",
+      "hash": "d81fc60011b73946bcb6a5804c8221fbf4002b18eec50b967d170b9b934e7b07"
+    },
+    {
+      "id": "source_1296875fd3c2dc33",
+      "entity_id": "mehmet-saydam",
+      "url": "https://cy.linkedin.com/in/mehmet-saydam-3a253a107",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:18.944Z",
+      "title": "Mehmet Saydam source",
+      "text_excerpt": "",
+      "hash": "efec41a5970322a6feac55daaae01d44e92b483335b8f33f4c1a0c176ae3fa4f"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "professional"
+  ],
+  "sources": [
+    {
+      "id": "source_13e4836034d6774b",
+      "entity_id": "mehmet-saydam",
+      "url": "https://mehmetsaydam.com/biyografi",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:16.720Z",
+      "title": "Biyografi - Mehmet SAYDAM",
+      "text_excerpt": "Biyografi - Mehmet SAYDAM İçeriğe geç Çitköy Sok.No:4 Yenişehir/Lefkoşa KKTC +90 533 826 11 44 mehmetsaydam@grs.com.tr Anasayfa Biyografi Saydam &#038; Co SAYTEV Mehmet SAYDAM Anasayfa Biyografi Saydam &#038; Co SAYTEV © 2019 Biyografi © 2026 Mehmet SAYDAM. Created for free using WordPress and Colibri",
+      "hash": "c546d3c0f5d13d86c44bd1856391861646191f26f394a1a0f23dbec4444f5d53"
+    },
+    {
+      "id": "source_ad7966e66198790f",
+      "entity_id": "mehmet-saydam",
+      "url": "https://www.grs.com.tr",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:18.580Z",
+      "title": "Ana Sayfa | G. Saydam &amp; Co.",
+      "text_excerpt": "Ana Sayfa | G. Saydam &amp; Co. Ana içeriğe atla Ana Sayfa Hizmetler Toggle submenu Hizmetler Hedefinize ulaşmada size yardımcı olalım. Hemen bizi arayıp hizmetlerimiz hakkında bilgi sahibi olabilirsiniz. Muhasebe ve Mali İşler Yönetimi Muhasebe İşlemleri Bordro Hizmetleri Vergi Mevzuatına Uyumluluk ve Beyannameleri Vergi Muhasebesi Şirket Kuruluş ve Tescil İşlemleri Mali Tabloların / Raporların Hazırlanması Vergi ve Finans Hukuku İşlemleri Vergi Danışmanlığı Yatırım Teşvik Mevzuatı Hizmetleri ve Danışmanlık Uluslararası Vergi Hukuğu Danışmanlığı &quot;Kurumlar, Gelir Vergisi ve KDV Danışmanlık Hizmetleri Denetim Bağımsız Denetim Hizmetleri Kurumsal Raporlama Hizmetleri Şirket Durum Değerlendirme Raporu Diğer Danışmanlık Hizmetleri Bütçe Planlama ve Yönetimi İş ve Sosyal Güvenlik Hizmetler",
+      "hash": "d81fc60011b73946bcb6a5804c8221fbf4002b18eec50b967d170b9b934e7b07"
+    },
+    {
+      "id": "source_1296875fd3c2dc33",
+      "entity_id": "mehmet-saydam",
+      "url": "https://cy.linkedin.com/in/mehmet-saydam-3a253a107",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:18.944Z",
+      "title": "Mehmet Saydam source",
+      "text_excerpt": "",
+      "hash": "efec41a5970322a6feac55daaae01d44e92b483335b8f33f4c1a0c176ae3fa4f"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "laboratory",
+  "updated": "2026-06-30T15:59:47.908Z",
+  "entities": [
+    {
+      "id": "etik-lab",
+      "name": "Etik Lab",
+      "summary": "Etik Lab is a laboratory entity for KKTC.",
+      "website": "https://etiklab.net",
+      "url": "/entities/etik-lab/",
+      "api": "/api/entities/etik-lab.json",
+      "verified_claims": 0
+    }
+  ]
+}

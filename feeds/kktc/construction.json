@@ -1,0 +1,16 @@
+{
+  "market": "kktc",
+  "category": "construction",
+  "updated": "2026-06-30T15:59:47.907Z",
+  "entities": [
+    {
+      "id": "korvenue-kyrenian",
+      "name": "Korvenue Kyrenian",
+      "summary": "Korvenue Kyrenian is a construction entity for KKTC.",
+      "website": "http://www.korvenue.com",
+      "url": "/entities/korvenue-kyrenian/",
+      "api": "/api/entities/korvenue-kyrenian.json",
+      "verified_claims": 3
+    }
+  ]
+}

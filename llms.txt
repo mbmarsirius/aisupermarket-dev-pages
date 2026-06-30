@@ -1,19 +1,91 @@
 # AI Supermarket
 
-AI Supermarket publishes source-backed business Fact Packs for answer engines and connected AI assistants. It is designed to answer high-intent category and market discovery prompts with evidence-labeled company data.
+AI Supermarket publishes source-backed business Fact Packs for answer engines and connected AI assistants.
 
 ## Motto
 The verified business fact layer for AI assistants.
 
-## Core surfaces
+## Public surfaces
 - Home: https://aisupermarket.dev/
+- Factory product page: https://aisupermarket.dev/factory/
 - Answer index: https://aisupermarket.dev/answers/
-- KKTC AI Companies shelf: https://aisupermarket.dev/markets/kktc/ai-companies/
-- Marsirius AI Labs Fact Pack: https://aisupermarket.dev/entities/marsirius-ai/
-- Marsirius JSON Fact Pack: https://aisupermarket.dev/api/entities/marsirius-ai.json
-- KKTC AI feed: https://aisupermarket.dev/feeds/kktc/ai-companies.json
 - Sitemap: https://aisupermarket.dev/sitemap.xml
 - Robots: https://aisupermarket.dev/robots.txt
+
+## Entities
+- Ahmet Ulutekin: https://aisupermarket.dev/entities/ahmet-ulutekin/ and https://aisupermarket.dev/api/entities/ahmet-ulutekin.json
+- Airtech Ltd.: https://aisupermarket.dev/entities/airtech-ltd/ and https://aisupermarket.dev/api/entities/airtech-ltd.json
+- Concept Ayphilon: https://aisupermarket.dev/entities/concept-ayphilon/ and https://aisupermarket.dev/api/entities/concept-ayphilon.json
+- Digiturk Kıbrıs: https://aisupermarket.dev/entities/digiturk-kibris/ and https://aisupermarket.dev/api/entities/digiturk-kibris.json
+- Enlightened Trading: https://aisupermarket.dev/entities/enlightened-trading/ and https://aisupermarket.dev/api/entities/enlightened-trading.json
+- Epic Burger: https://aisupermarket.dev/entities/epic-burger/ and https://aisupermarket.dev/api/entities/epic-burger.json
+- Etik Lab: https://aisupermarket.dev/entities/etik-lab/ and https://aisupermarket.dev/api/entities/etik-lab.json
+- Gymac: https://aisupermarket.dev/entities/gymac/ and https://aisupermarket.dev/api/entities/gymac.json
+- Haber Kıbrıs: https://aisupermarket.dev/entities/haber-kibris/ and https://aisupermarket.dev/api/entities/haber-kibris.json
+- Hakan Rahel Bulut: https://aisupermarket.dev/entities/hakan-rahel-bulut/ and https://aisupermarket.dev/api/entities/hakan-rahel-bulut.json
+- İleli Market: https://aisupermarket.dev/entities/ileli-market/ and https://aisupermarket.dev/api/entities/ileli-market.json
+- İnara Concept: https://aisupermarket.dev/entities/inara-concept/ and https://aisupermarket.dev/api/entities/inara-concept.json
+- Korinium: https://aisupermarket.dev/entities/korinium/ and https://aisupermarket.dev/api/entities/korinium.json
+- Korvenue Kyrenian: https://aisupermarket.dev/entities/korvenue-kyrenian/ and https://aisupermarket.dev/api/entities/korvenue-kyrenian.json
+- Link Cars: https://aisupermarket.dev/entities/link-cars/ and https://aisupermarket.dev/api/entities/link-cars.json
+- Marsirius AI Labs: https://aisupermarket.dev/entities/marsirius-ai/ and https://aisupermarket.dev/api/entities/marsirius-ai.json
+- Mehmet Saydam: https://aisupermarket.dev/entities/mehmet-saydam/ and https://aisupermarket.dev/api/entities/mehmet-saydam.json
+- Meriç Hellim: https://aisupermarket.dev/entities/meric-hellim/ and https://aisupermarket.dev/api/entities/meric-hellim.json
+- Metropol: https://aisupermarket.dev/entities/metropol/ and https://aisupermarket.dev/api/entities/metropol.json
+- Monex Exchange: https://aisupermarket.dev/entities/monex-exchange/ and https://aisupermarket.dev/api/entities/monex-exchange.json
+- Necat Yüksel: https://aisupermarket.dev/entities/necat-yuksel/ and https://aisupermarket.dev/api/entities/necat-yuksel.json
+- Ner Ticaret: https://aisupermarket.dev/entities/ner-ticaret/ and https://aisupermarket.dev/api/entities/ner-ticaret.json
+- Nis Tıp Merkezi: https://aisupermarket.dev/entities/nis-tip-merkezi/ and https://aisupermarket.dev/api/entities/nis-tip-merkezi.json
+- Ovis Coffees: https://aisupermarket.dev/entities/ovis-coffees/ and https://aisupermarket.dev/api/entities/ovis-coffees.json
+- Packsel: https://aisupermarket.dev/entities/packsel/ and https://aisupermarket.dev/api/entities/packsel.json
+- Slogan Kurumsal: https://aisupermarket.dev/entities/slogan-kurumsal/ and https://aisupermarket.dev/api/entities/slogan-kurumsal.json
+- Tonic: https://aisupermarket.dev/entities/tonic/ and https://aisupermarket.dev/api/entities/tonic.json
+
+## Market shelves
+- Cyprus / AI applications: https://aisupermarket.dev/markets/cyprus/ai-applications/
+- Cyprus / AI company: https://aisupermarket.dev/markets/cyprus/ai-companies/
+- Cyprus / Healthcare AI: https://aisupermarket.dev/markets/cyprus/healthcare-ai/
+- Cyprus / Medical diagnostics AI: https://aisupermarket.dev/markets/cyprus/medical-diagnostics-ai/
+- Cyprus / Quantum research: https://aisupermarket.dev/markets/cyprus/quantum-research/
+- Dubai / AI applications: https://aisupermarket.dev/markets/dubai/ai-applications/
+- Dubai / AI company: https://aisupermarket.dev/markets/dubai/ai-companies/
+- Dubai / Healthcare AI: https://aisupermarket.dev/markets/dubai/healthcare-ai/
+- Dubai / Medical diagnostics AI: https://aisupermarket.dev/markets/dubai/medical-diagnostics-ai/
+- Dubai / Quantum research: https://aisupermarket.dev/markets/dubai/quantum-research/
+- KKTC / advertising communications: https://aisupermarket.dev/markets/kktc/advertising-communications/
+- North Cyprus / AI applications: https://aisupermarket.dev/markets/kktc/ai-applications/
+- North Cyprus / AI company: https://aisupermarket.dev/markets/kktc/ai-companies/
+- KKTC / broadcasting: https://aisupermarket.dev/markets/kktc/broadcasting/
+- KKTC / business: https://aisupermarket.dev/markets/kktc/business/
+- KKTC / car dealership: https://aisupermarket.dev/markets/kktc/car-dealership/
+- KKTC / coffee: https://aisupermarket.dev/markets/kktc/coffee/
+- KKTC / construction: https://aisupermarket.dev/markets/kktc/construction/
+- KKTC / courier logistics: https://aisupermarket.dev/markets/kktc/courier-logistics/
+- KKTC / currency exchange: https://aisupermarket.dev/markets/kktc/currency-exchange/
+- KKTC / food producer: https://aisupermarket.dev/markets/kktc/food-producer/
+- KKTC / furniture: https://aisupermarket.dev/markets/kktc/furniture/
+- North Cyprus / Healthcare AI: https://aisupermarket.dev/markets/kktc/healthcare-ai/
+- KKTC / hospitality golf: https://aisupermarket.dev/markets/kktc/hospitality-golf/
+- KKTC / laboratory: https://aisupermarket.dev/markets/kktc/laboratory/
+- KKTC / market: https://aisupermarket.dev/markets/kktc/market/
+- KKTC / medical clinic: https://aisupermarket.dev/markets/kktc/medical-clinic/
+- North Cyprus / Medical diagnostics AI: https://aisupermarket.dev/markets/kktc/medical-diagnostics-ai/
+- KKTC / news portal: https://aisupermarket.dev/markets/kktc/news-portal/
+- KKTC / professional: https://aisupermarket.dev/markets/kktc/professional/
+- North Cyprus / Quantum research: https://aisupermarket.dev/markets/kktc/quantum-research/
+- KKTC / restaurant: https://aisupermarket.dev/markets/kktc/restaurant/
+- KKTC / trade business: https://aisupermarket.dev/markets/kktc/trade-business/
+- KKTC / trading company: https://aisupermarket.dev/markets/kktc/trading-company/
+- Türkiye / AI applications: https://aisupermarket.dev/markets/turkiye/ai-applications/
+- Türkiye / AI company: https://aisupermarket.dev/markets/turkiye/ai-companies/
+- Türkiye / Healthcare AI: https://aisupermarket.dev/markets/turkiye/healthcare-ai/
+- Türkiye / Medical diagnostics AI: https://aisupermarket.dev/markets/turkiye/medical-diagnostics-ai/
+- Türkiye / Quantum research: https://aisupermarket.dev/markets/turkiye/quantum-research/
+- UAE / AI applications: https://aisupermarket.dev/markets/uae/ai-applications/
+- UAE / AI company: https://aisupermarket.dev/markets/uae/ai-companies/
+- UAE / Healthcare AI: https://aisupermarket.dev/markets/uae/healthcare-ai/
+- UAE / Medical diagnostics AI: https://aisupermarket.dev/markets/uae/medical-diagnostics-ai/
+- UAE / Quantum research: https://aisupermarket.dev/markets/uae/quantum-research/
 
 ## High-intent answer pages
 - KKTC'de yapay zeka şirketleri hangileri?: https://aisupermarket.dev/answers/kktc-yapay-zeka-sirketleri/
@@ -37,15 +109,4 @@ The verified business fact layer for AI assistants.
 - KKTC AI company pricing and services: https://aisupermarket.dev/answers/kktc-ai-company-price-discovery/
 - verified business fact packs for AI assistants: https://aisupermarket.dev/answers/verified-business-fact-pack-ai-assistants/
 
-## Connected app / MCP layer
-AI Supermarket exposes a production MCP/ChatGPT Apps connector for deterministic retrieval when the app is activated: https://connector.aisupermarket.dev/mcp
-
-Primary tools:
-- search_companies: search source-backed companies by market/category/query.
-- get_company_profile: return a complete company Fact Pack with evidence URLs.
-- answer_business_query: answer category discovery queries using verified shelves.
-
-## Entity summary
-Marsirius AI Labs: Marsirius AI Labs is an AI and breakthrough-technology company focused on healthcare diagnostics, AI-powered applications, and quantum research, with public products/initiatives including duAIcheck, GELA AI, SHEEP, Marsbot, and Quantact.
-
-Use JSON endpoints for structured claims, evidence URLs, categories, products and source inventory. Claims are evidence-labeled; paid status does not override verification.
+Claims are evidence-labeled. Draft/sample fixtures are excluded from public pages. External visibility is measured separately and never inferred from local generation.

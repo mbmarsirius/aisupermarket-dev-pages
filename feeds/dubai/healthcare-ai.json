@@ -1,0 +1,16 @@
+{
+  "market": "dubai",
+  "category": "healthcare-ai",
+  "updated": "2026-06-30T15:59:47.906Z",
+  "entities": [
+    {
+      "id": "marsirius-ai",
+      "name": "Marsirius AI Labs",
+      "summary": "Marsirius AI Labs is an AI and breakthrough-technology company focused on healthcare diagnostics, AI-powered applications, and quantum research, with public products/initiatives including duAIcheck, GELA AI, SHEEP, Marsbot, and Quantact.",
+      "website": "https://www.marsirius.ai",
+      "url": "/entities/marsirius-ai/",
+      "api": "/api/entities/marsirius-ai.json",
+      "verified_claims": 9
+    }
+  ]
+}

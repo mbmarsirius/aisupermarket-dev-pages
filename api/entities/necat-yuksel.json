@@ -1,0 +1,131 @@
+{
+  "id": "necat-yuksel",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:24.051Z",
+  "name": "Necat Yüksel",
+  "summary": "Necat Yüksel is a professional entity for KKTC.",
+  "categories": [
+    "professional"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://cy.linkedin.com/in/necat-yuksel-65105314",
+  "claims": [
+    {
+      "id": "claim_50eec5a50712d696",
+      "claim": "Necat Yüksel operates an official website at cy.linkedin.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://cy.linkedin.com/in/necat-yuksel-65105314"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_db4fcede58a919f4",
+      "claim": "Necat Yüksel is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://cy.linkedin.com/in/necat-yuksel-65105314"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_51cff6fc2f4dae32",
+      "claim": "Necat Yüksel is categorized as professional.",
+      "claim_type": "category",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://cy.linkedin.com/in/necat-yuksel-65105314"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_026b15c209033c0d",
+      "entity_id": "necat-yuksel",
+      "url": "https://cy.linkedin.com/in/necat-yuksel-65105314",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:23.158Z",
+      "title": "Necat Yüksel source",
+      "text_excerpt": "",
+      "hash": "a346cee9aeb3f94fcf9b8e4f90915959b64564c21544e82ddd5020389cc00d7b"
+    },
+    {
+      "id": "source_ecbba1ac77111154",
+      "entity_id": "necat-yuksel",
+      "url": "https://www.facebook.com/100064337455760/posts/ktto-meclis-%C3%BCyesi-necat-y%C3%BCksel-ve-ktto-%C3%BCyesi-packsel-ltd-direkt%C3%B6r%C3%BC-re%C5%9Fat-y%C3%BCksel-/1353226340165268",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:23.543Z",
+      "title": "KTTO Meclis Üyesi Necat Yüksel ve KTTO Üyesi Packsel LTD. Direktörü Reşat Yüksel, 10 Mart 2026 Salı BRT’de Gizem Y. Davulcu’nun sunduğu “Ticari Açıdan” programının konuğu oldu. #ktto... - Kıbrıs Türk Ticaret Odası - Turkish Cypriot Chamber of Commerce",
+      "text_excerpt": "KTTO Meclis &#xdc;yesi Necat Y&#xfc;ksel ve KTTO &#xdc;yesi Packsel LTD. Direkt&#xf6;r&#xfc; Re&#x15f;at Y&#xfc;ksel, 10 Mart 2026 Sal&#x131; BRT&#x2019;de Gizem Y. Davulcu&#x2019;nun sundu&#x11f;u &#x201c;Ticari A&#xe7;&#x131;dan&#x201d;...",
+      "hash": "73b5a42bc900403199b0bc2a0adf40f0d2d9978a104b02d792ad3ecdcc688471"
+    },
+    {
+      "id": "source_417fd14f2b4a5e5a",
+      "entity_id": "necat-yuksel",
+      "url": "https://www.kibrispostasi.com/c117-DOGA_ve_CEVRE/n478957-necat-yuksel-plastik-urun-kullanma-yasagi-sektorleri-kaosa-surukleyecek",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:24.051Z",
+      "title": "Necat Yüksel: Plastik ürün kullanma yasağı sektörleri kaosa sürükleye",
+      "text_excerpt": "KTTO Çevre Komitesi Başkanı Necat Yüksel, alternatif ürünler piyasaya sürülmeden tüm plastik ambalaj paketleme ürünlerinin kullanımının yarından itibaren yasakl",
+      "hash": "96e995278a52ef876960642d7e4ecaa96add48f14f25f3dbca579c4723ad59af"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "professional"
+  ],
+  "sources": [
+    {
+      "id": "source_026b15c209033c0d",
+      "entity_id": "necat-yuksel",
+      "url": "https://cy.linkedin.com/in/necat-yuksel-65105314",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:23.158Z",
+      "title": "Necat Yüksel source",
+      "text_excerpt": "",
+      "hash": "a346cee9aeb3f94fcf9b8e4f90915959b64564c21544e82ddd5020389cc00d7b"
+    },
+    {
+      "id": "source_ecbba1ac77111154",
+      "entity_id": "necat-yuksel",
+      "url": "https://www.facebook.com/100064337455760/posts/ktto-meclis-%C3%BCyesi-necat-y%C3%BCksel-ve-ktto-%C3%BCyesi-packsel-ltd-direkt%C3%B6r%C3%BC-re%C5%9Fat-y%C3%BCksel-/1353226340165268",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:23.543Z",
+      "title": "KTTO Meclis Üyesi Necat Yüksel ve KTTO Üyesi Packsel LTD. Direktörü Reşat Yüksel, 10 Mart 2026 Salı BRT’de Gizem Y. Davulcu’nun sunduğu “Ticari Açıdan” programının konuğu oldu. #ktto... - Kıbrıs Türk Ticaret Odası - Turkish Cypriot Chamber of Commerce",
+      "text_excerpt": "KTTO Meclis &#xdc;yesi Necat Y&#xfc;ksel ve KTTO &#xdc;yesi Packsel LTD. Direkt&#xf6;r&#xfc; Re&#x15f;at Y&#xfc;ksel, 10 Mart 2026 Sal&#x131; BRT&#x2019;de Gizem Y. Davulcu&#x2019;nun sundu&#x11f;u &#x201c;Ticari A&#xe7;&#x131;dan&#x201d;...",
+      "hash": "73b5a42bc900403199b0bc2a0adf40f0d2d9978a104b02d792ad3ecdcc688471"
+    },
+    {
+      "id": "source_417fd14f2b4a5e5a",
+      "entity_id": "necat-yuksel",
+      "url": "https://www.kibrispostasi.com/c117-DOGA_ve_CEVRE/n478957-necat-yuksel-plastik-urun-kullanma-yasagi-sektorleri-kaosa-surukleyecek",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:24.051Z",
+      "title": "Necat Yüksel: Plastik ürün kullanma yasağı sektörleri kaosa sürükleye",
+      "text_excerpt": "KTTO Çevre Komitesi Başkanı Necat Yüksel, alternatif ürünler piyasaya sürülmeden tüm plastik ambalaj paketleme ürünlerinin kullanımının yarından itibaren yasakl",
+      "hash": "96e995278a52ef876960642d7e4ecaa96add48f14f25f3dbca579c4723ad59af"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "market": "kktc",
+  "category": "professional",
+  "updated": "2026-06-30T15:59:47.908Z",
+  "entities": [
+    {
+      "id": "ahmet-ulutekin",
+      "name": "Ahmet Ulutekin",
+      "summary": "Ahmet Ulutekin is a professional entity for KKTC.",
+      "website": "https://www.hangiev.com/ahmetulutekin/en",
+      "url": "/entities/ahmet-ulutekin/",
+      "api": "/api/entities/ahmet-ulutekin.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "hakan-rahel-bulut",
+      "name": "Hakan Rahel Bulut",
+      "summary": "Hakan Rahel Bulut is a professional entity for KKTC.",
+      "website": "https://www.instagram.com/hakanrahelbulut/?hl=en",
+      "url": "/entities/hakan-rahel-bulut/",
+      "api": "/api/entities/hakan-rahel-bulut.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "mehmet-saydam",
+      "name": "Mehmet Saydam",
+      "summary": "Mehmet Saydam is a professional entity for KKTC.",
+      "website": "https://mehmetsaydam.com/biyografi",
+      "url": "/entities/mehmet-saydam/",
+      "api": "/api/entities/mehmet-saydam.json",
+      "verified_claims": 3
+    },
+    {
+      "id": "necat-yuksel",
+      "name": "Necat Yüksel",
+      "summary": "Necat Yüksel is a professional entity for KKTC.",
+      "website": "https://cy.linkedin.com/in/necat-yuksel-65105314",
+      "url": "/entities/necat-yuksel/",
+      "api": "/api/entities/necat-yuksel.json",
+      "verified_claims": 3
+    }
+  ]
+}

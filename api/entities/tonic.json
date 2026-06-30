@@ -1,0 +1,133 @@
+{
+  "id": "tonic",
+  "version": 1,
+  "generated_at": "2026-06-30T15:59:47.601Z",
+  "name": "Tonic",
+  "summary": "Tonic is a business entity for KKTC.",
+  "categories": [
+    "business"
+  ],
+  "markets": [
+    "KKTC"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "website": "https://tonicmenu.com",
+  "claims": [
+    {
+      "id": "claim_25cc03ccbb39e47c",
+      "claim": "Tonic operates an official website at tonicmenu.com.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://tonicmenu.com"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_b4905df3b6ce0c4c",
+      "claim": "Tonic is listed for the KKTC market in AI Supermarket intake data.",
+      "claim_type": "market",
+      "status": "third_party_reported",
+      "evidence": [
+        "https://www.yemeksepeti.com/restaurant/omqs/tonic?srsltid=AfmBOorMf8rYKuR1D-kxfOF7paka_NBTXAXo3YZCk6ix7QfiJELtkDWZ"
+      ],
+      "confidence": 0.68,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_8cb9f9eee1ca7a1b",
+      "claim": "Tonic is categorized as business.",
+      "claim_type": "category",
+      "status": "third_party_reported",
+      "evidence": [
+        "https://www.yemeksepeti.com/restaurant/omqs/tonic?srsltid=AfmBOorMf8rYKuR1D-kxfOF7paka_NBTXAXo3YZCk6ix7QfiJELtkDWZ"
+      ],
+      "confidence": 0.68,
+      "risk_level": "low",
+      "requires_human_review": false
+    }
+  ],
+  "evidence_sources": [
+    {
+      "id": "source_f7443bd3cd68b99c",
+      "entity_id": "tonic",
+      "url": "https://tonicmenu.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:46.602Z",
+      "title": "Tonic Nicosia",
+      "text_excerpt": "Tonic Nicosia &#x2B;905338801357 Pazartesi - Per&#x15F;embe: 07.30 - 00.00 Cuma - Cumartesi: 07.30 - 02.00 Pazar: KAPALI Ana Sayfa Hakk&#x131;m&#x131;zda Men&#xFC; Spesiyaller Etkinlikler Galeri Konum Language T&#xFC;rk&#xE7;e English Your browser does not support the video tag. Welcome G&#xFC;n&#xFC;n her saatinde size e&#x15F;lik eden bir mekan var. F&#x131;rsatlar, yenilikler ve etkinlikler i&#xE7;in bizi takip ediniz. tonicnicosia Welcome G&#xFC;n&#xFC;n her saatinde size e&#x15F;lik eden bir mekan var. F&#x131;rsatlar, yenilikler ve etkinlikler i&#xE7;in bizi takip ediniz. tonicnicosia TONIC&#x27;teyiz... G&#xFC;n&#xFC;n her saatinde size e&#x15F;lik eden bir mekan var.&#xD;&#xA;Sabah&#x131;n ilk kahvesinden gecenin son yudumuna kadar&#x2026; 2013 y&#x131;l&#x131;nda k&#xFC;&#xE7;&#xF",
+      "hash": "80be7b318c9234966d611b8d93e61e97b192da376f3130dba86ae0e277a6743e"
+    },
+    {
+      "id": "source_1b8a471242171d74",
+      "entity_id": "tonic",
+      "url": "https://www.instagram.com/tonicnicosia/?hl=en",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:46.913Z",
+      "title": "Tonic Nicosia (&#064;tonicnicosia) • Instagram photos and videos",
+      "text_excerpt": "Tonic Nicosia (&#064;tonicnicosia) • Instagram photos and videos",
+      "hash": "c565728f778256f579bbb05e19f0712fc8050c52e38d59bae2287647832e50f4"
+    },
+    {
+      "id": "source_aa2b06d047a40823",
+      "entity_id": "tonic",
+      "url": "https://www.yemeksepeti.com/restaurant/omqs/tonic?srsltid=AfmBOorMf8rYKuR1D-kxfOF7paka_NBTXAXo3YZCk6ix7QfiJELtkDWZ",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:47.600Z",
+      "title": "Tonic seed source",
+      "text_excerpt": "Tonic\nbusiness\nKKTC",
+      "hash": "388d63ff5388b3bf22506fdfed7356eaa4d94a9ed5589e1297433fafec264ae7",
+      "fetch_error": "fetch failed"
+    }
+  ],
+  "verification_summary": {
+    "verified_claims": 3,
+    "needs_review": 0,
+    "rejected": 0
+  },
+  "publication_status": "published",
+  "sample_fixture": false,
+  "products": [],
+  "category": [
+    "business"
+  ],
+  "sources": [
+    {
+      "id": "source_f7443bd3cd68b99c",
+      "entity_id": "tonic",
+      "url": "https://tonicmenu.com",
+      "source_type": "owned_site",
+      "retrieved_at": "2026-06-30T15:59:46.602Z",
+      "title": "Tonic Nicosia",
+      "text_excerpt": "Tonic Nicosia &#x2B;905338801357 Pazartesi - Per&#x15F;embe: 07.30 - 00.00 Cuma - Cumartesi: 07.30 - 02.00 Pazar: KAPALI Ana Sayfa Hakk&#x131;m&#x131;zda Men&#xFC; Spesiyaller Etkinlikler Galeri Konum Language T&#xFC;rk&#xE7;e English Your browser does not support the video tag. Welcome G&#xFC;n&#xFC;n her saatinde size e&#x15F;lik eden bir mekan var. F&#x131;rsatlar, yenilikler ve etkinlikler i&#xE7;in bizi takip ediniz. tonicnicosia Welcome G&#xFC;n&#xFC;n her saatinde size e&#x15F;lik eden bir mekan var. F&#x131;rsatlar, yenilikler ve etkinlikler i&#xE7;in bizi takip ediniz. tonicnicosia TONIC&#x27;teyiz... G&#xFC;n&#xFC;n her saatinde size e&#x15F;lik eden bir mekan var.&#xD;&#xA;Sabah&#x131;n ilk kahvesinden gecenin son yudumuna kadar&#x2026; 2013 y&#x131;l&#x131;nda k&#xFC;&#xE7;&#xF",
+      "hash": "80be7b318c9234966d611b8d93e61e97b192da376f3130dba86ae0e277a6743e"
+    },
+    {
+      "id": "source_1b8a471242171d74",
+      "entity_id": "tonic",
+      "url": "https://www.instagram.com/tonicnicosia/?hl=en",
+      "source_type": "social",
+      "retrieved_at": "2026-06-30T15:59:46.913Z",
+      "title": "Tonic Nicosia (&#064;tonicnicosia) • Instagram photos and videos",
+      "text_excerpt": "Tonic Nicosia (&#064;tonicnicosia) • Instagram photos and videos",
+      "hash": "c565728f778256f579bbb05e19f0712fc8050c52e38d59bae2287647832e50f4"
+    },
+    {
+      "id": "source_aa2b06d047a40823",
+      "entity_id": "tonic",
+      "url": "https://www.yemeksepeti.com/restaurant/omqs/tonic?srsltid=AfmBOorMf8rYKuR1D-kxfOF7paka_NBTXAXo3YZCk6ix7QfiJELtkDWZ",
+      "source_type": "third_party",
+      "retrieved_at": "2026-06-30T15:59:47.600Z",
+      "title": "Tonic seed source",
+      "text_excerpt": "Tonic\nbusiness\nKKTC",
+      "hash": "388d63ff5388b3bf22506fdfed7356eaa4d94a9ed5589e1297433fafec264ae7",
+      "fetch_error": "fetch failed"
+    }
+  ]
+}
