@@ -1,34 +1,80 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>AI Supermarket Fact Pack Widget</title>
+  <link rel="icon" href="/assets/brand/ai-supermarket-mark.svg" type="image/svg+xml">
+  <meta name="theme-color" content="#050505">
   <style>
-    :root{--paper:#f8f0dc;--ink:#10120f;--green:#16f2a5;--red:#ff4b3e}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,serif}main{padding:20px}h1{font-size:42px;line-height:.9;letter-spacing:-.05em;margin:0 0 12px}.tag{display:inline-block;border:2px solid #111;border-radius:999px;padding:4px 8px;background:var(--green);font:12px ui-monospace,monospace;margin:2px}.card{border:2px solid #111;border-radius:20px;background:#fff8e8;box-shadow:6px 6px 0 #111;padding:16px;margin:12px 0}button{border:2px solid #111;border-radius:12px;background:#111;color:var(--paper);padding:10px 12px;font-weight:700}pre{white-space:pre-wrap;background:#111;color:var(--green);border-radius:14px;padding:12px;overflow:auto}a{color:inherit}</style>
+    :root{--void:#050505;--carbon:#0b0d0f;--mars-red:#d71920;--scanner-green:#20f29c;--ivory:#f6f1e6;--steel:#c7d0d7;--amber:#ffb84d;--mono:"SFMono-Regular","Cascadia Code","Roboto Mono",Consolas,monospace;--sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;background:linear-gradient(145deg,#050505,#101315 64%,#1a0809);color:var(--ivory);font-family:var(--sans);line-height:1.45}.widget{max-width:520px;margin:0 auto;padding:16px}.shell{position:relative;overflow:hidden;border:1px solid rgba(255,255,255,.14);border-radius:10px;background:radial-gradient(circle at 78% 10%,rgba(215,25,32,.28),transparent 34%),rgba(0,0,0,.45);box-shadow:0 24px 80px rgba(0,0,0,.45)}.shell:before{content:"";position:absolute;inset:0;background:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);background-size:34px 34px;mask-image:linear-gradient(180deg,#000,transparent)}.shell:after{content:"";position:absolute;left:-10%;right:-10%;top:34%;height:1px;background:linear-gradient(90deg,transparent,var(--mars-red),var(--scanner-green),transparent);box-shadow:0 0 24px rgba(32,242,156,.8)}.inner{position:relative;padding:16px}.brand{display:flex;align-items:center;gap:10px;margin-bottom:14px}.brand img:first-child{width:38px;height:38px;border-radius:8px;box-shadow:0 0 22px rgba(215,25,32,.4)}.brand img:last-child{width:168px}.badge{display:inline-flex;align-items:center;gap:7px;margin:2px 0 10px;padding:6px 8px;border:1px solid rgba(32,242,156,.58);border-radius:6px;background:rgba(32,242,156,.1);color:var(--scanner-green);font:800 10px/1.2 var(--mono);text-transform:uppercase}.badge:before{content:"";width:7px;height:7px;background:var(--scanner-green);box-shadow:0 0 12px var(--scanner-green)}h1{margin:0 0 8px;font-size:34px;line-height:.96;letter-spacing:0}p{margin:0 0 12px;color:#e7e7df}.rail{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.rail span{padding:9px;border:1px solid rgba(255,255,255,.12);background:rgba(0,0,0,.38);font:800 10px/1.3 var(--mono);text-transform:uppercase;color:var(--steel)}button{width:100%;min-height:42px;border:1px solid var(--scanner-green);border-radius:6px;background:var(--scanner-green);color:#03100a;font-weight:850;font-size:14px;cursor:pointer}button:focus{outline:2px solid var(--ivory);outline-offset:2px}.receipt{margin-top:12px;border:1px solid rgba(255,255,255,.13);border-radius:8px;background:rgba(0,0,0,.48);overflow:hidden}.receipt-header{display:flex;justify-content:space-between;gap:12px;padding:12px;border-bottom:1px solid rgba(255,255,255,.12);font:800 11px/1.2 var(--mono);text-transform:uppercase;color:var(--steel)}.receipt-body{padding:12px}.line{display:grid;grid-template-columns:118px minmax(0,1fr);gap:8px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.08)}.line:last-child{border-bottom:0}.label{font:800 10px/1.3 var(--mono);text-transform:uppercase;color:var(--scanner-green)}.value{min-width:0;overflow-wrap:anywhere}.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{padding:4px 6px;border:1px solid rgba(255,255,255,.13);border-radius:5px;background:rgba(255,255,255,.07);font:750 10px/1.2 var(--mono);text-transform:uppercase}.barcode{height:28px;margin-top:10px;background:repeating-linear-gradient(90deg,var(--ivory) 0 2px,transparent 2px 5px,var(--ivory) 5px 8px,transparent 8px 14px);opacity:.78}.error{color:#ffb84d}.links a{display:inline-block;margin:0 8px 6px 0;color:var(--scanner-green);font:800 11px/1.2 var(--mono)}
+  </style>
 </head>
 <body>
-<main>
-  <span class="tag">AI Supermarket</span>
-  <h1>Marsirius AI Labs</h1>
-  <p>Source-backed Fact Pack for ChatGPT Apps, MCP connectors, crawlers and answer engines.</p>
-  <div class="card">
-    <b>Machine endpoints</b>
-    <p><a href="/api/entities/marsirius-ai.json">JSON Fact Pack</a> · <a href="/feeds/kktc/ai-companies.json">KKTC AI feed</a> · <a href="/llms.txt">llms.txt</a></p>
-    <button id="load">Load profile via MCP tool</button>
-  </div>
-  <div class="card"><pre id="out">Waiting for ChatGPT Apps host bridge...</pre></div>
-</main>
+  <main class="widget">
+    <section class="shell">
+      <div class="inner">
+        <div class="brand"><img src="/assets/brand/ai-supermarket-mark.svg" alt=""><img src="/assets/brand/ai-supermarket-wordmark.svg" alt="AI Supermarket"></div>
+        <span class="badge">source-backed badge</span>
+        <h1>Fact Pack scanner</h1>
+        <p>Default profile: <strong>Marsirius AI Labs</strong>. Load it as a compact fact receipt for ChatGPT Apps, MCP connectors, crawlers, and answer engines.</p>
+        <div class="rail" aria-label="Shelf coordinates">
+          <span>Aisle: KKTC / AI</span><span>SKU: marsirius-ai</span><span>Endpoint: JSON</span><span>Status: evidence-labeled</span>
+        </div>
+        <button id="load" type="button">Load profile</button>
+        <div class="receipt" id="receipt" aria-live="polite">
+          <div class="receipt-header"><span>Fact receipt</span><span id="mode">waiting</span></div>
+          <div class="receipt-body" id="out">
+            <div class="line"><div class="label">Bridge</div><div class="value">Waiting for ChatGPT Apps host bridge. Standalone mode can still load the public JSON endpoint.</div></div>
+            <div class="barcode" aria-hidden="true"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
 <script>
 let rpcId = 0;
 const pending = new Map();
-function post(message){ window.parent.postMessage(message, '*'); }
+const out = document.getElementById('out');
+const mode = document.getElementById('mode');
+function post(message){ if (window.parent !== window) window.parent.postMessage(message, '*'); }
 function rpcRequest(method, params){
+  if (window.parent === window) return Promise.reject(new Error('No host bridge'));
   const id = ++rpcId;
   post({jsonrpc:'2.0', id, method, params});
   return new Promise((resolve,reject)=>pending.set(id,{resolve,reject}));
 }
 function rpcNotify(method, params){ post({jsonrpc:'2.0', method, params}); }
+function chips(items){
+  return `<div class="chips">${(items || []).slice(0, 6).map((item) => `<span class="chip">${escapeHtml(String(item))}</span>`).join('')}</div>`;
+}
+function escapeHtml(value){
+  return String(value ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+}
+function entityFromResult(result){
+  const data = result?.structuredContent || result?.content?.[0]?.json || result;
+  return data?.entity || data?.profile || data;
+}
+function renderReceipt(result, sourceLabel = 'loaded'){
+  const entity = entityFromResult(result) || {};
+  const endpoints = entity.endpoints || {};
+  const claims = entity.verified_claims || entity.claims || [];
+  const sources = entity.sources || entity.evidence_sources || [];
+  mode.textContent = sourceLabel;
+  out.innerHTML = `
+    <div class="line"><div class="label">Entity</div><div class="value">${escapeHtml(entity.name || entity.id || 'Unknown entity')}</div></div>
+    <div class="line"><div class="label">Summary</div><div class="value">${escapeHtml(entity.summary || 'No summary returned.')}</div></div>
+    <div class="line"><div class="label">Markets</div><div class="value">${chips(entity.markets || [])}</div></div>
+    <div class="line"><div class="label">Categories</div><div class="value">${chips(entity.categories || entity.category || [])}</div></div>
+    <div class="line"><div class="label">Ledger</div><div class="value">${claims.length} claim(s), ${sources.length} source(s), evidence-labeled.</div></div>
+    <div class="line links"><div class="label">Endpoints</div><div class="value"><a href="${escapeHtml(endpoints.profile || '/entities/marsirius-ai/')}" target="_blank" rel="noreferrer">Profile</a><a href="${escapeHtml(endpoints.json || '/api/entities/marsirius-ai.json')}" target="_blank" rel="noreferrer">JSON</a><a href="${escapeHtml(endpoints.llms || '/llms.txt')}" target="_blank" rel="noreferrer">llms.txt</a></div></div>
+    <div class="barcode" aria-hidden="true"></div>`;
+}
+function renderError(error){
+  mode.textContent = 'error';
+  out.innerHTML = `<div class="line"><div class="label">Error</div><div class="value error">${escapeHtml(error?.message || JSON.stringify(error))}</div></div><div class="barcode" aria-hidden="true"></div>`;
+}
 window.addEventListener('message', (event)=>{
   const msg = event.data || {};
   if (msg.id && pending.has(msg.id)) {
@@ -36,23 +82,31 @@ window.addEventListener('message', (event)=>{
     msg.error ? p.reject(msg.error) : p.resolve(msg.result);
   }
   if (msg.method === 'ui/notifications/tool-result') {
-    document.getElementById('out').textContent = JSON.stringify(msg.params?.result?.structuredContent || msg.params, null, 2);
+    renderReceipt(msg.params?.result, 'host result');
   }
 });
 async function init(){
   try {
-    await rpcRequest('ui/initialize', { appInfo:{name:'ai-supermarket-widget',version:'0.1.0'}, appCapabilities:{}, protocolVersion:'2026-01-26' });
+    await rpcRequest('ui/initialize', { appInfo:{name:'ai-supermarket-widget',version:'0.2.0'}, appCapabilities:{}, protocolVersion:'2026-01-26' });
     rpcNotify('ui/notifications/initialized', {});
-    document.getElementById('out').textContent = 'Bridge initialized. Ask for Marsirius or click Load.';
+    mode.textContent = 'bridge ready';
   } catch(e) {
-    document.getElementById('out').textContent = 'Standalone preview. In ChatGPT, this widget receives MCP tool results.';
+    mode.textContent = 'standalone';
   }
 }
 document.getElementById('load').onclick = async()=>{
   try {
-    const result = await rpcRequest('tools/call', { name:'get_company_profile', arguments:{slug:'marsirius-ai'} });
-    document.getElementById('out').textContent = JSON.stringify(result?.structuredContent || result, null, 2);
-  } catch(e) { document.getElementById('out').textContent = JSON.stringify(e, null, 2); }
+    if (mode.textContent === 'bridge ready' || mode.textContent === 'host result') {
+      const result = await rpcRequest('tools/call', { name:'get_company_profile', arguments:{slug:'marsirius-ai'} });
+      renderReceipt(result, 'host tool');
+      return;
+    }
+    const response = await fetch('/api/entities/marsirius-ai.json', { headers:{ accept:'application/json' } });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    renderReceipt(await response.json(), 'public json');
+  } catch(e) {
+    renderError(e);
+  }
 };
 init();
 </script>

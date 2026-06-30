@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 220" role="img" aria-labelledby="title desc">
+  <title id="title">AI Supermarket wordmark</title>
+  <desc id="desc">Horizontal AI Supermarket wordmark with monogram shelf mark.</desc>
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d71920"/>
+      <stop offset="1" stop-color="#ff3b30"/>
+    </linearGradient>
+  </defs>
+  <rect width="1180" height="220" rx="0" fill="none"/>
+  <g transform="translate(18 18)">
+    <rect width="184" height="184" rx="34" fill="#050505" stroke="#2d3338" stroke-width="4"/>
+    <path d="M28 50h128M28 92h128M28 134h128" stroke="#f6f1e6" stroke-opacity=".2" stroke-width="10"/>
+    <path d="M45 146 84 38l39 108h-28l-6-19H78l-6 19H45zm40-47h26L98 62z" fill="#f6f1e6"/>
+    <path d="M126 145c27 0 42-11 42-29 0-18-13-25-38-30-31-7-48-22-48-50 0-31 25-49 63-49 20 0 38 4 54 12l-13 27c-13-7-27-10-41-10-19 0-30 7-30 19 0 12 9 17 34 22 32 8 50 23 50 53 0 34-27 55-70 55-22 0-43-5-60-15l13-28c15 12 31 23 44 23z" fill="#f6f1e6"/>
+    <path d="M20 102h150" stroke="url(#red)" stroke-width="13" stroke-linecap="round"/>
+    <path d="M42 160h8v14h-8zm16 0h4v14h-4zm10 0h13v14H68zm20 0h4v14h-4zm10 0h20v14H98zm28 0h5v14h-5zm12 0h14v14h-14z" fill="#20f29c"/>
+  </g>
+  <g fill="#f6f1e6" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="850" letter-spacing="0">
+    <text x="238" y="103" font-size="68">AI Supermarket</text>
+    <text x="240" y="148" font-size="20" fill="#20f29c" font-family="SFMono-Regular, Consolas, monospace" font-weight="800">VERIFIED FACT LAYER FOR AI ASSISTANTS</text>
+  </g>
+  <path d="M240 170h806" stroke="#d71920" stroke-width="4"/>
+</svg>
