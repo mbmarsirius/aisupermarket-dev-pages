@@ -1,7 +1,7 @@
 {
   "market": "turkiye",
   "category": "ai-applications",
-  "updated": "2026-06-30T15:59:47.909Z",
+  "updated": "2026-06-30T17:54:35.961Z",
   "entities": [
     {
       "id": "marsirius-ai",
@@ -10,7 +10,7 @@
       "website": "https://www.marsirius.ai",
       "url": "/entities/marsirius-ai/",
       "api": "/api/entities/marsirius-ai.json",
-      "verified_claims": 9
+      "verified_claims": 11
     }
   ]
 }

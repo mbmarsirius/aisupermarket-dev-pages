@@ -1,7 +1,7 @@
 {
   "id": "enlightened-trading",
   "version": 1,
-  "generated_at": "2026-06-30T15:58:58.820Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Enlightened Trading",
   "summary": "Enlightened Trading is a trading company entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_09b1b6c88e937f8a",
+      "id": "source_4386f72e91daf00c",
       "entity_id": "enlightened-trading",
       "url": "https://www.facebook.com/enlightened.trading.3",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:57.795Z",
-      "title": "Enlightened Trading (&#064;enlightened.trading.3) • Facebook, Connect with friends",
-      "text_excerpt": "&#x39f; Enlightened Trading &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9; &#x3c3;&#x3c4;&#x3bf; Facebook. &#x393;&#x3c1;&#x3b1;&#x3c6;&#x3c4;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3c3;&#x3c4;&#x3bf; Facebook &#x3b3;&#x3b9;&#x3b1; &#x3bd;&#x3b1; &#x3c3;&#x3c5;&#x3bd;&#x3b4;&#x3b5;&#x3b8;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3bc;&#x3b5; &#x3c4;&#x3bf;&#x3bd; Enlightened Trading &#x3ba;&#x3b1;&#x3b9; &#x3ac;&#x3bb;&#x3bb;&#x3b1; &#x3ac;&#x3c4;&#x3bf;&#x3bc;&#x3b1; &#x3c0;&#x3bf;&#x3c5; &#x3af;&#x3c3;&#x3c9;&#x3c2; &#x3b3;&#x3bd;&#x3c9;&#x3c1;&#x3af;&#x3b6;&#x3b5;&#x3c4;&#x3b5;. &#x3a4;&#x3bf;...",
-      "hash": "88d7d8a4bb93abef2c7bd9a288fd23d7535b72df426c583ed8903acad24e358c"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Enlightened Trading seed source",
+      "text_excerpt": "Enlightened Trading\ntrading company\nKKTC",
+      "hash": "4523f0644b6a711347e5fa5444b5f82fb6d49745867d604e851ea6dea5c5604b"
     },
     {
-      "id": "source_11c9584d2be338cc",
+      "id": "source_76f9ec0e4b425e0d",
       "entity_id": "enlightened-trading",
       "url": "https://cy.linkedin.com/in/talat-yavuz-2474441b3",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:58.275Z",
-      "title": "Enlightened Trading source",
-      "text_excerpt": "",
-      "hash": "86797c6f1a4c4cdc0e8f5cf765394379134d6b97185c48132d649f3b10b0cea1"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Enlightened Trading seed source",
+      "text_excerpt": "Enlightened Trading\ntrading company\nKKTC",
+      "hash": "4523f0644b6a711347e5fa5444b5f82fb6d49745867d604e851ea6dea5c5604b"
     },
     {
-      "id": "source_89bc4444499933db",
+      "id": "source_cfbc69341a196ed1",
       "entity_id": "enlightened-trading",
       "url": "https://www.arti392.com/enlightened-tradingden-khydye-bagis",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:58:58.819Z",
-      "title": "Enlightened Trading’den KHYD’ye bağış - vatangazetesi.com - KIBRIS&#039;IN HABER PORTALI",
-      "text_excerpt": "Kanser Hastalarına Yardım Derneği (KHYD) Başkanı Raziye Kocaismail derneğin kapanmakla karşı karşıya kaldığı duyurusunun yapılmasından sonrasında  medyanın büyük gücünü yanlarında bulduklarını belirterek, derneğin kapanmaması yönünde duyarlı davranan  herkese teşekkür etti.",
-      "hash": "38ab6ced846cf591d419b1cbfe7c62d075dffb416f234802353a016220f60c28"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Enlightened Trading seed source",
+      "text_excerpt": "Enlightened Trading\ntrading company\nKKTC",
+      "hash": "4523f0644b6a711347e5fa5444b5f82fb6d49745867d604e851ea6dea5c5604b"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_09b1b6c88e937f8a",
+      "id": "source_4386f72e91daf00c",
       "entity_id": "enlightened-trading",
       "url": "https://www.facebook.com/enlightened.trading.3",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:57.795Z",
-      "title": "Enlightened Trading (&#064;enlightened.trading.3) • Facebook, Connect with friends",
-      "text_excerpt": "&#x39f; Enlightened Trading &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9; &#x3c3;&#x3c4;&#x3bf; Facebook. &#x393;&#x3c1;&#x3b1;&#x3c6;&#x3c4;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3c3;&#x3c4;&#x3bf; Facebook &#x3b3;&#x3b9;&#x3b1; &#x3bd;&#x3b1; &#x3c3;&#x3c5;&#x3bd;&#x3b4;&#x3b5;&#x3b8;&#x3b5;&#x3af;&#x3c4;&#x3b5; &#x3bc;&#x3b5; &#x3c4;&#x3bf;&#x3bd; Enlightened Trading &#x3ba;&#x3b1;&#x3b9; &#x3ac;&#x3bb;&#x3bb;&#x3b1; &#x3ac;&#x3c4;&#x3bf;&#x3bc;&#x3b1; &#x3c0;&#x3bf;&#x3c5; &#x3af;&#x3c3;&#x3c9;&#x3c2; &#x3b3;&#x3bd;&#x3c9;&#x3c1;&#x3af;&#x3b6;&#x3b5;&#x3c4;&#x3b5;. &#x3a4;&#x3bf;...",
-      "hash": "88d7d8a4bb93abef2c7bd9a288fd23d7535b72df426c583ed8903acad24e358c"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Enlightened Trading seed source",
+      "text_excerpt": "Enlightened Trading\ntrading company\nKKTC",
+      "hash": "4523f0644b6a711347e5fa5444b5f82fb6d49745867d604e851ea6dea5c5604b"
     },
     {
-      "id": "source_11c9584d2be338cc",
+      "id": "source_76f9ec0e4b425e0d",
       "entity_id": "enlightened-trading",
       "url": "https://cy.linkedin.com/in/talat-yavuz-2474441b3",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:58.275Z",
-      "title": "Enlightened Trading source",
-      "text_excerpt": "",
-      "hash": "86797c6f1a4c4cdc0e8f5cf765394379134d6b97185c48132d649f3b10b0cea1"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Enlightened Trading seed source",
+      "text_excerpt": "Enlightened Trading\ntrading company\nKKTC",
+      "hash": "4523f0644b6a711347e5fa5444b5f82fb6d49745867d604e851ea6dea5c5604b"
     },
     {
-      "id": "source_89bc4444499933db",
+      "id": "source_cfbc69341a196ed1",
       "entity_id": "enlightened-trading",
       "url": "https://www.arti392.com/enlightened-tradingden-khydye-bagis",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:58:58.819Z",
-      "title": "Enlightened Trading’den KHYD’ye bağış - vatangazetesi.com - KIBRIS&#039;IN HABER PORTALI",
-      "text_excerpt": "Kanser Hastalarına Yardım Derneği (KHYD) Başkanı Raziye Kocaismail derneğin kapanmakla karşı karşıya kaldığı duyurusunun yapılmasından sonrasında  medyanın büyük gücünü yanlarında bulduklarını belirterek, derneğin kapanmaması yönünde duyarlı davranan  herkese teşekkür etti.",
-      "hash": "38ab6ced846cf591d419b1cbfe7c62d075dffb416f234802353a016220f60c28"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Enlightened Trading seed source",
+      "text_excerpt": "Enlightened Trading\ntrading company\nKKTC",
+      "hash": "4523f0644b6a711347e5fa5444b5f82fb6d49745867d604e851ea6dea5c5604b"
     }
   ]
 }

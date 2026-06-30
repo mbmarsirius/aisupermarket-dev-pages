@@ -1,7 +1,7 @@
 {
   "id": "epic-burger",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:00.303Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Epic Burger",
   "summary": "Epic Burger is a restaurant entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_7ec963201e925075",
+      "id": "source_07466530e06050b1",
       "entity_id": "epic-burger",
       "url": "https://www.instagram.com/epicburgercyprus",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:59.280Z",
-      "title": "Epic Burger (&#064;epicburgercyprus) • Instagram photos and videos",
-      "text_excerpt": "Epic Burger (&#064;epicburgercyprus) • Instagram photos and videos",
-      "hash": "46a5cf1e89ecdcfa65ee001b956b07ed1d4d7ece70bf1ab12ab857234f6dccfd"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Epic Burger seed source",
+      "text_excerpt": "Epic Burger\nrestaurant\nKKTC",
+      "hash": "6b3b3fa985ab3206c614760128df51c74e0d86757438a772b1c6ca0a62fd4981"
     },
     {
-      "id": "source_d334e5641b212452",
+      "id": "source_b5cfc3a744426592",
       "entity_id": "epic-burger",
       "url": "https://www.epicburger.com/menu",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:58:59.904Z",
-      "title": "Epic Burger | Menu",
-      "text_excerpt": "Hamburgers, chicken, wings, and drinks—all made responsibly with the best ingredients. There",
-      "hash": "e4f98ebd6318f3b27a04f9a1329fb9e4ddac55247072690f80135d23f95458c6"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Epic Burger seed source",
+      "text_excerpt": "Epic Burger\nrestaurant\nKKTC",
+      "hash": "6b3b3fa985ab3206c614760128df51c74e0d86757438a772b1c6ca0a62fd4981"
     },
     {
-      "id": "source_7d80488c99ded1e6",
+      "id": "source_02a5719317b8619b",
       "entity_id": "epic-burger",
       "url": "https://www.facebook.com/p/EpicBurger%C4%B0skele-100088640227554",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:00.302Z",
-      "title": "EpicBurgerİskele",
-      "text_excerpt": "EpicBurger&#x130;skele. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 927 &#xb7; 37 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 268 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. &#x39c;&#x3c0;&#x3b5;&#x3c1;&#x3b3;&#x3ba;&#x3b5;&#x3c1;&#x3ac;&#x3b4;&#x3b9;&#x3ba;&#x3bf;",
-      "hash": "76838097dae5e82582f144fb556c3354b782e5d9225984a9fc1be5aeb5c117fd"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Epic Burger seed source",
+      "text_excerpt": "Epic Burger\nrestaurant\nKKTC",
+      "hash": "6b3b3fa985ab3206c614760128df51c74e0d86757438a772b1c6ca0a62fd4981"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_7ec963201e925075",
+      "id": "source_07466530e06050b1",
       "entity_id": "epic-burger",
       "url": "https://www.instagram.com/epicburgercyprus",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:59.280Z",
-      "title": "Epic Burger (&#064;epicburgercyprus) • Instagram photos and videos",
-      "text_excerpt": "Epic Burger (&#064;epicburgercyprus) • Instagram photos and videos",
-      "hash": "46a5cf1e89ecdcfa65ee001b956b07ed1d4d7ece70bf1ab12ab857234f6dccfd"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Epic Burger seed source",
+      "text_excerpt": "Epic Burger\nrestaurant\nKKTC",
+      "hash": "6b3b3fa985ab3206c614760128df51c74e0d86757438a772b1c6ca0a62fd4981"
     },
     {
-      "id": "source_d334e5641b212452",
+      "id": "source_b5cfc3a744426592",
       "entity_id": "epic-burger",
       "url": "https://www.epicburger.com/menu",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:58:59.904Z",
-      "title": "Epic Burger | Menu",
-      "text_excerpt": "Hamburgers, chicken, wings, and drinks—all made responsibly with the best ingredients. There",
-      "hash": "e4f98ebd6318f3b27a04f9a1329fb9e4ddac55247072690f80135d23f95458c6"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Epic Burger seed source",
+      "text_excerpt": "Epic Burger\nrestaurant\nKKTC",
+      "hash": "6b3b3fa985ab3206c614760128df51c74e0d86757438a772b1c6ca0a62fd4981"
     },
     {
-      "id": "source_7d80488c99ded1e6",
+      "id": "source_02a5719317b8619b",
       "entity_id": "epic-burger",
       "url": "https://www.facebook.com/p/EpicBurger%C4%B0skele-100088640227554",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:00.302Z",
-      "title": "EpicBurgerİskele",
-      "text_excerpt": "EpicBurger&#x130;skele. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 927 &#xb7; 37 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 268 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. &#x39c;&#x3c0;&#x3b5;&#x3c1;&#x3b3;&#x3ba;&#x3b5;&#x3c1;&#x3ac;&#x3b4;&#x3b9;&#x3ba;&#x3bf;",
-      "hash": "76838097dae5e82582f144fb556c3354b782e5d9225984a9fc1be5aeb5c117fd"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Epic Burger seed source",
+      "text_excerpt": "Epic Burger\nrestaurant\nKKTC",
+      "hash": "6b3b3fa985ab3206c614760128df51c74e0d86757438a772b1c6ca0a62fd4981"
     }
   ]
 }

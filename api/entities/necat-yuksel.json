@@ -1,7 +1,7 @@
 {
   "id": "necat-yuksel",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:24.051Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Necat Yüksel",
   "summary": "Necat Yüksel is a professional entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_026b15c209033c0d",
+      "id": "source_1a2f44960995dbb2",
       "entity_id": "necat-yuksel",
       "url": "https://cy.linkedin.com/in/necat-yuksel-65105314",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:23.158Z",
-      "title": "Necat Yüksel source",
-      "text_excerpt": "",
-      "hash": "a346cee9aeb3f94fcf9b8e4f90915959b64564c21544e82ddd5020389cc00d7b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Necat Yüksel seed source",
+      "text_excerpt": "Necat Yüksel\nprofessional\nKKTC",
+      "hash": "4807f6afef76dbca3bd91bf6321715cb6255cc8faf11f342541f8718f67b3528"
     },
     {
-      "id": "source_ecbba1ac77111154",
+      "id": "source_e08e854ea0122478",
       "entity_id": "necat-yuksel",
       "url": "https://www.facebook.com/100064337455760/posts/ktto-meclis-%C3%BCyesi-necat-y%C3%BCksel-ve-ktto-%C3%BCyesi-packsel-ltd-direkt%C3%B6r%C3%BC-re%C5%9Fat-y%C3%BCksel-/1353226340165268",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:23.543Z",
-      "title": "KTTO Meclis Üyesi Necat Yüksel ve KTTO Üyesi Packsel LTD. Direktörü Reşat Yüksel, 10 Mart 2026 Salı BRT’de Gizem Y. Davulcu’nun sunduğu “Ticari Açıdan” programının konuğu oldu. #ktto... - Kıbrıs Türk Ticaret Odası - Turkish Cypriot Chamber of Commerce",
-      "text_excerpt": "KTTO Meclis &#xdc;yesi Necat Y&#xfc;ksel ve KTTO &#xdc;yesi Packsel LTD. Direkt&#xf6;r&#xfc; Re&#x15f;at Y&#xfc;ksel, 10 Mart 2026 Sal&#x131; BRT&#x2019;de Gizem Y. Davulcu&#x2019;nun sundu&#x11f;u &#x201c;Ticari A&#xe7;&#x131;dan&#x201d;...",
-      "hash": "73b5a42bc900403199b0bc2a0adf40f0d2d9978a104b02d792ad3ecdcc688471"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Necat Yüksel seed source",
+      "text_excerpt": "Necat Yüksel\nprofessional\nKKTC",
+      "hash": "4807f6afef76dbca3bd91bf6321715cb6255cc8faf11f342541f8718f67b3528"
     },
     {
-      "id": "source_417fd14f2b4a5e5a",
+      "id": "source_2969506a4f79a3be",
       "entity_id": "necat-yuksel",
       "url": "https://www.kibrispostasi.com/c117-DOGA_ve_CEVRE/n478957-necat-yuksel-plastik-urun-kullanma-yasagi-sektorleri-kaosa-surukleyecek",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:24.051Z",
-      "title": "Necat Yüksel: Plastik ürün kullanma yasağı sektörleri kaosa sürükleye",
-      "text_excerpt": "KTTO Çevre Komitesi Başkanı Necat Yüksel, alternatif ürünler piyasaya sürülmeden tüm plastik ambalaj paketleme ürünlerinin kullanımının yarından itibaren yasakl",
-      "hash": "96e995278a52ef876960642d7e4ecaa96add48f14f25f3dbca579c4723ad59af"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Necat Yüksel seed source",
+      "text_excerpt": "Necat Yüksel\nprofessional\nKKTC",
+      "hash": "4807f6afef76dbca3bd91bf6321715cb6255cc8faf11f342541f8718f67b3528"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_026b15c209033c0d",
+      "id": "source_1a2f44960995dbb2",
       "entity_id": "necat-yuksel",
       "url": "https://cy.linkedin.com/in/necat-yuksel-65105314",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:23.158Z",
-      "title": "Necat Yüksel source",
-      "text_excerpt": "",
-      "hash": "a346cee9aeb3f94fcf9b8e4f90915959b64564c21544e82ddd5020389cc00d7b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Necat Yüksel seed source",
+      "text_excerpt": "Necat Yüksel\nprofessional\nKKTC",
+      "hash": "4807f6afef76dbca3bd91bf6321715cb6255cc8faf11f342541f8718f67b3528"
     },
     {
-      "id": "source_ecbba1ac77111154",
+      "id": "source_e08e854ea0122478",
       "entity_id": "necat-yuksel",
       "url": "https://www.facebook.com/100064337455760/posts/ktto-meclis-%C3%BCyesi-necat-y%C3%BCksel-ve-ktto-%C3%BCyesi-packsel-ltd-direkt%C3%B6r%C3%BC-re%C5%9Fat-y%C3%BCksel-/1353226340165268",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:23.543Z",
-      "title": "KTTO Meclis Üyesi Necat Yüksel ve KTTO Üyesi Packsel LTD. Direktörü Reşat Yüksel, 10 Mart 2026 Salı BRT’de Gizem Y. Davulcu’nun sunduğu “Ticari Açıdan” programının konuğu oldu. #ktto... - Kıbrıs Türk Ticaret Odası - Turkish Cypriot Chamber of Commerce",
-      "text_excerpt": "KTTO Meclis &#xdc;yesi Necat Y&#xfc;ksel ve KTTO &#xdc;yesi Packsel LTD. Direkt&#xf6;r&#xfc; Re&#x15f;at Y&#xfc;ksel, 10 Mart 2026 Sal&#x131; BRT&#x2019;de Gizem Y. Davulcu&#x2019;nun sundu&#x11f;u &#x201c;Ticari A&#xe7;&#x131;dan&#x201d;...",
-      "hash": "73b5a42bc900403199b0bc2a0adf40f0d2d9978a104b02d792ad3ecdcc688471"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Necat Yüksel seed source",
+      "text_excerpt": "Necat Yüksel\nprofessional\nKKTC",
+      "hash": "4807f6afef76dbca3bd91bf6321715cb6255cc8faf11f342541f8718f67b3528"
     },
     {
-      "id": "source_417fd14f2b4a5e5a",
+      "id": "source_2969506a4f79a3be",
       "entity_id": "necat-yuksel",
       "url": "https://www.kibrispostasi.com/c117-DOGA_ve_CEVRE/n478957-necat-yuksel-plastik-urun-kullanma-yasagi-sektorleri-kaosa-surukleyecek",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:24.051Z",
-      "title": "Necat Yüksel: Plastik ürün kullanma yasağı sektörleri kaosa sürükleye",
-      "text_excerpt": "KTTO Çevre Komitesi Başkanı Necat Yüksel, alternatif ürünler piyasaya sürülmeden tüm plastik ambalaj paketleme ürünlerinin kullanımının yarından itibaren yasakl",
-      "hash": "96e995278a52ef876960642d7e4ecaa96add48f14f25f3dbca579c4723ad59af"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Necat Yüksel seed source",
+      "text_excerpt": "Necat Yüksel\nprofessional\nKKTC",
+      "hash": "4807f6afef76dbca3bd91bf6321715cb6255cc8faf11f342541f8718f67b3528"
     }
   ]
 }

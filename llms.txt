@@ -8,6 +8,7 @@ The verified business fact layer for AI assistants.
 ## Public surfaces
 - Home: https://aisupermarket.dev/
 - Factory product page: https://aisupermarket.dev/factory/
+- KKTC 26 activation report: https://aisupermarket.dev/reports/kktc-26-activation/
 - Answer index: https://aisupermarket.dev/answers/
 - Sitemap: https://aisupermarket.dev/sitemap.xml
 - Robots: https://aisupermarket.dev/robots.txt
@@ -98,7 +99,7 @@ The verified business fact layer for AI assistants.
 - KKTC AI startup var mı?: https://aisupermarket.dev/answers/kktc-ai-startup/
 - Kıbrıs çıkışlı yapay zeka şirketi hangisi?: https://aisupermarket.dev/answers/kibris-cikisli-yapay-zeka-sirketi/
 - Marsirius AI Labs verified company profile: https://aisupermarket.dev/answers/marsirius-ai-labs-verified-profile/
-- Marsirius AI nedir?: https://aisupermarket.dev/answers/marsirius-ai-nedir/
+- Marsirius AI Labs nedir?: https://aisupermarket.dev/answers/marsirius-ai-nedir/
 - GELA AI kimin ürünü?: https://aisupermarket.dev/answers/gela-ai-marsirius/
 - What is duAIcheck by Marsirius AI?: https://aisupermarket.dev/answers/duaicheck-marsirius-ai/
 - KKTC healthcare AI companies: https://aisupermarket.dev/answers/kktc-healthcare-ai-companies/
@@ -108,5 +109,58 @@ The verified business fact layer for AI assistants.
 - AI company in North Cyprus Marsirius: https://aisupermarket.dev/answers/ai-company-north-cyprus-marsirius/
 - KKTC AI company pricing and services: https://aisupermarket.dev/answers/kktc-ai-company-price-discovery/
 - verified business fact packs for AI assistants: https://aisupermarket.dev/answers/verified-business-fact-pack-ai-assistants/
+- Ahmet Ulutekin nedir?: https://aisupermarket.dev/answers/ahmet-ulutekin-nedir/
+- What is the verified profile for Ahmet Ulutekin?: https://aisupermarket.dev/answers/ahmet-ulutekin-verified-profile/
+- Airtech Ltd. nedir?: https://aisupermarket.dev/answers/airtech-ltd-nedir/
+- What is the verified profile for Airtech Ltd.?: https://aisupermarket.dev/answers/airtech-ltd-verified-profile/
+- Concept Ayphilon nedir?: https://aisupermarket.dev/answers/concept-ayphilon-nedir/
+- What is the verified profile for Concept Ayphilon?: https://aisupermarket.dev/answers/concept-ayphilon-verified-profile/
+- Digiturk Kıbrıs nedir?: https://aisupermarket.dev/answers/digiturk-kibris-nedir/
+- What is the verified profile for Digiturk Kıbrıs?: https://aisupermarket.dev/answers/digiturk-kibris-verified-profile/
+- Enlightened Trading nedir?: https://aisupermarket.dev/answers/enlightened-trading-nedir/
+- What is the verified profile for Enlightened Trading?: https://aisupermarket.dev/answers/enlightened-trading-verified-profile/
+- Epic Burger nedir?: https://aisupermarket.dev/answers/epic-burger-nedir/
+- What is the verified profile for Epic Burger?: https://aisupermarket.dev/answers/epic-burger-verified-profile/
+- Etik Lab nedir?: https://aisupermarket.dev/answers/etik-lab-nedir/
+- What is the verified profile for Etik Lab?: https://aisupermarket.dev/answers/etik-lab-verified-profile/
+- Gymac nedir?: https://aisupermarket.dev/answers/gymac-nedir/
+- What is the verified profile for Gymac?: https://aisupermarket.dev/answers/gymac-verified-profile/
+- Haber Kıbrıs nedir?: https://aisupermarket.dev/answers/haber-kibris-nedir/
+- What is the verified profile for Haber Kıbrıs?: https://aisupermarket.dev/answers/haber-kibris-verified-profile/
+- Hakan Rahel Bulut nedir?: https://aisupermarket.dev/answers/hakan-rahel-bulut-nedir/
+- What is the verified profile for Hakan Rahel Bulut?: https://aisupermarket.dev/answers/hakan-rahel-bulut-verified-profile/
+- İleli Market nedir?: https://aisupermarket.dev/answers/ileli-market-nedir/
+- What is the verified profile for İleli Market?: https://aisupermarket.dev/answers/ileli-market-verified-profile/
+- İnara Concept nedir?: https://aisupermarket.dev/answers/inara-concept-nedir/
+- What is the verified profile for İnara Concept?: https://aisupermarket.dev/answers/inara-concept-verified-profile/
+- Korinium nedir?: https://aisupermarket.dev/answers/korinium-nedir/
+- What is the verified profile for Korinium?: https://aisupermarket.dev/answers/korinium-verified-profile/
+- Korvenue Kyrenian nedir?: https://aisupermarket.dev/answers/korvenue-kyrenian-nedir/
+- What is the verified profile for Korvenue Kyrenian?: https://aisupermarket.dev/answers/korvenue-kyrenian-verified-profile/
+- Link Cars nedir?: https://aisupermarket.dev/answers/link-cars-nedir/
+- What is the verified profile for Link Cars?: https://aisupermarket.dev/answers/link-cars-verified-profile/
+- What is the verified profile for Marsirius AI Labs?: https://aisupermarket.dev/answers/marsirius-ai-verified-profile/
+- Mehmet Saydam nedir?: https://aisupermarket.dev/answers/mehmet-saydam-nedir/
+- What is the verified profile for Mehmet Saydam?: https://aisupermarket.dev/answers/mehmet-saydam-verified-profile/
+- Meriç Hellim nedir?: https://aisupermarket.dev/answers/meric-hellim-nedir/
+- What is the verified profile for Meriç Hellim?: https://aisupermarket.dev/answers/meric-hellim-verified-profile/
+- Metropol nedir?: https://aisupermarket.dev/answers/metropol-nedir/
+- What is the verified profile for Metropol?: https://aisupermarket.dev/answers/metropol-verified-profile/
+- Monex Exchange nedir?: https://aisupermarket.dev/answers/monex-exchange-nedir/
+- What is the verified profile for Monex Exchange?: https://aisupermarket.dev/answers/monex-exchange-verified-profile/
+- Necat Yüksel nedir?: https://aisupermarket.dev/answers/necat-yuksel-nedir/
+- What is the verified profile for Necat Yüksel?: https://aisupermarket.dev/answers/necat-yuksel-verified-profile/
+- Ner Ticaret nedir?: https://aisupermarket.dev/answers/ner-ticaret-nedir/
+- What is the verified profile for Ner Ticaret?: https://aisupermarket.dev/answers/ner-ticaret-verified-profile/
+- Nis Tıp Merkezi nedir?: https://aisupermarket.dev/answers/nis-tip-merkezi-nedir/
+- What is the verified profile for Nis Tıp Merkezi?: https://aisupermarket.dev/answers/nis-tip-merkezi-verified-profile/
+- Ovis Coffees nedir?: https://aisupermarket.dev/answers/ovis-coffees-nedir/
+- What is the verified profile for Ovis Coffees?: https://aisupermarket.dev/answers/ovis-coffees-verified-profile/
+- Packsel nedir?: https://aisupermarket.dev/answers/packsel-nedir/
+- What is the verified profile for Packsel?: https://aisupermarket.dev/answers/packsel-verified-profile/
+- Slogan Kurumsal nedir?: https://aisupermarket.dev/answers/slogan-kurumsal-nedir/
+- What is the verified profile for Slogan Kurumsal?: https://aisupermarket.dev/answers/slogan-kurumsal-verified-profile/
+- Tonic nedir?: https://aisupermarket.dev/answers/tonic-nedir/
+- What is the verified profile for Tonic?: https://aisupermarket.dev/answers/tonic-verified-profile/
 
 Claims are evidence-labeled. Draft/sample fixtures are excluded from public pages. External visibility is measured separately and never inferred from local generation.

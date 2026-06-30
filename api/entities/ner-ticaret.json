@@ -1,7 +1,7 @@
 {
   "id": "ner-ticaret",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:29.000Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Ner Ticaret",
   "summary": "Ner Ticaret is a trade business entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_b416070d1b88dd73",
+      "id": "source_11f0a558c650c524",
       "entity_id": "ner-ticaret",
       "url": "https://www.volza.com/company-profile/ner-ticaret-limited-90510898",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:24.335Z",
-      "title": "Attention Required! | Cloudflare",
-      "text_excerpt": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access volza.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a13e60c26e38d0d2 &bull; Your IP: Click to reveal 2a0d:3344:6d98:5008:3d4f:e28c:9865:501d &bull; Performance &amp; security by Cloudflare",
-      "hash": "63e37991774497fca45ef545ce2ceeec41c6b35061abca7f4fafc2408dac648a"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Ner Ticaret seed source",
+      "text_excerpt": "Ner Ticaret\ntrade business\nKKTC",
+      "hash": "2be0035786d25fb4c49a33b52ba746908e54b8ef0ef52932f6d48b31bf0a0f35"
     },
     {
-      "id": "source_645408805b7cc142",
+      "id": "source_446dc993bb827b52",
       "entity_id": "ner-ticaret",
       "url": "https://kimibilin.com/f/n-e-r-ticaret-ltd",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:27.859Z",
-      "title": "N.E.R. Ticaret Ltd. - Lefkoşa Kimya Sektörü Kuzey Kıbrıs (KKTC) - İş Yeri / Firma Bilgileri | kimibilin.com",
-      "text_excerpt": "N.E.R. Ticaret Ltd. Lefkoşa Kimya Sektörü adres, telefon, e-mail, sosyal medya iletişim bilgileri, müşterileri değerlendirmeleri ve çalışma saatleri",
-      "hash": "9e8c51f0a985472fa03ead3306f6852e3a82eff37852405d07fc53aaf6879bb3"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Ner Ticaret seed source",
+      "text_excerpt": "Ner Ticaret\ntrade business\nKKTC",
+      "hash": "2be0035786d25fb4c49a33b52ba746908e54b8ef0ef52932f6d48b31bf0a0f35"
     },
     {
-      "id": "source_8e7fe22acedf3fef",
+      "id": "source_f4d797c2995861e6",
       "entity_id": "ner-ticaret",
       "url": "https://www.info-clipper.com/en/company/northern-cyprus/ner-ticaret-ltd.xtd9cp866.html",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:28.999Z",
-      "title": "N.E.R. TICARET LTD Northern Cyprus, Lefkosa | Info-clipper.com",
-      "text_excerpt": "Obtain information about N.E.R. TICARET LTD : Get Turkish Cypriot Registry information, check legal status, identify shareholders and directors, assess financial performance. Start here KYC, compliance and Due Diligence processes.",
-      "hash": "fa5bb2254941240a6b220049099610ea4ee1197c5798ac604a58d2515d1bf9a2"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Ner Ticaret seed source",
+      "text_excerpt": "Ner Ticaret\ntrade business\nKKTC",
+      "hash": "2be0035786d25fb4c49a33b52ba746908e54b8ef0ef52932f6d48b31bf0a0f35"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_b416070d1b88dd73",
+      "id": "source_11f0a558c650c524",
       "entity_id": "ner-ticaret",
       "url": "https://www.volza.com/company-profile/ner-ticaret-limited-90510898",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:24.335Z",
-      "title": "Attention Required! | Cloudflare",
-      "text_excerpt": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access volza.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a13e60c26e38d0d2 &bull; Your IP: Click to reveal 2a0d:3344:6d98:5008:3d4f:e28c:9865:501d &bull; Performance &amp; security by Cloudflare",
-      "hash": "63e37991774497fca45ef545ce2ceeec41c6b35061abca7f4fafc2408dac648a"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Ner Ticaret seed source",
+      "text_excerpt": "Ner Ticaret\ntrade business\nKKTC",
+      "hash": "2be0035786d25fb4c49a33b52ba746908e54b8ef0ef52932f6d48b31bf0a0f35"
     },
     {
-      "id": "source_645408805b7cc142",
+      "id": "source_446dc993bb827b52",
       "entity_id": "ner-ticaret",
       "url": "https://kimibilin.com/f/n-e-r-ticaret-ltd",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:27.859Z",
-      "title": "N.E.R. Ticaret Ltd. - Lefkoşa Kimya Sektörü Kuzey Kıbrıs (KKTC) - İş Yeri / Firma Bilgileri | kimibilin.com",
-      "text_excerpt": "N.E.R. Ticaret Ltd. Lefkoşa Kimya Sektörü adres, telefon, e-mail, sosyal medya iletişim bilgileri, müşterileri değerlendirmeleri ve çalışma saatleri",
-      "hash": "9e8c51f0a985472fa03ead3306f6852e3a82eff37852405d07fc53aaf6879bb3"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Ner Ticaret seed source",
+      "text_excerpt": "Ner Ticaret\ntrade business\nKKTC",
+      "hash": "2be0035786d25fb4c49a33b52ba746908e54b8ef0ef52932f6d48b31bf0a0f35"
     },
     {
-      "id": "source_8e7fe22acedf3fef",
+      "id": "source_f4d797c2995861e6",
       "entity_id": "ner-ticaret",
       "url": "https://www.info-clipper.com/en/company/northern-cyprus/ner-ticaret-ltd.xtd9cp866.html",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:28.999Z",
-      "title": "N.E.R. TICARET LTD Northern Cyprus, Lefkosa | Info-clipper.com",
-      "text_excerpt": "Obtain information about N.E.R. TICARET LTD : Get Turkish Cypriot Registry information, check legal status, identify shareholders and directors, assess financial performance. Start here KYC, compliance and Due Diligence processes.",
-      "hash": "fa5bb2254941240a6b220049099610ea4ee1197c5798ac604a58d2515d1bf9a2"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Ner Ticaret seed source",
+      "text_excerpt": "Ner Ticaret\ntrade business\nKKTC",
+      "hash": "2be0035786d25fb4c49a33b52ba746908e54b8ef0ef52932f6d48b31bf0a0f35"
     }
   ]
 }

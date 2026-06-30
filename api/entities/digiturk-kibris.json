@@ -1,7 +1,7 @@
 {
   "id": "digiturk-kibris",
   "version": 1,
-  "generated_at": "2026-06-30T15:58:57.456Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Digiturk Kıbrıs",
   "summary": "Digiturk Kıbrıs is a broadcasting entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_fd499f629a738794",
+      "id": "source_88cbb26e78dd16bb",
       "entity_id": "digiturk-kibris",
       "url": "https://digiturkkibris.com",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:56.403Z",
-      "title": "Digiturk Kıbrıs",
-      "text_excerpt": "Örnek Açıklama",
-      "hash": "d0df38330699e82f42da416115151958c23f69323ee70d0519d2bd194c19085d"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Digiturk Kıbrıs seed source",
+      "text_excerpt": "Digiturk Kıbrıs\nbroadcasting\nKKTC",
+      "hash": "48d3723353fd746245223d04e9e7135666022a11834ba3d77806110f49b3fba3"
     },
     {
-      "id": "source_10cff19ed49dfc1c",
+      "id": "source_e3fc32b02a089b5e",
       "entity_id": "digiturk-kibris",
       "url": "https://www.facebook.com/Digiturkkibris",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:56.957Z",
-      "title": "Digiturk Kıbrıs | Nicosia",
-      "text_excerpt": "Digiturk K&#x131;br&#x131;s, &#x39b;&#x3b5;&#x3c5;&#x3ba;&#x3c9;&#x3c3;&#x3af;&#x3b1;. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 11.915 &#xb7; 8 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1;. Digiturk bir beIN Medya Kurulu&#x15f;udur.",
-      "hash": "5ccf2ab14f7ed61ccb3c873b7d607f152a4bbb8a3afdcafa9fea40fd57918a23"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Digiturk Kıbrıs seed source",
+      "text_excerpt": "Digiturk Kıbrıs\nbroadcasting\nKKTC",
+      "hash": "48d3723353fd746245223d04e9e7135666022a11834ba3d77806110f49b3fba3"
     },
     {
-      "id": "source_386322359f6d6d60",
+      "id": "source_3b6ce0ec51deaf12",
       "entity_id": "digiturk-kibris",
       "url": "https://www.instagram.com/digiturkkibris/?hl=en",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:57.454Z",
-      "title": "Digiturk Kıbrıs (&#064;digiturkkibris) • Instagram photos and videos",
-      "text_excerpt": "Digiturk Kıbrıs (&#064;digiturkkibris) • Instagram photos and videos",
-      "hash": "cde9034bb411487d235af7218c8b6a2172c39f19e6983465c4a08d244f55e63a"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Digiturk Kıbrıs seed source",
+      "text_excerpt": "Digiturk Kıbrıs\nbroadcasting\nKKTC",
+      "hash": "48d3723353fd746245223d04e9e7135666022a11834ba3d77806110f49b3fba3"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_fd499f629a738794",
+      "id": "source_88cbb26e78dd16bb",
       "entity_id": "digiturk-kibris",
       "url": "https://digiturkkibris.com",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:56.403Z",
-      "title": "Digiturk Kıbrıs",
-      "text_excerpt": "Örnek Açıklama",
-      "hash": "d0df38330699e82f42da416115151958c23f69323ee70d0519d2bd194c19085d"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Digiturk Kıbrıs seed source",
+      "text_excerpt": "Digiturk Kıbrıs\nbroadcasting\nKKTC",
+      "hash": "48d3723353fd746245223d04e9e7135666022a11834ba3d77806110f49b3fba3"
     },
     {
-      "id": "source_10cff19ed49dfc1c",
+      "id": "source_e3fc32b02a089b5e",
       "entity_id": "digiturk-kibris",
       "url": "https://www.facebook.com/Digiturkkibris",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:56.957Z",
-      "title": "Digiturk Kıbrıs | Nicosia",
-      "text_excerpt": "Digiturk K&#x131;br&#x131;s, &#x39b;&#x3b5;&#x3c5;&#x3ba;&#x3c9;&#x3c3;&#x3af;&#x3b1;. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 11.915 &#xb7; 8 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1;. Digiturk bir beIN Medya Kurulu&#x15f;udur.",
-      "hash": "5ccf2ab14f7ed61ccb3c873b7d607f152a4bbb8a3afdcafa9fea40fd57918a23"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Digiturk Kıbrıs seed source",
+      "text_excerpt": "Digiturk Kıbrıs\nbroadcasting\nKKTC",
+      "hash": "48d3723353fd746245223d04e9e7135666022a11834ba3d77806110f49b3fba3"
     },
     {
-      "id": "source_386322359f6d6d60",
+      "id": "source_3b6ce0ec51deaf12",
       "entity_id": "digiturk-kibris",
       "url": "https://www.instagram.com/digiturkkibris/?hl=en",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:57.454Z",
-      "title": "Digiturk Kıbrıs (&#064;digiturkkibris) • Instagram photos and videos",
-      "text_excerpt": "Digiturk Kıbrıs (&#064;digiturkkibris) • Instagram photos and videos",
-      "hash": "cde9034bb411487d235af7218c8b6a2172c39f19e6983465c4a08d244f55e63a"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Digiturk Kıbrıs seed source",
+      "text_excerpt": "Digiturk Kıbrıs\nbroadcasting\nKKTC",
+      "hash": "48d3723353fd746245223d04e9e7135666022a11834ba3d77806110f49b3fba3"
     }
   ]
 }

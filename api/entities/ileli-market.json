@@ -1,7 +1,7 @@
 {
   "id": "ileli-market",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:09.708Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "İleli Market",
   "summary": "İleli Market is a market entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_b3d12ad99282bfea",
+      "id": "source_247641a9d2ffc4c1",
       "entity_id": "ileli-market",
       "url": "https://www.instagram.com/ilelisupermarket/?hl=en",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:07.551Z",
-      "title": "Ileli Süpermarket (&#064;ilelisupermarket) • Instagram photos and videos",
-      "text_excerpt": "Ileli Süpermarket (&#064;ilelisupermarket) • Instagram photos and videos",
-      "hash": "becc2110ac285c26fb12cecf0fc4c81036bbc91d69ff5159cd715c6dc74c7485"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "İleli Market seed source",
+      "text_excerpt": "İleli Market\nmarket\nKKTC",
+      "hash": "2c8957863d891598f4b93d14d357e66ec2430008c175df8bd8dcb0cdb9220fe5"
     },
     {
-      "id": "source_d42c0e1cd7bf2c41",
+      "id": "source_1cc2fad32e30dfe9",
       "entity_id": "ileli-market",
       "url": "https://newcyprusguide.com/business/ileli-market",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:08.752Z",
-      "title": "İleli Market &#8211; New Cyprus Guide",
-      "text_excerpt": "İleli Market &#8211; New Cyprus Guide Skip to content New Cyprus Guide Keywords Bafra Famagusta Guzelyurt Iskele Karpaz Kyrenia Nicosia All Eat &#038; Drink Restaurants Cafes Bars Clubs See &#038; Do Activities Attractions Beaches Casinos Shopping Cosmetics Electronics Fashion Florist For Your Home Curtains &#038; Fabrics Home Design Furniture Kitchens Bathrooms White Goods Garden Centers Grocery Stores Minimarket Supermarket Open 24/7 Jewellery Glasses Watches More Accommodation Hotels Health &#038; Beauty Barbers Beauty Salons Dentists Gym Centres Hairdressers Hospitals IVF Clinics Laboratories Medical Aesthetics Pharmacies Plastic Surgeon Spa &#038; Wellness Cars Rent a Car Car Sales Galleries Car Accessories Car Repairs Car Wash Real Estate Construction Estate Agents Services Banks Exc",
-      "hash": "e72f4857a9197eed7ce2946ca8e0fb2f35dbd8f46facf4fcde08582fa68ca847"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "İleli Market seed source",
+      "text_excerpt": "İleli Market\nmarket\nKKTC",
+      "hash": "2c8957863d891598f4b93d14d357e66ec2430008c175df8bd8dcb0cdb9220fe5"
     },
     {
-      "id": "source_fa02ef1f8dc00a9f",
+      "id": "source_c33715ee00339a2e",
       "entity_id": "ileli-market",
       "url": "https://cyprus-faq.com/tr/north/produkty-pitaniya/produktovye-magaziny-s-dostavkoi-na-severnom-kipre",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:09.707Z",
-      "title": "Kuzey Kıbrıs'ta Market Alışverişi Teslimatı | CYPRUS FAQ",
-      "text_excerpt": "Kuzey Kıbrıs&#039;ta market siparişi nereden verilir: Nesdersan, Sarper, Unimar, Ileli, Erdener, Starling. Web sitesi veya WhatsApp üzerinden sipariş, ödeme öncesi kontroller ve 24 saat açık marketler.",
-      "hash": "4af4a1af548191faa80876e1cf37810c1226827e522a71c55f595d6f7bc52e1b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "İleli Market seed source",
+      "text_excerpt": "İleli Market\nmarket\nKKTC",
+      "hash": "2c8957863d891598f4b93d14d357e66ec2430008c175df8bd8dcb0cdb9220fe5"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_b3d12ad99282bfea",
+      "id": "source_247641a9d2ffc4c1",
       "entity_id": "ileli-market",
       "url": "https://www.instagram.com/ilelisupermarket/?hl=en",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:07.551Z",
-      "title": "Ileli Süpermarket (&#064;ilelisupermarket) • Instagram photos and videos",
-      "text_excerpt": "Ileli Süpermarket (&#064;ilelisupermarket) • Instagram photos and videos",
-      "hash": "becc2110ac285c26fb12cecf0fc4c81036bbc91d69ff5159cd715c6dc74c7485"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "İleli Market seed source",
+      "text_excerpt": "İleli Market\nmarket\nKKTC",
+      "hash": "2c8957863d891598f4b93d14d357e66ec2430008c175df8bd8dcb0cdb9220fe5"
     },
     {
-      "id": "source_d42c0e1cd7bf2c41",
+      "id": "source_1cc2fad32e30dfe9",
       "entity_id": "ileli-market",
       "url": "https://newcyprusguide.com/business/ileli-market",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:08.752Z",
-      "title": "İleli Market &#8211; New Cyprus Guide",
-      "text_excerpt": "İleli Market &#8211; New Cyprus Guide Skip to content New Cyprus Guide Keywords Bafra Famagusta Guzelyurt Iskele Karpaz Kyrenia Nicosia All Eat &#038; Drink Restaurants Cafes Bars Clubs See &#038; Do Activities Attractions Beaches Casinos Shopping Cosmetics Electronics Fashion Florist For Your Home Curtains &#038; Fabrics Home Design Furniture Kitchens Bathrooms White Goods Garden Centers Grocery Stores Minimarket Supermarket Open 24/7 Jewellery Glasses Watches More Accommodation Hotels Health &#038; Beauty Barbers Beauty Salons Dentists Gym Centres Hairdressers Hospitals IVF Clinics Laboratories Medical Aesthetics Pharmacies Plastic Surgeon Spa &#038; Wellness Cars Rent a Car Car Sales Galleries Car Accessories Car Repairs Car Wash Real Estate Construction Estate Agents Services Banks Exc",
-      "hash": "e72f4857a9197eed7ce2946ca8e0fb2f35dbd8f46facf4fcde08582fa68ca847"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "İleli Market seed source",
+      "text_excerpt": "İleli Market\nmarket\nKKTC",
+      "hash": "2c8957863d891598f4b93d14d357e66ec2430008c175df8bd8dcb0cdb9220fe5"
     },
     {
-      "id": "source_fa02ef1f8dc00a9f",
+      "id": "source_c33715ee00339a2e",
       "entity_id": "ileli-market",
       "url": "https://cyprus-faq.com/tr/north/produkty-pitaniya/produktovye-magaziny-s-dostavkoi-na-severnom-kipre",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:09.707Z",
-      "title": "Kuzey Kıbrıs'ta Market Alışverişi Teslimatı | CYPRUS FAQ",
-      "text_excerpt": "Kuzey Kıbrıs&#039;ta market siparişi nereden verilir: Nesdersan, Sarper, Unimar, Ileli, Erdener, Starling. Web sitesi veya WhatsApp üzerinden sipariş, ödeme öncesi kontroller ve 24 saat açık marketler.",
-      "hash": "4af4a1af548191faa80876e1cf37810c1226827e522a71c55f595d6f7bc52e1b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "İleli Market seed source",
+      "text_excerpt": "İleli Market\nmarket\nKKTC",
+      "hash": "2c8957863d891598f4b93d14d357e66ec2430008c175df8bd8dcb0cdb9220fe5"
     }
   ]
 }

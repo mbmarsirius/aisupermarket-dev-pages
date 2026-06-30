@@ -1,7 +1,7 @@
 {
   "id": "link-cars",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:16.328Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Link Cars",
   "summary": "Link Cars is a car dealership entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_6f43db84a910be83",
+      "id": "source_cebd080f8734c5d0",
       "entity_id": "link-cars",
       "url": "https://www.kktcarabam.com/uye/link-cars",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:15.108Z",
-      "title": "Just a moment...",
-      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
-      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Link Cars seed source",
+      "text_excerpt": "Link Cars\ncar dealership\nKKTC",
+      "hash": "8b62a3b034d0a67064c5b5e9ce3cfdb1e7ba764823a55e9727386267ffb7e42f"
     },
     {
-      "id": "source_6622a6288d471a9b",
+      "id": "source_0a9f3075108501c8",
       "entity_id": "link-cars",
       "url": "https://www.facebook.com/p/Link-Cars-100091327444873",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:15.521Z",
-      "title": "Link Cars | Lefkosa",
-      "text_excerpt": "Link Cars, Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 1.438. Ortak&#xf6;y-Lefko&#x15f;a",
-      "hash": "c405644ce91c895e558b14ba4a267aecbaeafaedd2b3e17a6adbf2cf8e86091b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Link Cars seed source",
+      "text_excerpt": "Link Cars\ncar dealership\nKKTC",
+      "hash": "8b62a3b034d0a67064c5b5e9ce3cfdb1e7ba764823a55e9727386267ffb7e42f"
     },
     {
-      "id": "source_be2c5e8e950dbab1",
+      "id": "source_6805bb5e760311b5",
       "entity_id": "link-cars",
       "url": "https://www.japanesecartrade.com/truslinkcars",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.327Z",
-      "title": "Link Cars source",
-      "text_excerpt": "--> &nbsp;Favorite &nbsp;Remove Login / Signup Powered by &nbsp;&nbsp; Japanese CarTrade .com --> --> Home About Us Inquiry Japan Used Cars for Zambia Send Inquiry for Used Cars --> --> Search &nbsp; More Filter Trust Link Cars & Logistics, Lusaka, Zambia &nbsp;Japan Time: &times; Welcome to Trust Link Cars & Logistics Trust Link Cars & Logistics Company specializes in sourcing and distributing motor vehicles from reputable dealers in Japan to Zambia. In addition to vehicle procurement, we offer comprehensive shipping services to ensure safe and timely delivery. Read More Contact Details Address Chelstone Mubanga Road No. 928, Lusaka, Zambia, 10101 More Info. To buy any vehicle from Trust Link Cars & Logistics, Please submit below inquiry form. Vehicle & Contact Information Make * Model * ",
-      "hash": "1d891d98e53aea18d3ac888ac6f5d8004eec04f32ef02cd67f109cbcbd8157b0"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Link Cars seed source",
+      "text_excerpt": "Link Cars\ncar dealership\nKKTC",
+      "hash": "8b62a3b034d0a67064c5b5e9ce3cfdb1e7ba764823a55e9727386267ffb7e42f"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_6f43db84a910be83",
+      "id": "source_cebd080f8734c5d0",
       "entity_id": "link-cars",
       "url": "https://www.kktcarabam.com/uye/link-cars",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:15.108Z",
-      "title": "Just a moment...",
-      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
-      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Link Cars seed source",
+      "text_excerpt": "Link Cars\ncar dealership\nKKTC",
+      "hash": "8b62a3b034d0a67064c5b5e9ce3cfdb1e7ba764823a55e9727386267ffb7e42f"
     },
     {
-      "id": "source_6622a6288d471a9b",
+      "id": "source_0a9f3075108501c8",
       "entity_id": "link-cars",
       "url": "https://www.facebook.com/p/Link-Cars-100091327444873",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:15.521Z",
-      "title": "Link Cars | Lefkosa",
-      "text_excerpt": "Link Cars, Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 1.438. Ortak&#xf6;y-Lefko&#x15f;a",
-      "hash": "c405644ce91c895e558b14ba4a267aecbaeafaedd2b3e17a6adbf2cf8e86091b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Link Cars seed source",
+      "text_excerpt": "Link Cars\ncar dealership\nKKTC",
+      "hash": "8b62a3b034d0a67064c5b5e9ce3cfdb1e7ba764823a55e9727386267ffb7e42f"
     },
     {
-      "id": "source_be2c5e8e950dbab1",
+      "id": "source_6805bb5e760311b5",
       "entity_id": "link-cars",
       "url": "https://www.japanesecartrade.com/truslinkcars",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.327Z",
-      "title": "Link Cars source",
-      "text_excerpt": "--> &nbsp;Favorite &nbsp;Remove Login / Signup Powered by &nbsp;&nbsp; Japanese CarTrade .com --> --> Home About Us Inquiry Japan Used Cars for Zambia Send Inquiry for Used Cars --> --> Search &nbsp; More Filter Trust Link Cars & Logistics, Lusaka, Zambia &nbsp;Japan Time: &times; Welcome to Trust Link Cars & Logistics Trust Link Cars & Logistics Company specializes in sourcing and distributing motor vehicles from reputable dealers in Japan to Zambia. In addition to vehicle procurement, we offer comprehensive shipping services to ensure safe and timely delivery. Read More Contact Details Address Chelstone Mubanga Road No. 928, Lusaka, Zambia, 10101 More Info. To buy any vehicle from Trust Link Cars & Logistics, Please submit below inquiry form. Vehicle & Contact Information Make * Model * ",
-      "hash": "1d891d98e53aea18d3ac888ac6f5d8004eec04f32ef02cd67f109cbcbd8157b0"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Link Cars seed source",
+      "text_excerpt": "Link Cars\ncar dealership\nKKTC",
+      "hash": "8b62a3b034d0a67064c5b5e9ce3cfdb1e7ba764823a55e9727386267ffb7e42f"
     }
   ]
 }

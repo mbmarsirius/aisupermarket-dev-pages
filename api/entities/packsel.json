@@ -1,7 +1,7 @@
 {
   "id": "packsel",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:42.777Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Packsel",
   "summary": "Packsel is a business entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_c9110447f633391c",
+      "id": "source_ee74b44592ec9718",
       "entity_id": "packsel",
       "url": "https://www.packsel.com/page/iletisim",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:40.765Z",
-      "title": "İletişim Bilgileri | Packsel Ltd. Şti.",
-      "text_excerpt": "SEO MODÜLÜ AKTİF DEĞİL!",
-      "hash": "72bc3c8444a9881bc9d5458ddda117a9828d0699b6bab40542f170b4d4eeafd4"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Packsel seed source",
+      "text_excerpt": "Packsel\nbusiness\nKKTC",
+      "hash": "e532c3af7619b79b84e79baad806b3300e2c0dc90a183e23512a95febd551d12"
     },
     {
-      "id": "source_21590dcc4d65ca5c",
+      "id": "source_e27afc9485a8173c",
       "entity_id": "packsel",
       "url": "https://www.facebook.com/p/Packsel-LTD-100075883375033",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:42.355Z",
-      "title": "Packsel LTD. | Lefkosa",
-      "text_excerpt": "Packsel  LTD., Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 3.608 &#xb7; 10 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. PACKSEL&#039;in geli&#x15f;iminde en b&#xfc;y&#xfc;k etken; konusunda uzman, titiz, m&#xfc;&#x15f;teri ve sonu&#xe7; odakl&#x131;  kadro",
-      "hash": "c35f1379c138d0c7fb4092ed9190e582c715b82f16931623e9658484d9d0e0e2"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Packsel seed source",
+      "text_excerpt": "Packsel\nbusiness\nKKTC",
+      "hash": "e532c3af7619b79b84e79baad806b3300e2c0dc90a183e23512a95febd551d12"
     },
     {
-      "id": "source_0e36e1eb73269245",
+      "id": "source_234a1d58495faeef",
       "entity_id": "packsel",
       "url": "https://www.instagram.com/packselltd/?hl=en",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:42.776Z",
-      "title": "Packsel LTD. (&#064;packselltd) • Instagram photos and videos",
-      "text_excerpt": "Packsel LTD. (&#064;packselltd) • Instagram photos and videos",
-      "hash": "2576342e76833f3afed0292ee435d3cc26c70fce3c09a96f0c833f60614f284e"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Packsel seed source",
+      "text_excerpt": "Packsel\nbusiness\nKKTC",
+      "hash": "e532c3af7619b79b84e79baad806b3300e2c0dc90a183e23512a95febd551d12"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_c9110447f633391c",
+      "id": "source_ee74b44592ec9718",
       "entity_id": "packsel",
       "url": "https://www.packsel.com/page/iletisim",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:40.765Z",
-      "title": "İletişim Bilgileri | Packsel Ltd. Şti.",
-      "text_excerpt": "SEO MODÜLÜ AKTİF DEĞİL!",
-      "hash": "72bc3c8444a9881bc9d5458ddda117a9828d0699b6bab40542f170b4d4eeafd4"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Packsel seed source",
+      "text_excerpt": "Packsel\nbusiness\nKKTC",
+      "hash": "e532c3af7619b79b84e79baad806b3300e2c0dc90a183e23512a95febd551d12"
     },
     {
-      "id": "source_21590dcc4d65ca5c",
+      "id": "source_e27afc9485a8173c",
       "entity_id": "packsel",
       "url": "https://www.facebook.com/p/Packsel-LTD-100075883375033",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:42.355Z",
-      "title": "Packsel LTD. | Lefkosa",
-      "text_excerpt": "Packsel  LTD., Lefkosa. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 3.608 &#xb7; 10 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. PACKSEL&#039;in geli&#x15f;iminde en b&#xfc;y&#xfc;k etken; konusunda uzman, titiz, m&#xfc;&#x15f;teri ve sonu&#xe7; odakl&#x131;  kadro",
-      "hash": "c35f1379c138d0c7fb4092ed9190e582c715b82f16931623e9658484d9d0e0e2"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Packsel seed source",
+      "text_excerpt": "Packsel\nbusiness\nKKTC",
+      "hash": "e532c3af7619b79b84e79baad806b3300e2c0dc90a183e23512a95febd551d12"
     },
     {
-      "id": "source_0e36e1eb73269245",
+      "id": "source_234a1d58495faeef",
       "entity_id": "packsel",
       "url": "https://www.instagram.com/packselltd/?hl=en",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:42.776Z",
-      "title": "Packsel LTD. (&#064;packselltd) • Instagram photos and videos",
-      "text_excerpt": "Packsel LTD. (&#064;packselltd) • Instagram photos and videos",
-      "hash": "2576342e76833f3afed0292ee435d3cc26c70fce3c09a96f0c833f60614f284e"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Packsel seed source",
+      "text_excerpt": "Packsel\nbusiness\nKKTC",
+      "hash": "e532c3af7619b79b84e79baad806b3300e2c0dc90a183e23512a95febd551d12"
     }
   ]
 }

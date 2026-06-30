@@ -1,7 +1,7 @@
 {
   "id": "marsirius-ai",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:16.330Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Marsirius AI Labs",
   "summary": "Marsirius AI Labs is an AI and breakthrough-technology company focused on healthcare diagnostics, AI-powered applications, and quantum research, with public products/initiatives including duAIcheck, GELA AI, SHEEP, Marsbot, and Quantact.",
   "categories": [
@@ -49,14 +49,14 @@
       "requires_human_review": false
     },
     {
-      "id": "claim_4af58bbac0cd77b0",
+      "id": "claim_3434e185d066e40f",
       "claim": "Marsirius AI Labs is listed for the Cyprus market in AI Supermarket intake data.",
       "claim_type": "market",
-      "status": "third_party_reported",
+      "status": "owned_source_verified",
       "evidence": [
-        "https://www.linkedin.com/posts/marsirius-ai_medical-horizons-srl-and-marsirius-ai-activity-7316790309546328064-jx5q"
+        "https://marsirius.ai/"
       ],
-      "confidence": 0.68,
+      "confidence": 0.82,
       "risk_level": "low",
       "requires_human_review": false
     },
@@ -155,277 +155,97 @@
       "confidence": 0.82,
       "risk_level": "low",
       "requires_human_review": false
+    },
+    {
+      "id": "claim_9b55f09ef01332a5",
+      "claim": "Marsirius AI Labs operates an official website describing AI applications and breakthrough-technology work.",
+      "claim_type": "contact",
+      "status": "owned_source_verified",
+      "evidence": [
+        "https://marsirius.ai/"
+      ],
+      "confidence": 0.82,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_1f4d53b1d99e714f",
+      "claim": "duAIcheck is presented as an AI diagnostic platform with pay-per-scan access to medical AI models.",
+      "claim_type": "product",
+      "status": "needs_human_review",
+      "evidence": [
+        "https://marsirius.ai/duaicheck-trial"
+      ],
+      "confidence": 0.82,
+      "risk_level": "high",
+      "requires_human_review": true
+    },
+    {
+      "id": "claim_d9688f1b625230ea",
+      "claim": "GELA AI is listed under Marsirius AI Labs on the Apple App Store.",
+      "claim_type": "product",
+      "status": "third_party_reported",
+      "evidence": [
+        "https://apps.apple.com/cy/developer/marsirius-ai-labs/id1859661512"
+      ],
+      "confidence": 0.68,
+      "risk_level": "low",
+      "requires_human_review": false
     }
   ],
   "evidence_sources": [
     {
-      "id": "source_6046bf7eb3c9fd61",
+      "id": "source_6e5e61d86cfd384d",
       "entity_id": "marsirius-ai",
       "url": "https://marsirius.ai/",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius AI Labs | Rewriting the Future",
-      "text_excerpt": "Leveraging artificial intelligence and breakthrough technologies to address medicine's most profound challenges through diagnostic excellence.",
-      "hash": "57d5a2938b84c4ae451668a3593bc03e5e4798c549d1db7202d060cb9bbf7b08",
-      "explicit_claims": []
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Marsirius AI Labs",
+      "text_excerpt": "Marsirius AI Labs describes AI-powered diagnostic automation, AI applications, and breakthrough technology work.",
+      "hash": "b2cdd4744704e8fa14356504fd2433df7d83728fe0fa52c17ea207676f5de5e1",
+      "explicit_claims": [
+        {
+          "claim": "Marsirius AI Labs operates an official website describing AI applications and breakthrough-technology work.",
+          "claim_type": "contact"
+        }
+      ]
     },
     {
-      "id": "source_f0b2b3a7573478e9",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.medicalhorizons.it/post/medical-horizons-announces-termination-of-collaboration-with-marsirius-ai-labs",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Medical Horizons Announces Termination of Collaboration with ...",
-      "text_excerpt": "Medical Horizons officially announces the termination of its collaboration with Marsirius AI Labs. After careful evaluation and mutual ...",
-      "hash": "07ca8ebb2444238b795f7ebcd035161721e8b5b285d86070d8a42834ffcb2d97",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e48973cd0496b5ce",
-      "entity_id": "marsirius-ai",
-      "url": "https://cy.linkedin.com/company/marsirius-ai",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius.ai | LinkedIn",
-      "text_excerpt": "Marsirius AI Labs is a pioneering AI-driven healthcare innovation company focused on transforming medical diagnostics through cutting-edge artificial ...",
-      "hash": "67edef7ec9cb0c600ec0eb3d1d8154b7a9e6af23329420d46cccaa591d7d2039",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_c5a7973939054923",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.instagram.com/marsirius.ai/",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "(@marsirius.ai) • Instagram photos and videos",
-      "text_excerpt": "Marsirius AI Labs is Engineering the future at the edge of AI, quantum, and cosmic ambition from healthcare to everyday problems,aiming for the stars.",
-      "hash": "1687d0f3f817bc3d062d5ff6d669b031465fbcdc3ac34dfc3a61d2f5da31287b",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_369dc09222b08d5b",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.linkedin.com/posts/marsirius-ai_medical-horizons-srl-and-marsirius-ai-activity-7316790309546328064-jx5q",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Medical Horizons and Marsirius AI Labs partner for radiology",
-      "text_excerpt": "Medical Horizons S.r.l. and Marsirius AI Labs forge strategic partnership to revolutionize radiology services in Turkiye and Cyprus.",
-      "hash": "0bcf96e9d5f2daa054f16eaf6d4e84497999b9b7e812f159433d306fc00d8fb5",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e4ffc307fd942472",
-      "entity_id": "marsirius-ai",
-      "url": "https://pitchbook.com/profiles/company/1167817-87",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius AI Labs 2026 Company Profile: Valuation, Funding ...",
-      "text_excerpt": "Marsirius AI Labs is headquartered in Nicosia, Cyprus. What industry is Marsirius AI Labs in? Marsirius AI Labs's primary industry is Database Software. Is ...",
-      "hash": "818dd967730bf507ff7fb5b8812f1f8eb5d2ac007c18c5d7fe747c1db04b1694",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_489c6526af2dd2a4",
-      "entity_id": "marsirius-ai",
-      "url": "https://willing-spot-031516.framer.app/",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius AI",
-      "text_excerpt": "Marsirius AI Labs is at the forefront of AI-driven healthcare innovation. Our flagship platform, duAIcheck, provides AI-powered diagnostics from medical scans.",
-      "hash": "a89c41b222173d5878ec5a6ed37b902635be3ef8aa71d4d1effd50efb4c649a3",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_afddc14fa834d3cf",
-      "entity_id": "marsirius-ai",
-      "url": "https://play.google.com/store/apps/dev?id=8509785563245356821",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Android Apps by Marsirius Ai Labs on Google Play",
-      "text_excerpt": "Pioneering intelligent AI solutions to solve real-world challenges. Smarter tools for a better life. More by Marsirius Ai Labs.",
-      "hash": "89c2815b28d1022e8fbe43fdf8cf0a7f4345aa00e0b8b591873196439e24e12c",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_5c4ccfa857458c58",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.facebook.com/marsiriusai/",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius.ai | Dubai - Facebook",
-      "text_excerpt": "Revolutionizing radiology, empowering healthcare. Marsirius AI Labs accelerates diagnosis and cuts insurance costs — all through a unified AI-powered platform.",
-      "hash": "cbffd7d38ce53d651081bce0b39000ce9e50ed27c0c2fe35dd4f4b209d754412",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_415819b653134846",
-      "entity_id": "marsirius-ai",
-      "url": "https://apps.apple.com/cy/developer/marsirius-ai-labs/id1859661512",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "‎Marsirius AI Labs for iPhone - App Store",
-      "text_excerpt": "Download apps by Marsirius AI Labs, including GELA AI ... Marsirius AI Labs. Latest Release. GELA AI. Real-Time AI Border Traffic. View ...",
-      "hash": "26f2481b144ebc8f0baef08d75f9e3a62a42f2bb5f884b85ad2397ac1c7f4032",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e0f75e70ff7e05be",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.medicalhorizons.it/post/rewriting-the-future-marsirius-ai-labs",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs - Medical Horizons",
-      "text_excerpt": "duAIcheck is a next-generation, AI-powered clinical support platform developed by Marsirius AI Labs. Designed to serve as a treatment-assist tool and secondary ...",
-      "hash": "738968226aa6102010178c108ba8f30f04b911beac4afd4446994dcf25c5dd9d",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_bd2a10adb53129d3",
-      "entity_id": "marsirius-ai",
-      "url": "https://download.cnet.com/developer/marsirius-ai-labs/marsirius-ai-labs/",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius Ai Labs - CNET Download",
-      "text_excerpt": "Find Marsirius Ai Labs software downloads at CNET Download.com, the most comprehensive source for safe, trusted, and spyware-free downloads on the web.",
-      "hash": "57a795f26011f5e47c51bb6efe25d39c31775ae59dd969f1062dc159755072a0",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_dc80073e685af2cd",
-      "entity_id": "marsirius-ai",
-      "url": "https://apps.apple.com/ua/app/gela-ai/id6756844653",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI - App Store",
-      "text_excerpt": "Download GELA AI by Marsirius AI Labs on the App Store. See screenshots, ratings and reviews, user tips and more games like GELA AI.",
-      "hash": "51c59f614902b20525d0a2f084a09edfe364d5c5f2be2715976bc0cb0a6020a6",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_65fa88df9c27d94a",
+      "id": "source_d29e7d5163d6fc36",
       "entity_id": "marsirius-ai",
       "url": "https://marsirius.ai/duaicheck-trial",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "duAIcheck - Marsirius AI Labs | Rewriting the Future",
-      "text_excerpt": "duAIcheck Trial Portal ... Experience the future of radiology with AI-assisted diagnosis, integrating InterPACS' enterprise PACS solution with Marsirius' advanced ...",
-      "hash": "f76d51313789ee0acb3228cb1841447bc7bad4e50fc0a2ad9ecaaf4ca86051ec",
-      "explicit_claims": []
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "duAIcheck Trial Portal",
+      "text_excerpt": "duAIcheck is described as an AI-assisted diagnosis platform with PACS integration and pay-per-scan positioning.",
+      "hash": "3cdb7b4dfce32ce694df3f94bc48ef224b029e8633953c75df77fd404160253e",
+      "explicit_claims": [
+        {
+          "claim": "duAIcheck is presented as an AI diagnostic platform with pay-per-scan access to medical AI models.",
+          "claim_type": "product"
+        }
+      ]
     },
     {
-      "id": "source_c4fffeefff8f55f6",
+      "id": "source_4b7272bd57a3701c",
       "entity_id": "marsirius-ai",
-      "url": "https://x.com/marsiriusai/status/1944391110635479358",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "80% cost savings with duAIcheck: Empowering healthcare systems ...",
-      "text_excerpt": "80% cost savings with duAIcheck: Empowering healthcare systems to do more with less. Discover the future of AI-driven diagnostics. marsirius.ai",
-      "hash": "89f566a566ad3c55fd55151e21e77844f549ee89bd2bb98d1f15c256521c891e",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_c2849404ef591804",
-      "entity_id": "marsirius-ai",
-      "url": "https://marsirius.ai/duaicheck-trial/login",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs",
-      "text_excerpt": "Access duAIcheck's advanced AI diagnostic platform, enhancing radiological assessments with state-of-the-art machine learning algorithms.",
-      "hash": "c8f55cd25b5e6332ef751875bef2d8092e07db20e6af70d437a514af9eb9622c",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_ea3553c1e3df41a2",
-      "entity_id": "marsirius-ai",
-      "url": "https://theorg.com/org/marsirius-ai",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius.ai | The Org",
-      "text_excerpt": "Our flagship platform, duAIcheck, enhances diagnostic accuracy in radiology, pathology, and genomics, providing AI-assisted second opinions to reduce ...",
-      "hash": "1a2f7aa1ea658296f1f3dc55d79b5bd2cc782f4985fcf9bcbac57c2a5a75bd4c",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_d042052048552f28",
-      "entity_id": "marsirius-ai",
-      "url": "https://marsirius.ai/press?id=medical-horizons-partnership",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs",
-      "text_excerpt": "duAIcheck is a next-generation, AI-powered clinical support platform developed by Marsirius AI Labs. Designed to serve as a treatment-assist ...",
-      "hash": "6ee8d93ef195b342ae43528183fc960edaa166ef63138627c73c1e90e89c2a21",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e1319cc51a8106dd",
-      "entity_id": "marsirius-ai",
-      "url": "https://apps.apple.com/cy/app/gela-ai/id6756844653",
+      "url": "https://apps.apple.com/cy/developer/marsirius-ai-labs/id1859661512",
       "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI - App Store",
-      "text_excerpt": "Download GELA AI by Marsirius AI Labs on the App Store. See screenshots, ratings and reviews, user tips and more games like GELA AI.",
-      "hash": "51c59f614902b20525d0a2f084a09edfe364d5c5f2be2715976bc0cb0a6020a6",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_6486846340fca11f",
-      "entity_id": "marsirius-ai",
-      "url": "https://play.google.com/store/apps/details?id=com.marsirius.gela_ai&hl=en_US",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA Ai Cyprus Border Traffic - Apps on Google Play",
-      "text_excerpt": "Icon image. GELA Ai Cyprus Border Traffic. Marsirius Ai Labs. Content rating. Everyone. info. 1K+. Downloads. Install. See in Play Store app.",
-      "hash": "8371f3fc4daa11817ffc39fddc621952b3601c46c2693f686bfb7cc900a023c1",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_49180eed2f71e7bb",
-      "entity_id": "marsirius-ai",
-      "url": "https://mwm.ai/apps/gela-ai/6756844653",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI - Navigation App - MWM",
-      "text_excerpt": "GELA AI by MARSIRIUS ARTIFICIAL INTELLIGENCE CONSULTANTS LLC. Navigation app, 5.0/5, 5k+ downloads. Screenshots, features, analysis.",
-      "hash": "4d093da833118e9593bbb5542f43d979c77fbd9d6a26c9a135f9ab3ac9d6b1a4",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_ce0ad6ac00d86d67",
-      "entity_id": "marsirius-ai",
-      "url": "https://marsirius.ai/gela",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs",
-      "text_excerpt": "About GELA AI ... GELA AI is developed by Marsirius AI Labs, a cutting-edge AI development company focused on creating privacy-first, user-friendly applications.",
-      "hash": "43d76a643fd12d5cef29d03c101dd62df4ead3851ebd40ba27a9f5a4967b800e",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_97dd4ec9edb2e50c",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.appbrain.com/appstore/gela-ai/ios-6756844653",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI for iPhone - Free App Download - AppBrain",
-      "text_excerpt": "GELA AI · is an overall app developed by Marsirius AI Labs. · is rated 5.00 out of 5 stars, based on one rating ratings. · is free to download. The ...",
-      "hash": "b70c21c077fe0b5c4ac7910924d23ef161c6158f41457396836a4c7818138907",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_64e57ec5e89e4072",
-      "entity_id": "marsirius-ai",
-      "url": "https://download.cnet.com/gela-ai-cyprus-border-traffic/3000-android-gela-ai-cyprus-border-traffic.html",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA Ai Cyprus Border Traffic for Android - CNET Download",
-      "text_excerpt": "GELA Ai Cyprus Border Traffic for Android · By Marsirius Ai Labs; Free; User Rating. Download now. Used GELA Ai Cyprus Border Traffic for ...",
-      "hash": "11c64c3802ba6b42f4a3b995fac7f2e829c68919709ab2ecdda2878b4352f16d",
-      "explicit_claims": []
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Marsirius AI Labs App Store Developer",
+      "text_excerpt": "The Apple App Store developer page lists Marsirius AI Labs and GELA AI.",
+      "hash": "9611dc2713d12c29cee3a684d53061c36d3fa9a47e6471be4d53579f5f302ad7",
+      "explicit_claims": [
+        {
+          "claim": "GELA AI is listed under Marsirius AI Labs on the Apple App Store.",
+          "claim_type": "product"
+        }
+      ]
     }
   ],
   "verification_summary": {
-    "verified_claims": 9,
-    "needs_review": 2,
+    "verified_claims": 11,
+    "needs_review": 3,
     "rejected": 0
   },
   "publication_status": "published",
@@ -472,268 +292,52 @@
   ],
   "sources": [
     {
-      "id": "source_6046bf7eb3c9fd61",
+      "id": "source_6e5e61d86cfd384d",
       "entity_id": "marsirius-ai",
       "url": "https://marsirius.ai/",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius AI Labs | Rewriting the Future",
-      "text_excerpt": "Leveraging artificial intelligence and breakthrough technologies to address medicine's most profound challenges through diagnostic excellence.",
-      "hash": "57d5a2938b84c4ae451668a3593bc03e5e4798c549d1db7202d060cb9bbf7b08",
-      "explicit_claims": []
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Marsirius AI Labs",
+      "text_excerpt": "Marsirius AI Labs describes AI-powered diagnostic automation, AI applications, and breakthrough technology work.",
+      "hash": "b2cdd4744704e8fa14356504fd2433df7d83728fe0fa52c17ea207676f5de5e1",
+      "explicit_claims": [
+        {
+          "claim": "Marsirius AI Labs operates an official website describing AI applications and breakthrough-technology work.",
+          "claim_type": "contact"
+        }
+      ]
     },
     {
-      "id": "source_f0b2b3a7573478e9",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.medicalhorizons.it/post/medical-horizons-announces-termination-of-collaboration-with-marsirius-ai-labs",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Medical Horizons Announces Termination of Collaboration with ...",
-      "text_excerpt": "Medical Horizons officially announces the termination of its collaboration with Marsirius AI Labs. After careful evaluation and mutual ...",
-      "hash": "07ca8ebb2444238b795f7ebcd035161721e8b5b285d86070d8a42834ffcb2d97",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e48973cd0496b5ce",
-      "entity_id": "marsirius-ai",
-      "url": "https://cy.linkedin.com/company/marsirius-ai",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius.ai | LinkedIn",
-      "text_excerpt": "Marsirius AI Labs is a pioneering AI-driven healthcare innovation company focused on transforming medical diagnostics through cutting-edge artificial ...",
-      "hash": "67edef7ec9cb0c600ec0eb3d1d8154b7a9e6af23329420d46cccaa591d7d2039",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_c5a7973939054923",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.instagram.com/marsirius.ai/",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "(@marsirius.ai) • Instagram photos and videos",
-      "text_excerpt": "Marsirius AI Labs is Engineering the future at the edge of AI, quantum, and cosmic ambition from healthcare to everyday problems,aiming for the stars.",
-      "hash": "1687d0f3f817bc3d062d5ff6d669b031465fbcdc3ac34dfc3a61d2f5da31287b",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_369dc09222b08d5b",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.linkedin.com/posts/marsirius-ai_medical-horizons-srl-and-marsirius-ai-activity-7316790309546328064-jx5q",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Medical Horizons and Marsirius AI Labs partner for radiology",
-      "text_excerpt": "Medical Horizons S.r.l. and Marsirius AI Labs forge strategic partnership to revolutionize radiology services in Turkiye and Cyprus.",
-      "hash": "0bcf96e9d5f2daa054f16eaf6d4e84497999b9b7e812f159433d306fc00d8fb5",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e4ffc307fd942472",
-      "entity_id": "marsirius-ai",
-      "url": "https://pitchbook.com/profiles/company/1167817-87",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius AI Labs 2026 Company Profile: Valuation, Funding ...",
-      "text_excerpt": "Marsirius AI Labs is headquartered in Nicosia, Cyprus. What industry is Marsirius AI Labs in? Marsirius AI Labs's primary industry is Database Software. Is ...",
-      "hash": "818dd967730bf507ff7fb5b8812f1f8eb5d2ac007c18c5d7fe747c1db04b1694",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_489c6526af2dd2a4",
-      "entity_id": "marsirius-ai",
-      "url": "https://willing-spot-031516.framer.app/",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius AI",
-      "text_excerpt": "Marsirius AI Labs is at the forefront of AI-driven healthcare innovation. Our flagship platform, duAIcheck, provides AI-powered diagnostics from medical scans.",
-      "hash": "a89c41b222173d5878ec5a6ed37b902635be3ef8aa71d4d1effd50efb4c649a3",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_afddc14fa834d3cf",
-      "entity_id": "marsirius-ai",
-      "url": "https://play.google.com/store/apps/dev?id=8509785563245356821",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Android Apps by Marsirius Ai Labs on Google Play",
-      "text_excerpt": "Pioneering intelligent AI solutions to solve real-world challenges. Smarter tools for a better life. More by Marsirius Ai Labs.",
-      "hash": "89c2815b28d1022e8fbe43fdf8cf0a7f4345aa00e0b8b591873196439e24e12c",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_5c4ccfa857458c58",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.facebook.com/marsiriusai/",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius.ai | Dubai - Facebook",
-      "text_excerpt": "Revolutionizing radiology, empowering healthcare. Marsirius AI Labs accelerates diagnosis and cuts insurance costs — all through a unified AI-powered platform.",
-      "hash": "cbffd7d38ce53d651081bce0b39000ce9e50ed27c0c2fe35dd4f4b209d754412",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_415819b653134846",
-      "entity_id": "marsirius-ai",
-      "url": "https://apps.apple.com/cy/developer/marsirius-ai-labs/id1859661512",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "‎Marsirius AI Labs for iPhone - App Store",
-      "text_excerpt": "Download apps by Marsirius AI Labs, including GELA AI ... Marsirius AI Labs. Latest Release. GELA AI. Real-Time AI Border Traffic. View ...",
-      "hash": "26f2481b144ebc8f0baef08d75f9e3a62a42f2bb5f884b85ad2397ac1c7f4032",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e0f75e70ff7e05be",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.medicalhorizons.it/post/rewriting-the-future-marsirius-ai-labs",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs - Medical Horizons",
-      "text_excerpt": "duAIcheck is a next-generation, AI-powered clinical support platform developed by Marsirius AI Labs. Designed to serve as a treatment-assist tool and secondary ...",
-      "hash": "738968226aa6102010178c108ba8f30f04b911beac4afd4446994dcf25c5dd9d",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_bd2a10adb53129d3",
-      "entity_id": "marsirius-ai",
-      "url": "https://download.cnet.com/developer/marsirius-ai-labs/marsirius-ai-labs/",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius Ai Labs - CNET Download",
-      "text_excerpt": "Find Marsirius Ai Labs software downloads at CNET Download.com, the most comprehensive source for safe, trusted, and spyware-free downloads on the web.",
-      "hash": "57a795f26011f5e47c51bb6efe25d39c31775ae59dd969f1062dc159755072a0",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_dc80073e685af2cd",
-      "entity_id": "marsirius-ai",
-      "url": "https://apps.apple.com/ua/app/gela-ai/id6756844653",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI - App Store",
-      "text_excerpt": "Download GELA AI by Marsirius AI Labs on the App Store. See screenshots, ratings and reviews, user tips and more games like GELA AI.",
-      "hash": "51c59f614902b20525d0a2f084a09edfe364d5c5f2be2715976bc0cb0a6020a6",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_65fa88df9c27d94a",
+      "id": "source_d29e7d5163d6fc36",
       "entity_id": "marsirius-ai",
       "url": "https://marsirius.ai/duaicheck-trial",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "duAIcheck - Marsirius AI Labs | Rewriting the Future",
-      "text_excerpt": "duAIcheck Trial Portal ... Experience the future of radiology with AI-assisted diagnosis, integrating InterPACS' enterprise PACS solution with Marsirius' advanced ...",
-      "hash": "f76d51313789ee0acb3228cb1841447bc7bad4e50fc0a2ad9ecaaf4ca86051ec",
-      "explicit_claims": []
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "duAIcheck Trial Portal",
+      "text_excerpt": "duAIcheck is described as an AI-assisted diagnosis platform with PACS integration and pay-per-scan positioning.",
+      "hash": "3cdb7b4dfce32ce694df3f94bc48ef224b029e8633953c75df77fd404160253e",
+      "explicit_claims": [
+        {
+          "claim": "duAIcheck is presented as an AI diagnostic platform with pay-per-scan access to medical AI models.",
+          "claim_type": "product"
+        }
+      ]
     },
     {
-      "id": "source_c4fffeefff8f55f6",
+      "id": "source_4b7272bd57a3701c",
       "entity_id": "marsirius-ai",
-      "url": "https://x.com/marsiriusai/status/1944391110635479358",
-      "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "80% cost savings with duAIcheck: Empowering healthcare systems ...",
-      "text_excerpt": "80% cost savings with duAIcheck: Empowering healthcare systems to do more with less. Discover the future of AI-driven diagnostics. marsirius.ai",
-      "hash": "89f566a566ad3c55fd55151e21e77844f549ee89bd2bb98d1f15c256521c891e",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_c2849404ef591804",
-      "entity_id": "marsirius-ai",
-      "url": "https://marsirius.ai/duaicheck-trial/login",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs",
-      "text_excerpt": "Access duAIcheck's advanced AI diagnostic platform, enhancing radiological assessments with state-of-the-art machine learning algorithms.",
-      "hash": "c8f55cd25b5e6332ef751875bef2d8092e07db20e6af70d437a514af9eb9622c",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_ea3553c1e3df41a2",
-      "entity_id": "marsirius-ai",
-      "url": "https://theorg.com/org/marsirius-ai",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Marsirius.ai | The Org",
-      "text_excerpt": "Our flagship platform, duAIcheck, enhances diagnostic accuracy in radiology, pathology, and genomics, providing AI-assisted second opinions to reduce ...",
-      "hash": "1a2f7aa1ea658296f1f3dc55d79b5bd2cc782f4985fcf9bcbac57c2a5a75bd4c",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_d042052048552f28",
-      "entity_id": "marsirius-ai",
-      "url": "https://marsirius.ai/press?id=medical-horizons-partnership",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs",
-      "text_excerpt": "duAIcheck is a next-generation, AI-powered clinical support platform developed by Marsirius AI Labs. Designed to serve as a treatment-assist ...",
-      "hash": "6ee8d93ef195b342ae43528183fc960edaa166ef63138627c73c1e90e89c2a21",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_e1319cc51a8106dd",
-      "entity_id": "marsirius-ai",
-      "url": "https://apps.apple.com/cy/app/gela-ai/id6756844653",
+      "url": "https://apps.apple.com/cy/developer/marsirius-ai-labs/id1859661512",
       "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI - App Store",
-      "text_excerpt": "Download GELA AI by Marsirius AI Labs on the App Store. See screenshots, ratings and reviews, user tips and more games like GELA AI.",
-      "hash": "51c59f614902b20525d0a2f084a09edfe364d5c5f2be2715976bc0cb0a6020a6",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_6486846340fca11f",
-      "entity_id": "marsirius-ai",
-      "url": "https://play.google.com/store/apps/details?id=com.marsirius.gela_ai&hl=en_US",
-      "source_type": "app_store",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA Ai Cyprus Border Traffic - Apps on Google Play",
-      "text_excerpt": "Icon image. GELA Ai Cyprus Border Traffic. Marsirius Ai Labs. Content rating. Everyone. info. 1K+. Downloads. Install. See in Play Store app.",
-      "hash": "8371f3fc4daa11817ffc39fddc621952b3601c46c2693f686bfb7cc900a023c1",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_49180eed2f71e7bb",
-      "entity_id": "marsirius-ai",
-      "url": "https://mwm.ai/apps/gela-ai/6756844653",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI - Navigation App - MWM",
-      "text_excerpt": "GELA AI by MARSIRIUS ARTIFICIAL INTELLIGENCE CONSULTANTS LLC. Navigation app, 5.0/5, 5k+ downloads. Screenshots, features, analysis.",
-      "hash": "4d093da833118e9593bbb5542f43d979c77fbd9d6a26c9a135f9ab3ac9d6b1a4",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_ce0ad6ac00d86d67",
-      "entity_id": "marsirius-ai",
-      "url": "https://marsirius.ai/gela",
-      "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "Rewriting the Future - Marsirius AI Labs",
-      "text_excerpt": "About GELA AI ... GELA AI is developed by Marsirius AI Labs, a cutting-edge AI development company focused on creating privacy-first, user-friendly applications.",
-      "hash": "43d76a643fd12d5cef29d03c101dd62df4ead3851ebd40ba27a9f5a4967b800e",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_97dd4ec9edb2e50c",
-      "entity_id": "marsirius-ai",
-      "url": "https://www.appbrain.com/appstore/gela-ai/ios-6756844653",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA AI for iPhone - Free App Download - AppBrain",
-      "text_excerpt": "GELA AI · is an overall app developed by Marsirius AI Labs. · is rated 5.00 out of 5 stars, based on one rating ratings. · is free to download. The ...",
-      "hash": "b70c21c077fe0b5c4ac7910924d23ef161c6158f41457396836a4c7818138907",
-      "explicit_claims": []
-    },
-    {
-      "id": "source_64e57ec5e89e4072",
-      "entity_id": "marsirius-ai",
-      "url": "https://download.cnet.com/gela-ai-cyprus-border-traffic/3000-android-gela-ai-cyprus-border-traffic.html",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:16.329Z",
-      "title": "GELA Ai Cyprus Border Traffic for Android - CNET Download",
-      "text_excerpt": "GELA Ai Cyprus Border Traffic for Android · By Marsirius Ai Labs; Free; User Rating. Download now. Used GELA Ai Cyprus Border Traffic for ...",
-      "hash": "11c64c3802ba6b42f4a3b995fac7f2e829c68919709ab2ecdda2878b4352f16d",
-      "explicit_claims": []
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Marsirius AI Labs App Store Developer",
+      "text_excerpt": "The Apple App Store developer page lists Marsirius AI Labs and GELA AI.",
+      "hash": "9611dc2713d12c29cee3a684d53061c36d3fa9a47e6471be4d53579f5f302ad7",
+      "explicit_claims": [
+        {
+          "claim": "GELA AI is listed under Marsirius AI Labs on the Apple App Store.",
+          "claim_type": "product"
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "nis-tip-merkezi",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:33.104Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Nis Tıp Merkezi",
   "summary": "Nis Tıp Merkezi is a medical clinic entity for KKTC.",
   "categories": [
@@ -44,50 +44,50 @@
       "id": "claim_cecd3cf3a1cc9eda",
       "claim": "Nis Tıp Merkezi is categorized as medical clinic.",
       "claim_type": "category",
-      "status": "partially_verified",
+      "status": "needs_human_review",
       "evidence": [
         "https://www.nistipmerkezi.com"
       ],
       "confidence": 0.82,
       "risk_level": "high",
-      "requires_human_review": false
+      "requires_human_review": true
     }
   ],
   "evidence_sources": [
     {
-      "id": "source_0bbf1b1dfa789b61",
+      "id": "source_86b0eede64e0ccc7",
       "entity_id": "nis-tip-merkezi",
       "url": "https://www.nistipmerkezi.com",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:29.957Z",
-      "title": "Nis T�p Merkezi",
-      "text_excerpt": "Nis T�p merkezinin  amac�; bireylerin sa�l�kla ilgili gereksinimlerini kar��lamak ve daha sa�l�kl� bir ya�am s�rebilmelerini sa�lamakt�r. Bu ama� do�rultusunda, t�bbi hizmetleri, grubun her noktas�ndan, belli standartlarda sunmay� hedeflemektedir.",
-      "hash": "d9f47c4dbb8f19ddea05a65fa6599c7c9ae929c10ddc2ff33701ec4e494b18a4"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Nis Tıp Merkezi seed source",
+      "text_excerpt": "Nis Tıp Merkezi\nmedical clinic\nKKTC",
+      "hash": "0243f1cec9292b8b9e7cedf7d3e3ed76f32a56f6e3834e725a968a8a22080048"
     },
     {
-      "id": "source_0b0c95e778498bcc",
+      "id": "source_faa031eaac3106ac",
       "entity_id": "nis-tip-merkezi",
       "url": "https://www.instagram.com/nistipmerkezi/?hl=en",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:32.121Z",
-      "title": "Nis Tıp Merkezi (&#064;nistipmerkezi) • Instagram photos and videos",
-      "text_excerpt": "Nis Tıp Merkezi (&#064;nistipmerkezi) • Instagram photos and videos",
-      "hash": "e5ac1b6a53cf625e14b9896341b61f9e965a0c9bd65ac7f54f96d3cfbf76e3bf"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Nis Tıp Merkezi seed source",
+      "text_excerpt": "Nis Tıp Merkezi\nmedical clinic\nKKTC",
+      "hash": "0243f1cec9292b8b9e7cedf7d3e3ed76f32a56f6e3834e725a968a8a22080048"
     },
     {
-      "id": "source_56be493912d9b963",
+      "id": "source_203ecb03c250dbe0",
       "entity_id": "nis-tip-merkezi",
       "url": "https://www.airserbia.com/en-rs/flights-from-nis-to-cyprus",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:33.103Z",
-      "title": "Just a moment...",
-      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
-      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Nis Tıp Merkezi seed source",
+      "text_excerpt": "Nis Tıp Merkezi\nmedical clinic\nKKTC",
+      "hash": "0243f1cec9292b8b9e7cedf7d3e3ed76f32a56f6e3834e725a968a8a22080048"
     }
   ],
   "verification_summary": {
     "verified_claims": 2,
-    "needs_review": 0,
+    "needs_review": 1,
     "rejected": 0
   },
   "publication_status": "published",
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_0bbf1b1dfa789b61",
+      "id": "source_86b0eede64e0ccc7",
       "entity_id": "nis-tip-merkezi",
       "url": "https://www.nistipmerkezi.com",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:29.957Z",
-      "title": "Nis T�p Merkezi",
-      "text_excerpt": "Nis T�p merkezinin  amac�; bireylerin sa�l�kla ilgili gereksinimlerini kar��lamak ve daha sa�l�kl� bir ya�am s�rebilmelerini sa�lamakt�r. Bu ama� do�rultusunda, t�bbi hizmetleri, grubun her noktas�ndan, belli standartlarda sunmay� hedeflemektedir.",
-      "hash": "d9f47c4dbb8f19ddea05a65fa6599c7c9ae929c10ddc2ff33701ec4e494b18a4"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Nis Tıp Merkezi seed source",
+      "text_excerpt": "Nis Tıp Merkezi\nmedical clinic\nKKTC",
+      "hash": "0243f1cec9292b8b9e7cedf7d3e3ed76f32a56f6e3834e725a968a8a22080048"
     },
     {
-      "id": "source_0b0c95e778498bcc",
+      "id": "source_faa031eaac3106ac",
       "entity_id": "nis-tip-merkezi",
       "url": "https://www.instagram.com/nistipmerkezi/?hl=en",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:32.121Z",
-      "title": "Nis Tıp Merkezi (&#064;nistipmerkezi) • Instagram photos and videos",
-      "text_excerpt": "Nis Tıp Merkezi (&#064;nistipmerkezi) • Instagram photos and videos",
-      "hash": "e5ac1b6a53cf625e14b9896341b61f9e965a0c9bd65ac7f54f96d3cfbf76e3bf"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Nis Tıp Merkezi seed source",
+      "text_excerpt": "Nis Tıp Merkezi\nmedical clinic\nKKTC",
+      "hash": "0243f1cec9292b8b9e7cedf7d3e3ed76f32a56f6e3834e725a968a8a22080048"
     },
     {
-      "id": "source_56be493912d9b963",
+      "id": "source_203ecb03c250dbe0",
       "entity_id": "nis-tip-merkezi",
       "url": "https://www.airserbia.com/en-rs/flights-from-nis-to-cyprus",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:33.103Z",
-      "title": "Just a moment...",
-      "text_excerpt": "Just a moment... Enable JavaScript and cookies to continue",
-      "hash": "1ca4990a36776dacc473c296d7eb1ebc8df91a2a34676bc3a4fd68270b47d5bf"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Nis Tıp Merkezi seed source",
+      "text_excerpt": "Nis Tıp Merkezi\nmedical clinic\nKKTC",
+      "hash": "0243f1cec9292b8b9e7cedf7d3e3ed76f32a56f6e3834e725a968a8a22080048"
     }
   ]
 }

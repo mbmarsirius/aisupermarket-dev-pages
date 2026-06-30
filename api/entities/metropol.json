@@ -1,7 +1,7 @@
 {
   "id": "metropol",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:21.416Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Metropol",
   "summary": "Metropol is a business entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_cf95e66522ee923c",
+      "id": "source_db74fbadc46bb77e",
       "entity_id": "metropol",
       "url": "https://www.instagram.com/metropolcyprus/?hl=en",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:20.425Z",
-      "title": "METROPOL (&#064;metropolcyprus) • Instagram photos and videos",
-      "text_excerpt": "METROPOL (&#064;metropolcyprus) • Instagram photos and videos",
-      "hash": "4fe38bb3ed4ba0cf4d9d9d763b8e2f764a75338e2f4b0b75bf9bb9a2428f9563"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Metropol seed source",
+      "text_excerpt": "Metropol\nbusiness\nKKTC",
+      "hash": "8bf76317fdf2a9cdbb7880988d64ba866cea1cb3ebd79edfbc152b3d214012e3"
     },
     {
-      "id": "source_1813c36bd8f15f7f",
+      "id": "source_afead3842d1d99c5",
       "entity_id": "metropol",
       "url": "https://www.metropolsupermarket.com",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:20.896Z",
-      "title": "Metropol source",
-      "text_excerpt": "You are using an outdated browser. Please upgrade your browser to improve your experience. M E T R O P 0 L (0392) 225 64 54 [email&#160;protected] Anasayfa Kurumsal Faaliyet Alanlarımız Galeri İletişim Dil Se&#231;iniz English T&#252;rk&#231;e Aradığınız her şey Günlük, taze ve ihtiyacınız olan ürünleri sizlere sunuyoruz. İletişim Aradığınız her şey Günlük, taze ve ihtiyacınız olan ürünleri sizlere sunuyoruz. İletişim Kaliteli &amp; Hesaplı METROPOL Uygun Fiyat Hem kaliteli hem hesaplı Kaliteli Hizmet G&#252;ler y&#252;zl&#252; hizmet anlayışı Bol &#199;eşit İhtiyacınız olan &#252;r&#252;nler Kurumsal Satış Şubelerimizde kaliteden &#246;d&#252;n vermiyoruz Kurumsal 30+ yıldır hizmetinizdeyiz \"Önce insan\" mottosu ile yıllardır misafirlerimizi hesaplı alışveriş ve kalite ile buluşturduk. Per",
-      "hash": "12dbe87740c80a5ad5569ad272842056854cdff9ca6f19f21b645f01ef0e75b0"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Metropol seed source",
+      "text_excerpt": "Metropol\nbusiness\nKKTC",
+      "hash": "8bf76317fdf2a9cdbb7880988d64ba866cea1cb3ebd79edfbc152b3d214012e3"
     },
     {
-      "id": "source_149127f15ecb9c93",
+      "id": "source_e9963ec4a398863c",
       "entity_id": "metropol",
       "url": "https://www.facebook.com/MetropolSupermarket",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:21.416Z",
-      "title": "METROPOL Süpermarket",
-      "text_excerpt": "METROPOL S&#xfc;permarket. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 35.723 &#xb7; 1.283 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 3.246 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. &#039;&#xd6;nce insan&#039; mottosu ile 30 y&#x131;la yak&#x131;nd&#x131;r...",
-      "hash": "7ba4145c4aaf794416efc60f0ef76de53edb1069309757307388f1e54bd82d1e"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Metropol seed source",
+      "text_excerpt": "Metropol\nbusiness\nKKTC",
+      "hash": "8bf76317fdf2a9cdbb7880988d64ba866cea1cb3ebd79edfbc152b3d214012e3"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_cf95e66522ee923c",
+      "id": "source_db74fbadc46bb77e",
       "entity_id": "metropol",
       "url": "https://www.instagram.com/metropolcyprus/?hl=en",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:20.425Z",
-      "title": "METROPOL (&#064;metropolcyprus) • Instagram photos and videos",
-      "text_excerpt": "METROPOL (&#064;metropolcyprus) • Instagram photos and videos",
-      "hash": "4fe38bb3ed4ba0cf4d9d9d763b8e2f764a75338e2f4b0b75bf9bb9a2428f9563"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Metropol seed source",
+      "text_excerpt": "Metropol\nbusiness\nKKTC",
+      "hash": "8bf76317fdf2a9cdbb7880988d64ba866cea1cb3ebd79edfbc152b3d214012e3"
     },
     {
-      "id": "source_1813c36bd8f15f7f",
+      "id": "source_afead3842d1d99c5",
       "entity_id": "metropol",
       "url": "https://www.metropolsupermarket.com",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:20.896Z",
-      "title": "Metropol source",
-      "text_excerpt": "You are using an outdated browser. Please upgrade your browser to improve your experience. M E T R O P 0 L (0392) 225 64 54 [email&#160;protected] Anasayfa Kurumsal Faaliyet Alanlarımız Galeri İletişim Dil Se&#231;iniz English T&#252;rk&#231;e Aradığınız her şey Günlük, taze ve ihtiyacınız olan ürünleri sizlere sunuyoruz. İletişim Aradığınız her şey Günlük, taze ve ihtiyacınız olan ürünleri sizlere sunuyoruz. İletişim Kaliteli &amp; Hesaplı METROPOL Uygun Fiyat Hem kaliteli hem hesaplı Kaliteli Hizmet G&#252;ler y&#252;zl&#252; hizmet anlayışı Bol &#199;eşit İhtiyacınız olan &#252;r&#252;nler Kurumsal Satış Şubelerimizde kaliteden &#246;d&#252;n vermiyoruz Kurumsal 30+ yıldır hizmetinizdeyiz \"Önce insan\" mottosu ile yıllardır misafirlerimizi hesaplı alışveriş ve kalite ile buluşturduk. Per",
-      "hash": "12dbe87740c80a5ad5569ad272842056854cdff9ca6f19f21b645f01ef0e75b0"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Metropol seed source",
+      "text_excerpt": "Metropol\nbusiness\nKKTC",
+      "hash": "8bf76317fdf2a9cdbb7880988d64ba866cea1cb3ebd79edfbc152b3d214012e3"
     },
     {
-      "id": "source_149127f15ecb9c93",
+      "id": "source_e9963ec4a398863c",
       "entity_id": "metropol",
       "url": "https://www.facebook.com/MetropolSupermarket",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:21.416Z",
-      "title": "METROPOL Süpermarket",
-      "text_excerpt": "METROPOL S&#xfc;permarket. &#x391;&#x3c1;&#x3ad;&#x3c3;&#x3b5;&#x3b9; &#x3c3;&#x3b5; 35.723 &#xb7; 1.283 &#x3bc;&#x3b9;&#x3bb;&#x3bf;&#x3cd;&#x3bd; &#x3b3;&#x3b9;&#039; &#x3b1;&#x3c5;&#x3c4;&#x3ae; &#x3c4;&#x3b7; &#x3a3;&#x3b5;&#x3bb;&#x3af;&#x3b4;&#x3b1; &#xb7; 3.246 &#x3ae;&#x3c4;&#x3b1;&#x3bd; &#x3b5;&#x3b4;&#x3ce;. &#039;&#xd6;nce insan&#039; mottosu ile 30 y&#x131;la yak&#x131;nd&#x131;r...",
-      "hash": "7ba4145c4aaf794416efc60f0ef76de53edb1069309757307388f1e54bd82d1e"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Metropol seed source",
+      "text_excerpt": "Metropol\nbusiness\nKKTC",
+      "hash": "8bf76317fdf2a9cdbb7880988d64ba866cea1cb3ebd79edfbc152b3d214012e3"
     }
   ]
 }

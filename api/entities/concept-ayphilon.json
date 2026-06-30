@@ -1,7 +1,7 @@
 {
   "id": "concept-ayphilon",
   "version": 1,
-  "generated_at": "2026-06-30T15:58:55.458Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Concept Ayphilon",
   "summary": "Concept Ayphilon is a business entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_5dc7d1d3ae076306",
+      "id": "source_2d5833d820fdd65d",
       "entity_id": "concept-ayphilon",
       "url": "https://northcyprusstock.com/portfolio-item/concept-ayphilon-resort",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:53.784Z",
-      "title": "Concept Ayphilon Resort &#8211; North Cyprus Stock",
-      "text_excerpt": "Concept Ayphilon Resort &#8211; North Cyprus Stock About Us Virtual Tour Stock Photography Kyrenia Nicosia Famagusta İskele Karpaz Morphou Activity / Misc Gastronomy Photos Video Footages Kyrenia Nicosia Famagusta İskele Karpaz Morphou Activity / Misc Event Footages Gastronomy Footages Pricing FAQ Contacts Concept Ayphilon Resort Next Project Cypriot Cheeses Previous Project Kocareis Hotel Copyright 2023© Alp Galip &amp; Ali Yılmaz Privacy Policy",
-      "hash": "bdbe1ad565463a6a9a68dacd142191d09b9c891f5714157dc13c3f09ea0158a4"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Concept Ayphilon seed source",
+      "text_excerpt": "Concept Ayphilon\nbusiness\nKKTC",
+      "hash": "a9e7f8370b1204cceddb9b8be1235ff1df8f4bbeb49e2f430520ac567bb571fc"
     },
     {
-      "id": "source_21f9afb4daad4bab",
+      "id": "source_37cff84638a3d248",
       "entity_id": "concept-ayphilon",
       "url": "https://www.youtube.com/watch?v=mvGcyMerzpk",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:54.687Z",
-      "title": "Concept Ayphilon Project in Dipkarpaz | North Cyprus - YouTube",
-      "text_excerpt": "https://zellaestate.com/property/2-1-house-for-sale-in-dipkarpaz-north-cyprus/",
-      "hash": "99c74aa90058cd041411ec2ed3eb5baa214c0b9a1dbd0959b299b94a67c2d6e9"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Concept Ayphilon seed source",
+      "text_excerpt": "Concept Ayphilon\nbusiness\nKKTC",
+      "hash": "a9e7f8370b1204cceddb9b8be1235ff1df8f4bbeb49e2f430520ac567bb571fc"
     },
     {
-      "id": "source_e050b4ba9032eb50",
+      "id": "source_1698a04242b4bb6e",
       "entity_id": "concept-ayphilon",
       "url": "https://www.instagram.com/conceptayphilon",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:55.456Z",
-      "title": "Concept Ayphilon (&#064;conceptayphilon) • Instagram photos and videos",
-      "text_excerpt": "Concept Ayphilon (&#064;conceptayphilon) • Instagram photos and videos",
-      "hash": "ac87f34a78cdafe8be3c5a13cc7b5d043961e1a804caef5a92f792ca7f7444ba"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Concept Ayphilon seed source",
+      "text_excerpt": "Concept Ayphilon\nbusiness\nKKTC",
+      "hash": "a9e7f8370b1204cceddb9b8be1235ff1df8f4bbeb49e2f430520ac567bb571fc"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_5dc7d1d3ae076306",
+      "id": "source_2d5833d820fdd65d",
       "entity_id": "concept-ayphilon",
       "url": "https://northcyprusstock.com/portfolio-item/concept-ayphilon-resort",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:58:53.784Z",
-      "title": "Concept Ayphilon Resort &#8211; North Cyprus Stock",
-      "text_excerpt": "Concept Ayphilon Resort &#8211; North Cyprus Stock About Us Virtual Tour Stock Photography Kyrenia Nicosia Famagusta İskele Karpaz Morphou Activity / Misc Gastronomy Photos Video Footages Kyrenia Nicosia Famagusta İskele Karpaz Morphou Activity / Misc Event Footages Gastronomy Footages Pricing FAQ Contacts Concept Ayphilon Resort Next Project Cypriot Cheeses Previous Project Kocareis Hotel Copyright 2023© Alp Galip &amp; Ali Yılmaz Privacy Policy",
-      "hash": "bdbe1ad565463a6a9a68dacd142191d09b9c891f5714157dc13c3f09ea0158a4"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Concept Ayphilon seed source",
+      "text_excerpt": "Concept Ayphilon\nbusiness\nKKTC",
+      "hash": "a9e7f8370b1204cceddb9b8be1235ff1df8f4bbeb49e2f430520ac567bb571fc"
     },
     {
-      "id": "source_21f9afb4daad4bab",
+      "id": "source_37cff84638a3d248",
       "entity_id": "concept-ayphilon",
       "url": "https://www.youtube.com/watch?v=mvGcyMerzpk",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:54.687Z",
-      "title": "Concept Ayphilon Project in Dipkarpaz | North Cyprus - YouTube",
-      "text_excerpt": "https://zellaestate.com/property/2-1-house-for-sale-in-dipkarpaz-north-cyprus/",
-      "hash": "99c74aa90058cd041411ec2ed3eb5baa214c0b9a1dbd0959b299b94a67c2d6e9"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Concept Ayphilon seed source",
+      "text_excerpt": "Concept Ayphilon\nbusiness\nKKTC",
+      "hash": "a9e7f8370b1204cceddb9b8be1235ff1df8f4bbeb49e2f430520ac567bb571fc"
     },
     {
-      "id": "source_e050b4ba9032eb50",
+      "id": "source_1698a04242b4bb6e",
       "entity_id": "concept-ayphilon",
       "url": "https://www.instagram.com/conceptayphilon",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:58:55.456Z",
-      "title": "Concept Ayphilon (&#064;conceptayphilon) • Instagram photos and videos",
-      "text_excerpt": "Concept Ayphilon (&#064;conceptayphilon) • Instagram photos and videos",
-      "hash": "ac87f34a78cdafe8be3c5a13cc7b5d043961e1a804caef5a92f792ca7f7444ba"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Concept Ayphilon seed source",
+      "text_excerpt": "Concept Ayphilon\nbusiness\nKKTC",
+      "hash": "a9e7f8370b1204cceddb9b8be1235ff1df8f4bbeb49e2f430520ac567bb571fc"
     }
   ]
 }

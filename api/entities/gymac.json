@@ -1,7 +1,7 @@
 {
   "id": "gymac",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:03.425Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Gymac",
   "summary": "Gymac is a business entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_0ce9e9517202884c",
+      "id": "source_eb412d7fffa877ff",
       "entity_id": "gymac",
       "url": "https://www.instagram.com/gymaccy",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:01.960Z",
-      "title": "GYMAC Boutique Gym (&#064;gymaccy) • Instagram photos and videos",
-      "text_excerpt": "GYMAC Boutique Gym (&#064;gymaccy) • Instagram photos and videos",
-      "hash": "3fe72af795f71cdac54c0a5813ba0ad082285643481a94f7c9abbb209ad9af53"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Gymac seed source",
+      "text_excerpt": "Gymac\nbusiness\nKKTC",
+      "hash": "d8c830be016f12840d4ef688ea285e5e2704b3312b82c5615507138936c67ce1"
     },
     {
-      "id": "source_388e0bdfa7163a4f",
+      "id": "source_92d3ec8624967c19",
       "entity_id": "gymac",
       "url": "https://www.facebook.com/gymaccy/posts/eat-clean-recharge-better-we-are-open-until-2300-everyday-sunday-1300/1062894799631469",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:02.765Z",
-      "title": "Eat clean, RECHARGE better! 🚀 We are open until 23:00 everyday (Sunday 13:00) | GYMAC",
-      "text_excerpt": "Eat clean, RECHARGE better! &#x1f680;\n\nWe are open until 23:00 everyday (Sunday 13:00)",
-      "hash": "b54c327cbc4a759b5f28bed6af71edfa64daa41d256e365fe2099781fbe7ffe6"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Gymac seed source",
+      "text_excerpt": "Gymac\nbusiness\nKKTC",
+      "hash": "d8c830be016f12840d4ef688ea285e5e2704b3312b82c5615507138936c67ce1"
     },
     {
-      "id": "source_ec5537ca5da2225d",
+      "id": "source_8541b24c014a5161",
       "entity_id": "gymac",
       "url": "https://www.instagram.com/reel/DDC_zHCM9E8",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:03.425Z",
-      "title": "Instagram",
-      "text_excerpt": "149 likes, 5 comments - dt.asliparlak on December 1, 2024: &quot;PTCLUB x GYMAC\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n#fitness #gym #workout #fitnessmotivation #fit #motivation #bodybuilding #training #health #fitfam #healthylifestyle #lifestyle #love #gymlife #gymmotivation #sport #instagood #healthy #personaltrainer #muscle #crossfit #fitnessmodel #exercise #weightloss #fitnessjourney #fashion #wellness #instagram #model #yoga&quot;. ",
-      "hash": "a26883a02aa11878cf9e8157c866a5a45b557b3e035ec5a41cd2d2d80403c75f"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Gymac seed source",
+      "text_excerpt": "Gymac\nbusiness\nKKTC",
+      "hash": "d8c830be016f12840d4ef688ea285e5e2704b3312b82c5615507138936c67ce1"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_0ce9e9517202884c",
+      "id": "source_eb412d7fffa877ff",
       "entity_id": "gymac",
       "url": "https://www.instagram.com/gymaccy",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:01.960Z",
-      "title": "GYMAC Boutique Gym (&#064;gymaccy) • Instagram photos and videos",
-      "text_excerpt": "GYMAC Boutique Gym (&#064;gymaccy) • Instagram photos and videos",
-      "hash": "3fe72af795f71cdac54c0a5813ba0ad082285643481a94f7c9abbb209ad9af53"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Gymac seed source",
+      "text_excerpt": "Gymac\nbusiness\nKKTC",
+      "hash": "d8c830be016f12840d4ef688ea285e5e2704b3312b82c5615507138936c67ce1"
     },
     {
-      "id": "source_388e0bdfa7163a4f",
+      "id": "source_92d3ec8624967c19",
       "entity_id": "gymac",
       "url": "https://www.facebook.com/gymaccy/posts/eat-clean-recharge-better-we-are-open-until-2300-everyday-sunday-1300/1062894799631469",
       "source_type": "social",
-      "retrieved_at": "2026-06-30T15:59:02.765Z",
-      "title": "Eat clean, RECHARGE better! 🚀 We are open until 23:00 everyday (Sunday 13:00) | GYMAC",
-      "text_excerpt": "Eat clean, RECHARGE better! &#x1f680;\n\nWe are open until 23:00 everyday (Sunday 13:00)",
-      "hash": "b54c327cbc4a759b5f28bed6af71edfa64daa41d256e365fe2099781fbe7ffe6"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Gymac seed source",
+      "text_excerpt": "Gymac\nbusiness\nKKTC",
+      "hash": "d8c830be016f12840d4ef688ea285e5e2704b3312b82c5615507138936c67ce1"
     },
     {
-      "id": "source_ec5537ca5da2225d",
+      "id": "source_8541b24c014a5161",
       "entity_id": "gymac",
       "url": "https://www.instagram.com/reel/DDC_zHCM9E8",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:03.425Z",
-      "title": "Instagram",
-      "text_excerpt": "149 likes, 5 comments - dt.asliparlak on December 1, 2024: &quot;PTCLUB x GYMAC\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n&#x2022;\n#fitness #gym #workout #fitnessmotivation #fit #motivation #bodybuilding #training #health #fitfam #healthylifestyle #lifestyle #love #gymlife #gymmotivation #sport #instagood #healthy #personaltrainer #muscle #crossfit #fitnessmodel #exercise #weightloss #fitnessjourney #fashion #wellness #instagram #model #yoga&quot;. ",
-      "hash": "a26883a02aa11878cf9e8157c866a5a45b557b3e035ec5a41cd2d2d80403c75f"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Gymac seed source",
+      "text_excerpt": "Gymac\nbusiness\nKKTC",
+      "hash": "d8c830be016f12840d4ef688ea285e5e2704b3312b82c5615507138936c67ce1"
     }
   ]
 }

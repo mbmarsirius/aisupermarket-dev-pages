@@ -1,7 +1,7 @@
 {
   "id": "hakan-rahel-bulut",
   "version": 1,
-  "generated_at": "2026-06-30T15:59:07.137Z",
+  "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Hakan Rahel Bulut",
   "summary": "Hakan Rahel Bulut is a professional entity for KKTC.",
   "categories": [
@@ -55,34 +55,34 @@
   ],
   "evidence_sources": [
     {
-      "id": "source_ffe475f21ac1669f",
+      "id": "source_1600bf13cf69eedf",
       "entity_id": "hakan-rahel-bulut",
       "url": "https://www.instagram.com/hakanrahelbulut/?hl=en",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:05.122Z",
-      "title": "IFBB Elite Pro | Hakan Rahel Bulut (&#064;hakanrahelbulut) • Instagram photos and videos",
-      "text_excerpt": "IFBB Elite Pro | Hakan Rahel Bulut (&#064;hakanrahelbulut) • Instagram photos and videos",
-      "hash": "d3fa8c9ceca95cf74b8a2390772dee8cf69e0964a96d2c84dc7642e09fbc895b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Hakan Rahel Bulut seed source",
+      "text_excerpt": "Hakan Rahel Bulut\nprofessional\nKKTC",
+      "hash": "0ef351aec491399a4fc22935fd4830db017ac473de42d528712bc7a1b85a092f"
     },
     {
-      "id": "source_6d5dddd48bbc628a",
+      "id": "source_413b4a3f55f3e1fd",
       "entity_id": "hakan-rahel-bulut",
       "url": "https://www.kibrisgercek.com/basbakan-ustel-milli-sporcu-hakan-rahel-bulutu-kabul-etti",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:05.674Z",
-      "title": "Başbakan Üstel, milli sporcu Hakan Rahel Bulut’u kabul etti - Kibris Gerçek | Haber-Son Dakika-KKTC Haberleri",
-      "text_excerpt": "Başbakan Ünal Üstel, IFBB Open Balkan Cup Genel Klasman Şampiyonu olan ve profesyonel sporcu unvanı kazanan milli vücut geliştirme ve fitness sporcusu Hakan Rahel Bulut’u kabul etti.",
-      "hash": "22a1b6db48e5f07a563052da58ef096a93f95cf5e1fd223414702eb32646cc93"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Hakan Rahel Bulut seed source",
+      "text_excerpt": "Hakan Rahel Bulut\nprofessional\nKKTC",
+      "hash": "0ef351aec491399a4fc22935fd4830db017ac473de42d528712bc7a1b85a092f"
     },
     {
-      "id": "source_e05b7b45c2bb40c7",
+      "id": "source_683c492eb9ec7025",
       "entity_id": "hakan-rahel-bulut",
       "url": "https://basbakanlik.gov.ct.tr/BASIN-VE-HALKLA-%C4%B0L%C4%B0%C5%9EK%C4%B0LER/MESAJLAR/fitness",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:07.136Z",
-      "title": "Başbakan Üstel, Milli Vücut Geliştirme ve Fitness Sporcusu Hakan Rahel Bulut’u Kabul Etti",
-      "text_excerpt": "Başbakan Ünal Üstel, Kuzey Kıbrıs Türk Cumhuriyeti’ni uluslararası platformlarda başarıyla temsil eden milli vücut geliştirme ve fitness...",
-      "hash": "5cbd5cb67be069241e8b4d4e51ac9adf327d65b3021b92cc8af55a5b15652610"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Hakan Rahel Bulut seed source",
+      "text_excerpt": "Hakan Rahel Bulut\nprofessional\nKKTC",
+      "hash": "0ef351aec491399a4fc22935fd4830db017ac473de42d528712bc7a1b85a092f"
     }
   ],
   "verification_summary": {
@@ -98,34 +98,34 @@
   ],
   "sources": [
     {
-      "id": "source_ffe475f21ac1669f",
+      "id": "source_1600bf13cf69eedf",
       "entity_id": "hakan-rahel-bulut",
       "url": "https://www.instagram.com/hakanrahelbulut/?hl=en",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T15:59:05.122Z",
-      "title": "IFBB Elite Pro | Hakan Rahel Bulut (&#064;hakanrahelbulut) • Instagram photos and videos",
-      "text_excerpt": "IFBB Elite Pro | Hakan Rahel Bulut (&#064;hakanrahelbulut) • Instagram photos and videos",
-      "hash": "d3fa8c9ceca95cf74b8a2390772dee8cf69e0964a96d2c84dc7642e09fbc895b"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Hakan Rahel Bulut seed source",
+      "text_excerpt": "Hakan Rahel Bulut\nprofessional\nKKTC",
+      "hash": "0ef351aec491399a4fc22935fd4830db017ac473de42d528712bc7a1b85a092f"
     },
     {
-      "id": "source_6d5dddd48bbc628a",
+      "id": "source_413b4a3f55f3e1fd",
       "entity_id": "hakan-rahel-bulut",
       "url": "https://www.kibrisgercek.com/basbakan-ustel-milli-sporcu-hakan-rahel-bulutu-kabul-etti",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:05.674Z",
-      "title": "Başbakan Üstel, milli sporcu Hakan Rahel Bulut’u kabul etti - Kibris Gerçek | Haber-Son Dakika-KKTC Haberleri",
-      "text_excerpt": "Başbakan Ünal Üstel, IFBB Open Balkan Cup Genel Klasman Şampiyonu olan ve profesyonel sporcu unvanı kazanan milli vücut geliştirme ve fitness sporcusu Hakan Rahel Bulut’u kabul etti.",
-      "hash": "22a1b6db48e5f07a563052da58ef096a93f95cf5e1fd223414702eb32646cc93"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Hakan Rahel Bulut seed source",
+      "text_excerpt": "Hakan Rahel Bulut\nprofessional\nKKTC",
+      "hash": "0ef351aec491399a4fc22935fd4830db017ac473de42d528712bc7a1b85a092f"
     },
     {
-      "id": "source_e05b7b45c2bb40c7",
+      "id": "source_683c492eb9ec7025",
       "entity_id": "hakan-rahel-bulut",
       "url": "https://basbakanlik.gov.ct.tr/BASIN-VE-HALKLA-%C4%B0L%C4%B0%C5%9EK%C4%B0LER/MESAJLAR/fitness",
       "source_type": "third_party",
-      "retrieved_at": "2026-06-30T15:59:07.136Z",
-      "title": "Başbakan Üstel, Milli Vücut Geliştirme ve Fitness Sporcusu Hakan Rahel Bulut’u Kabul Etti",
-      "text_excerpt": "Başbakan Ünal Üstel, Kuzey Kıbrıs Türk Cumhuriyeti’ni uluslararası platformlarda başarıyla temsil eden milli vücut geliştirme ve fitness...",
-      "hash": "5cbd5cb67be069241e8b4d4e51ac9adf327d65b3021b92cc8af55a5b15652610"
+      "retrieved_at": "2026-06-30T00:00:00.000Z",
+      "title": "Hakan Rahel Bulut seed source",
+      "text_excerpt": "Hakan Rahel Bulut\nprofessional\nKKTC",
+      "hash": "0ef351aec491399a4fc22935fd4830db017ac473de42d528712bc7a1b85a092f"
     }
   ]
 }
