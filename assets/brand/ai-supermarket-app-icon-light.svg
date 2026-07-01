@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="AI Supermarket app icon">
+  <rect width="1024" height="1024" fill="#F7F1E6"/>
+  <path d="M184 320h656v384H184z" fill="#080808"/>
+  <path d="M242 378h540v56H242zM242 484h540v56H242zM242 590h540v56H242z" fill="#F7F1E6"/>
+  <path d="M284 378h78v56h-78zM474 378h78v56h-78zM660 378h78v56h-78zM350 484h78v56h-78zM540 484h78v56h-78zM250 590h78v56h-78zM452 590h78v56h-78zM680 590h78v56h-78z" fill="#FF2733"/>
+  <path d="M184 264h656v62H184zM184 698h656v62H184z" fill="#080808"/>
+  <path d="M512 212 628 96h92L556 260h-88L304 96h92l116 116Z" fill="#080808"/>
+  <circle cx="512" cy="512" r="96" fill="#F7F1E6"/>
+  <path d="M452 510 496 554 584 466" fill="none" stroke="#080808" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M397 802h230" stroke="#080808" stroke-width="34" stroke-linecap="square"/>
+  <path d="M672 802h44" stroke="#48FFAE" stroke-width="34" stroke-linecap="square"/>
+</svg>
