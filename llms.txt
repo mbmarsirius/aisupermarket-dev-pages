@@ -10,6 +10,9 @@ The verified business fact layer for AI assistants.
 - Factory product page: https://aisupermarket.dev/factory/
 - KKTC 26 activation report: https://aisupermarket.dev/reports/kktc-26-activation/
 - Answer index: https://aisupermarket.dev/answers/
+- AI-readable inventory: https://aisupermarket.dev/ai.txt
+- Well-known LLMS inventory: https://aisupermarket.dev/.well-known/llms.txt
+- Public GitHub/markdown source index: https://aisupermarket.dev/README.md
 - Sitemap: https://aisupermarket.dev/sitemap.xml
 - Robots: https://aisupermarket.dev/robots.txt
 
