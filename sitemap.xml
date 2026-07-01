@@ -223,5 +223,7 @@
 <url><loc>https://aisupermarket.dev/terms/</loc><lastmod>2026-07-01</lastmod></url>
 <url><loc>https://aisupermarket.dev/demo/</loc><lastmod>2026-07-01</lastmod></url>
 <url><loc>https://aisupermarket.dev/llms.txt</loc><lastmod>2026-07-01</lastmod></url>
+<url><loc>https://aisupermarket.dev/.well-known/llms.txt</loc><lastmod>2026-07-01</lastmod></url>
+<url><loc>https://aisupermarket.dev/ai.txt</loc><lastmod>2026-07-01</lastmod></url>
 <url><loc>https://aisupermarket.dev/robots.txt</loc><lastmod>2026-07-01</lastmod></url>
 </urlset>

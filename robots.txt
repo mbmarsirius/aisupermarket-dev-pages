@@ -1,10 +1,32 @@
 User-agent: *
 Allow: /
 
+# OpenAI / ChatGPT discovery
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Other answer-engine crawlers
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://aisupermarket.dev/sitemap.xml
 
 # AI/answer-engine discovery hints
 Allow: /llms.txt
+Allow: /.well-known/llms.txt
+Allow: /ai.txt
 Allow: /api/entities/
 Allow: /feeds/
 Allow: /markets/
