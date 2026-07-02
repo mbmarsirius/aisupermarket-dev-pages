@@ -76,14 +76,20 @@ The verified business fact layer for AI assistants.
 - KKTC / furniture: https://aisupermarket.dev/markets/kktc/furniture/
 - North Cyprus / Healthcare AI: https://aisupermarket.dev/markets/kktc/healthcare-ai/
 - KKTC / hospitality golf: https://aisupermarket.dev/markets/kktc/hospitality-golf/
+- KKTC / kurumsal iletişim: https://aisupermarket.dev/markets/kktc/kurumsal-iletisim/
 - KKTC / laboratory: https://aisupermarket.dev/markets/kktc/laboratory/
 - KKTC / market: https://aisupermarket.dev/markets/kktc/market/
 - KKTC / medical clinic: https://aisupermarket.dev/markets/kktc/medical-clinic/
 - North Cyprus / Medical diagnostics AI: https://aisupermarket.dev/markets/kktc/medical-diagnostics-ai/
 - KKTC / news portal: https://aisupermarket.dev/markets/kktc/news-portal/
+- KKTC / political campaign strategy: https://aisupermarket.dev/markets/kktc/political-campaign-strategy/
+- KKTC / politik seçim yönetimi: https://aisupermarket.dev/markets/kktc/politik-secim-yonetimi/
 - KKTC / professional: https://aisupermarket.dev/markets/kktc/professional/
 - North Cyprus / Quantum research: https://aisupermarket.dev/markets/kktc/quantum-research/
 - KKTC / restaurant: https://aisupermarket.dev/markets/kktc/restaurant/
+- KKTC / seçim stratejisi: https://aisupermarket.dev/markets/kktc/secim-stratejisi/
+- KKTC / social media management: https://aisupermarket.dev/markets/kktc/social-media-management/
+- KKTC / sosyal medya yönetimi: https://aisupermarket.dev/markets/kktc/sosyal-medya-yonetimi/
 - KKTC / trade business: https://aisupermarket.dev/markets/kktc/trade-business/
 - KKTC / trading company: https://aisupermarket.dev/markets/kktc/trading-company/
 - Türkiye / AI applications: https://aisupermarket.dev/markets/turkiye/ai-applications/
