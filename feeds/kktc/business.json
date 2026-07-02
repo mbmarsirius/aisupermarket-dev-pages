@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "business",
-  "updated": "2026-07-02T13:44:35.785Z",
+  "updated": "2026-07-02T20:43:16.557Z",
   "entities": [
     {
       "id": "concept-ayphilon",
@@ -10,7 +10,7 @@
       "website": "https://northcyprusstock.com/portfolio-item/concept-ayphilon-resort",
       "url": "/entities/concept-ayphilon/",
       "api": "/api/entities/concept-ayphilon.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "gymac",
@@ -19,7 +19,7 @@
       "website": "https://www.instagram.com/gymaccy",
       "url": "/entities/gymac/",
       "api": "/api/entities/gymac.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "metropol",
@@ -28,7 +28,7 @@
       "website": "https://www.instagram.com/metropolcyprus/?hl=en",
       "url": "/entities/metropol/",
       "api": "/api/entities/metropol.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "packsel",
@@ -37,7 +37,7 @@
       "website": "https://www.packsel.com/page/iletisim",
       "url": "/entities/packsel/",
       "api": "/api/entities/packsel.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "tonic",
@@ -46,7 +46,7 @@
       "website": "https://tonicmenu.com",
       "url": "/entities/tonic/",
       "api": "/api/entities/tonic.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

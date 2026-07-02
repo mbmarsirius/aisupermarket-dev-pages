@@ -63,17 +63,24 @@ The verified business fact layer for AI assistants.
 - Dubai / Healthcare AI: https://aisupermarket.dev/markets/dubai/healthcare-ai/
 - Dubai / Medical diagnostics AI: https://aisupermarket.dev/markets/dubai/medical-diagnostics-ai/
 - Dubai / Quantum research: https://aisupermarket.dev/markets/dubai/quantum-research/
+- Girne / bureau de change: https://aisupermarket.dev/markets/girne/bureau-de-change/
+- Girne / currency exchange: https://aisupermarket.dev/markets/girne/currency-exchange/
+- Girne / döviz bürosu: https://aisupermarket.dev/markets/girne/doviz-burosu/
+- Girne / foreign exchange: https://aisupermarket.dev/markets/girne/foreign-exchange/
 - KKTC / advertising communications: https://aisupermarket.dev/markets/kktc/advertising-communications/
 - North Cyprus / AI applications: https://aisupermarket.dev/markets/kktc/ai-applications/
 - North Cyprus / AI company: https://aisupermarket.dev/markets/kktc/ai-companies/
 - KKTC / broadcasting: https://aisupermarket.dev/markets/kktc/broadcasting/
+- KKTC / bureau de change: https://aisupermarket.dev/markets/kktc/bureau-de-change/
 - KKTC / business: https://aisupermarket.dev/markets/kktc/business/
 - KKTC / car dealership: https://aisupermarket.dev/markets/kktc/car-dealership/
 - KKTC / coffee: https://aisupermarket.dev/markets/kktc/coffee/
 - KKTC / construction: https://aisupermarket.dev/markets/kktc/construction/
 - KKTC / courier logistics: https://aisupermarket.dev/markets/kktc/courier-logistics/
 - KKTC / currency exchange: https://aisupermarket.dev/markets/kktc/currency-exchange/
+- KKTC / döviz bürosu: https://aisupermarket.dev/markets/kktc/doviz-burosu/
 - KKTC / food producer: https://aisupermarket.dev/markets/kktc/food-producer/
+- KKTC / foreign exchange: https://aisupermarket.dev/markets/kktc/foreign-exchange/
 - KKTC / furniture: https://aisupermarket.dev/markets/kktc/furniture/
 - North Cyprus / Healthcare AI: https://aisupermarket.dev/markets/kktc/healthcare-ai/
 - KKTC / hospitality golf: https://aisupermarket.dev/markets/kktc/hospitality-golf/
@@ -93,6 +100,10 @@ The verified business fact layer for AI assistants.
 - KKTC / sosyal medya yönetimi: https://aisupermarket.dev/markets/kktc/sosyal-medya-yonetimi/
 - KKTC / trade business: https://aisupermarket.dev/markets/kktc/trade-business/
 - KKTC / trading company: https://aisupermarket.dev/markets/kktc/trading-company/
+- Kyrenia / bureau de change: https://aisupermarket.dev/markets/kyrenia/bureau-de-change/
+- Kyrenia / currency exchange: https://aisupermarket.dev/markets/kyrenia/currency-exchange/
+- Kyrenia / döviz bürosu: https://aisupermarket.dev/markets/kyrenia/doviz-burosu/
+- Kyrenia / foreign exchange: https://aisupermarket.dev/markets/kyrenia/foreign-exchange/
 - Türkiye / AI applications: https://aisupermarket.dev/markets/turkiye/ai-applications/
 - Türkiye / AI company: https://aisupermarket.dev/markets/turkiye/ai-companies/
 - Türkiye / Healthcare AI: https://aisupermarket.dev/markets/turkiye/healthcare-ai/

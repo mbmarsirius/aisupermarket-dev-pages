@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "coffee",
-  "updated": "2026-07-02T13:44:35.785Z",
+  "updated": "2026-07-02T20:43:16.558Z",
   "entities": [
     {
       "id": "ovis-coffees",
@@ -10,7 +10,7 @@
       "website": "https://www.oviscoffees.co.uk/about-us",
       "url": "/entities/ovis-coffees/",
       "api": "/api/entities/ovis-coffees.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

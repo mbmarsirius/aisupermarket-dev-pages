@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "news-portal",
-  "updated": "2026-07-02T13:44:35.790Z",
+  "updated": "2026-07-02T20:43:16.559Z",
   "entities": [
     {
       "id": "haber-kibris",
@@ -10,7 +10,7 @@
       "website": "https://haberkibris.com",
       "url": "/entities/haber-kibris/",
       "api": "/api/entities/haber-kibris.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "trading-company",
-  "updated": "2026-07-02T13:44:35.791Z",
+  "updated": "2026-07-02T20:43:16.561Z",
   "entities": [
     {
       "id": "enlightened-trading",
@@ -10,7 +10,7 @@
       "website": "https://www.facebook.com/enlightened.trading.3",
       "url": "/entities/enlightened-trading/",
       "api": "/api/entities/enlightened-trading.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

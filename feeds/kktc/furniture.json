@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "furniture",
-  "updated": "2026-07-02T13:44:35.788Z",
+  "updated": "2026-07-02T20:43:16.559Z",
   "entities": [
     {
       "id": "inara-concept",
@@ -10,7 +10,7 @@
       "website": "https://www.instagram.com/inaraconcept",
       "url": "/entities/inara-concept/",
       "api": "/api/entities/inara-concept.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

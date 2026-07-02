@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "professional",
-  "updated": "2026-07-02T13:44:35.790Z",
+  "updated": "2026-07-02T20:43:16.560Z",
   "entities": [
     {
       "id": "ahmet-ulutekin",
@@ -10,7 +10,7 @@
       "website": "https://www.hangiev.com/ahmetulutekin/en",
       "url": "/entities/ahmet-ulutekin/",
       "api": "/api/entities/ahmet-ulutekin.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "hakan-rahel-bulut",
@@ -19,7 +19,7 @@
       "website": "https://www.instagram.com/hakanrahelbulut/?hl=en",
       "url": "/entities/hakan-rahel-bulut/",
       "api": "/api/entities/hakan-rahel-bulut.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "mehmet-saydam",
@@ -28,7 +28,7 @@
       "website": "https://mehmetsaydam.com/biyografi",
       "url": "/entities/mehmet-saydam/",
       "api": "/api/entities/mehmet-saydam.json",
-      "verified_claims": 3
+      "verified_claims": 4
     },
     {
       "id": "necat-yuksel",
@@ -37,7 +37,7 @@
       "website": "https://cy.linkedin.com/in/necat-yuksel-65105314",
       "url": "/entities/necat-yuksel/",
       "api": "/api/entities/necat-yuksel.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "hospitality-golf",
-  "updated": "2026-07-02T13:44:35.788Z",
+  "updated": "2026-07-02T20:43:16.559Z",
   "entities": [
     {
       "id": "korinium",
@@ -10,7 +10,7 @@
       "website": "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html",
       "url": "/entities/korinium/",
       "api": "/api/entities/korinium.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

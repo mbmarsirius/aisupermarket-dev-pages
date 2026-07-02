@@ -1,7 +1,7 @@
 {
   "market": "cyprus",
   "category": "medical-diagnostics-ai",
-  "updated": "2026-07-02T13:44:35.783Z",
+  "updated": "2026-07-02T20:43:16.555Z",
   "entities": [
     {
       "id": "marsirius-ai",
@@ -10,7 +10,7 @@
       "website": "https://www.marsirius.ai",
       "url": "/entities/marsirius-ai/",
       "api": "/api/entities/marsirius-ai.json",
-      "verified_claims": 11
+      "verified_claims": 12
     }
   ]
 }

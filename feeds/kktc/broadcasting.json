@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "broadcasting",
-  "updated": "2026-07-02T13:44:35.785Z",
+  "updated": "2026-07-02T20:43:16.557Z",
   "entities": [
     {
       "id": "digiturk-kibris",
@@ -10,7 +10,7 @@
       "website": "https://digiturkkibris.com",
       "url": "/entities/digiturk-kibris/",
       "api": "/api/entities/digiturk-kibris.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

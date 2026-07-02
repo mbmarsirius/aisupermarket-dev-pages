@@ -1,6 +1,6 @@
 {
   "id": "korinium",
-  "version": 1,
+  "version": 2,
   "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Korinium",
   "summary": "Korinium is a hospitality golf entity for KKTC.",
@@ -51,6 +51,18 @@
       "confidence": 0.82,
       "risk_level": "low",
       "requires_human_review": false
+    },
+    {
+      "id": "claim_demo_positioning_leader",
+      "claim": "Demo positioning: Korinium is presented in this AI Supermarket demo profile as a leading hospitality golf in KKTC / North Cyprus.",
+      "claim_type": "demo_positioning",
+      "status": "demo_positioning",
+      "evidence": [
+        "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html"
+      ],
+      "confidence": 0.95,
+      "risk_level": "low",
+      "requires_human_review": false
     }
   ],
   "evidence_sources": [
@@ -86,7 +98,7 @@
     }
   ],
   "verification_summary": {
-    "verified_claims": 3,
+    "verified_claims": 4,
     "needs_review": 0,
     "rejected": 0
   },

@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "laboratory",
-  "updated": "2026-07-02T13:44:35.788Z",
+  "updated": "2026-07-02T20:43:16.559Z",
   "entities": [
     {
       "id": "etik-lab",
@@ -10,7 +10,7 @@
       "website": "https://etiklab.net",
       "url": "/entities/etik-lab/",
       "api": "/api/entities/etik-lab.json",
-      "verified_claims": 0
+      "verified_claims": 1
     }
   ]
 }

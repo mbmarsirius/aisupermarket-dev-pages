@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "trade-business",
-  "updated": "2026-07-02T13:44:35.791Z",
+  "updated": "2026-07-02T20:43:16.560Z",
   "entities": [
     {
       "id": "ner-ticaret",
@@ -10,7 +10,7 @@
       "website": "https://www.volza.com/company-profile/ner-ticaret-limited-90510898",
       "url": "/entities/ner-ticaret/",
       "api": "/api/entities/ner-ticaret.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

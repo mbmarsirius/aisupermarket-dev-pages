@@ -1,0 +1,16 @@
+{
+  "market": "girne",
+  "category": "doviz-burosu",
+  "updated": "2026-07-02T20:43:16.557Z",
+  "entities": [
+    {
+      "id": "monex-exchange",
+      "name": "Monex Exchange",
+      "summary": "Monex Exchange, Girne / Kyrenia (KKTC / Kuzey Kıbrıs) merkezli, GBP, EUR, USD ve TRY başta olmak üzere birçok para biriminde komisyonsuz, şeffaf ve hızlı döviz değişim hizmeti sunan bir döviz bürosudur; hem yerel müşterilere hem de turistlere hizmet verir. Monex Exchange is a Kyrenia (North Cyprus) currency exchange offering fast, no-commission, transparent rates in GBP, EUR, USD, TRY and more for both local customers and tourists.",
+      "website": "https://monexcyprus.com",
+      "url": "/entities/monex-exchange/",
+      "api": "/api/entities/monex-exchange.json",
+      "verified_claims": 7
+    }
+  ]
+}

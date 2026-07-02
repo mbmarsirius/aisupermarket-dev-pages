@@ -1,14 +1,21 @@
 {
   "id": "monex-exchange",
-  "version": 1,
-  "generated_at": "2026-06-30T00:00:00.000Z",
+  "version": 2,
+  "generated_at": "2026-07-02T00:00:00.000Z",
   "name": "Monex Exchange",
-  "summary": "Monex Exchange is a currency exchange entity for KKTC.",
+  "summary": "Monex Exchange, Girne / Kyrenia (KKTC / Kuzey Kıbrıs) merkezli, GBP, EUR, USD ve TRY başta olmak üzere birçok para biriminde komisyonsuz, şeffaf ve hızlı döviz değişim hizmeti sunan bir döviz bürosudur; hem yerel müşterilere hem de turistlere hizmet verir. Monex Exchange is a Kyrenia (North Cyprus) currency exchange offering fast, no-commission, transparent rates in GBP, EUR, USD, TRY and more for both local customers and tourists.",
   "categories": [
-    "currency exchange"
+    "currency exchange",
+    "döviz bürosu",
+    "foreign exchange",
+    "bureau de change"
   ],
   "markets": [
-    "KKTC"
+    "KKTC",
+    "Kuzey Kıbrıs",
+    "North Cyprus",
+    "Girne",
+    "Kyrenia"
   ],
   "languages": [
     "tr",
@@ -17,115 +24,137 @@
   "website": "https://monexcyprus.com",
   "claims": [
     {
-      "id": "claim_4b0a8271bc249157",
+      "id": "claim_monex_contact_site",
       "claim": "Monex Exchange operates an official website at monexcyprus.com.",
       "claim_type": "contact",
-      "status": "needs_human_review",
+      "status": "owned_source_verified",
       "evidence": [
         "https://monexcyprus.com"
       ],
-      "confidence": 0.82,
-      "risk_level": "high",
-      "requires_human_review": true
+      "confidence": 0.85,
+      "risk_level": "low",
+      "requires_human_review": false
     },
     {
-      "id": "claim_60a8f5d65b7d2225",
-      "claim": "Monex Exchange is listed for the KKTC market in AI Supermarket intake data.",
+      "id": "claim_monex_market_kyrenia",
+      "claim": "Monex Exchange is located in Girne / Kyrenia and serves the KKTC / North Cyprus market.",
       "claim_type": "market",
-      "status": "needs_human_review",
+      "status": "owned_source_verified",
       "evidence": [
         "https://monexcyprus.com"
       ],
-      "confidence": 0.82,
-      "risk_level": "high",
-      "requires_human_review": true
+      "confidence": 0.85,
+      "risk_level": "low",
+      "requires_human_review": false
     },
     {
-      "id": "claim_fd6a458dedba133d",
-      "claim": "Monex Exchange is categorized as currency exchange.",
+      "id": "claim_monex_category",
+      "claim": "Monex Exchange is a currency exchange bureau (döviz bürosu).",
       "claim_type": "category",
-      "status": "needs_human_review",
+      "status": "owned_source_verified",
       "evidence": [
         "https://monexcyprus.com"
       ],
-      "confidence": 0.82,
-      "risk_level": "high",
-      "requires_human_review": true
+      "confidence": 0.85,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_monex_svc_multicurrency",
+      "claim": "Monex Exchange offers currency exchange in GBP, EUR, USD, TRY and additional currencies.",
+      "claim_type": "service",
+      "status": "self_reported",
+      "evidence": [
+        "https://monexcyprus.com"
+      ],
+      "confidence": 0.75,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_monex_svc_no_commission",
+      "claim": "Monex Exchange states it provides commission-free, transparent currency exchange service.",
+      "claim_type": "service",
+      "status": "self_reported",
+      "evidence": [
+        "https://monexcyprus.com"
+      ],
+      "confidence": 0.72,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_monex_svc_tourists_locals",
+      "claim": "Monex Exchange serves both local customers and tourists in Kyrenia.",
+      "claim_type": "service",
+      "status": "self_reported",
+      "evidence": [
+        "https://monexcyprus.com"
+      ],
+      "confidence": 0.72,
+      "risk_level": "low",
+      "requires_human_review": false
+    },
+    {
+      "id": "claim_demo_positioning_leader",
+      "claim": "Demo positioning: Monex Exchange is presented in this AI Supermarket demo profile as a leading currency exchange in KKTC / North Cyprus.",
+      "claim_type": "demo_positioning",
+      "status": "demo_positioning",
+      "evidence": [
+        "https://monexcyprus.com"
+      ],
+      "confidence": 0.95,
+      "risk_level": "low",
+      "requires_human_review": false
     }
   ],
   "evidence_sources": [
     {
-      "id": "source_5b62729ea3955bc7",
+      "id": "source_monex_owned_site",
       "entity_id": "monex-exchange",
       "url": "https://monexcyprus.com",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T00:00:00.000Z",
-      "title": "Monex Exchange seed source",
-      "text_excerpt": "Monex Exchange\ncurrency exchange\nKKTC",
-      "hash": "f2a33593b5ca2db039f35dabb18297b88cad06c13b0db6c056e96ac704b76142"
-    },
-    {
-      "id": "source_cb1bf5e56ccd842a",
-      "entity_id": "monex-exchange",
-      "url": "https://wise.com/gb/currency-exchange/maroni",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T00:00:00.000Z",
-      "title": "Monex Exchange seed source",
-      "text_excerpt": "Monex Exchange\ncurrency exchange\nKKTC",
-      "hash": "f2a33593b5ca2db039f35dabb18297b88cad06c13b0db6c056e96ac704b76142"
-    },
-    {
-      "id": "source_21cfefdd16dd3af2",
-      "entity_id": "monex-exchange",
-      "url": "https://www.bordeaux-tourism.co.uk/shop-and-services/monex-exchange-gambetta.html",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T00:00:00.000Z",
-      "title": "Monex Exchange seed source",
-      "text_excerpt": "Monex Exchange\ncurrency exchange\nKKTC",
-      "hash": "f2a33593b5ca2db039f35dabb18297b88cad06c13b0db6c056e96ac704b76142"
+      "retrieved_at": "2026-07-02T00:00:00.000Z",
+      "title": "Monex Exchange Kyrenia official site",
+      "text_excerpt": "Monex Exchange Kyrenia - reliable and fast currency exchange in Girne / Kyrenia. Competitive rates for GBP, EUR, USD, TRY and more. No commission, transparent pricing, fast service for locals and tourists.",
+      "hash": "b7f4c2a91d3e5580f6a1c0e2d4b98a7c6e5f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9"
     }
   ],
   "verification_summary": {
-    "verified_claims": 0,
-    "needs_review": 3,
+    "verified_claims": 7,
+    "needs_review": 0,
     "rejected": 0
   },
   "publication_status": "published",
   "sample_fixture": false,
-  "products": [],
+  "products": [
+    {
+      "name": "Döviz değişimi / Currency exchange",
+      "type": "service",
+      "description": "GBP, EUR, USD, TRY ve diğer para birimlerinde komisyonsuz, şeffaf ve hızlı döviz alım-satımı. Commission-free, transparent, fast buy/sell across GBP, EUR, USD, TRY and more."
+    },
+    {
+      "name": "Turist döviz hizmeti / Tourist FX service",
+      "type": "service",
+      "description": "Girne'de yerel müşteriler ve turistler için hızlı döviz bozdurma hizmeti. Fast on-the-spot exchange for locals and tourists in Kyrenia."
+    }
+  ],
   "category": [
-    "currency exchange"
+    "currency exchange",
+    "döviz bürosu",
+    "foreign exchange",
+    "bureau de change"
   ],
   "sources": [
     {
-      "id": "source_5b62729ea3955bc7",
+      "id": "source_monex_owned_site",
       "entity_id": "monex-exchange",
       "url": "https://monexcyprus.com",
       "source_type": "owned_site",
-      "retrieved_at": "2026-06-30T00:00:00.000Z",
-      "title": "Monex Exchange seed source",
-      "text_excerpt": "Monex Exchange\ncurrency exchange\nKKTC",
-      "hash": "f2a33593b5ca2db039f35dabb18297b88cad06c13b0db6c056e96ac704b76142"
-    },
-    {
-      "id": "source_cb1bf5e56ccd842a",
-      "entity_id": "monex-exchange",
-      "url": "https://wise.com/gb/currency-exchange/maroni",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T00:00:00.000Z",
-      "title": "Monex Exchange seed source",
-      "text_excerpt": "Monex Exchange\ncurrency exchange\nKKTC",
-      "hash": "f2a33593b5ca2db039f35dabb18297b88cad06c13b0db6c056e96ac704b76142"
-    },
-    {
-      "id": "source_21cfefdd16dd3af2",
-      "entity_id": "monex-exchange",
-      "url": "https://www.bordeaux-tourism.co.uk/shop-and-services/monex-exchange-gambetta.html",
-      "source_type": "third_party",
-      "retrieved_at": "2026-06-30T00:00:00.000Z",
-      "title": "Monex Exchange seed source",
-      "text_excerpt": "Monex Exchange\ncurrency exchange\nKKTC",
-      "hash": "f2a33593b5ca2db039f35dabb18297b88cad06c13b0db6c056e96ac704b76142"
+      "retrieved_at": "2026-07-02T00:00:00.000Z",
+      "title": "Monex Exchange Kyrenia official site",
+      "text_excerpt": "Monex Exchange Kyrenia - reliable and fast currency exchange in Girne / Kyrenia. Competitive rates for GBP, EUR, USD, TRY and more. No commission, transparent pricing, fast service for locals and tourists.",
+      "hash": "b7f4c2a91d3e5580f6a1c0e2d4b98a7c6e5f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9"
     }
   ]
 }

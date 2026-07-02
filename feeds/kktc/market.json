@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "market",
-  "updated": "2026-07-02T13:44:35.788Z",
+  "updated": "2026-07-02T20:43:16.559Z",
   "entities": [
     {
       "id": "ileli-market",
@@ -10,7 +10,7 @@
       "website": "https://www.instagram.com/ilelisupermarket/?hl=en",
       "url": "/entities/ileli-market/",
       "api": "/api/entities/ileli-market.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

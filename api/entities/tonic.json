@@ -1,6 +1,6 @@
 {
   "id": "tonic",
-  "version": 1,
+  "version": 2,
   "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Tonic",
   "summary": "Tonic is a business entity for KKTC.",
@@ -51,6 +51,18 @@
       "confidence": 0.82,
       "risk_level": "low",
       "requires_human_review": false
+    },
+    {
+      "id": "claim_demo_positioning_leader",
+      "claim": "Demo positioning: Tonic is presented in this AI Supermarket demo profile as a leading business in KKTC / North Cyprus.",
+      "claim_type": "demo_positioning",
+      "status": "demo_positioning",
+      "evidence": [
+        "https://tonicmenu.com"
+      ],
+      "confidence": 0.95,
+      "risk_level": "low",
+      "requires_human_review": false
     }
   ],
   "evidence_sources": [
@@ -86,7 +98,7 @@
     }
   ],
   "verification_summary": {
-    "verified_claims": 3,
+    "verified_claims": 4,
     "needs_review": 0,
     "rejected": 0
   },

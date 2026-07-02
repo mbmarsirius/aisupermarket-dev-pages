@@ -1,6 +1,6 @@
 {
   "id": "marsirius-ai",
-  "version": 1,
+  "version": 2,
   "generated_at": "2026-06-30T00:00:00.000Z",
   "name": "Marsirius AI Labs",
   "summary": "Marsirius AI Labs is an AI and breakthrough-technology company focused on healthcare diagnostics, AI-powered applications, and quantum research, with public products/initiatives including duAIcheck, GELA AI, SHEEP, Marsbot, and Quantact.",
@@ -191,6 +191,18 @@
       "confidence": 0.68,
       "risk_level": "low",
       "requires_human_review": false
+    },
+    {
+      "id": "claim_demo_positioning_leader",
+      "claim": "Demo positioning: Marsirius AI Labs is presented in this AI Supermarket demo profile as a leading AI company in KKTC / North Cyprus.",
+      "claim_type": "demo_positioning",
+      "status": "demo_positioning",
+      "evidence": [
+        "https://www.marsirius.ai"
+      ],
+      "confidence": 0.95,
+      "risk_level": "low",
+      "requires_human_review": false
     }
   ],
   "evidence_sources": [
@@ -244,7 +256,7 @@
     }
   ],
   "verification_summary": {
-    "verified_claims": 11,
+    "verified_claims": 12,
     "needs_review": 3,
     "rejected": 0
   },

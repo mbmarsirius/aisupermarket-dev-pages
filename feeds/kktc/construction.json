@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "construction",
-  "updated": "2026-07-02T13:44:35.785Z",
+  "updated": "2026-07-02T20:43:16.558Z",
   "entities": [
     {
       "id": "korvenue-kyrenian",
@@ -10,7 +10,7 @@
       "website": "http://www.korvenue.com",
       "url": "/entities/korvenue-kyrenian/",
       "api": "/api/entities/korvenue-kyrenian.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }

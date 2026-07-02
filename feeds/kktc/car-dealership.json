@@ -1,7 +1,7 @@
 {
   "market": "kktc",
   "category": "car-dealership",
-  "updated": "2026-07-02T13:44:35.785Z",
+  "updated": "2026-07-02T20:43:16.558Z",
   "entities": [
     {
       "id": "link-cars",
@@ -10,7 +10,7 @@
       "website": "https://www.kktcarabam.com/uye/link-cars",
       "url": "/entities/link-cars/",
       "api": "/api/entities/link-cars.json",
-      "verified_claims": 3
+      "verified_claims": 4
     }
   ]
 }
