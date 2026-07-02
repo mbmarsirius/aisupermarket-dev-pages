@@ -7,6 +7,7 @@ The verified business fact layer for AI assistants.
 
 ## Public surfaces
 - Home: https://aisupermarket.dev/
+- Mirror Test / enable funnel: https://aisupermarket.dev/demo/
 - Factory product page: https://aisupermarket.dev/factory/
 - KKTC 26 activation report: https://aisupermarket.dev/reports/kktc-26-activation/
 - Answer index: https://aisupermarket.dev/answers/

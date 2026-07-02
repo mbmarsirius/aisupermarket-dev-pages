@@ -1,5 +1,176 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI Supermarket Demo</title><meta name="description" content="Demo script and production verification for the AI Supermarket ChatGPT App."><link rel="canonical" href="https://aisupermarket.dev/demo/"><style>body{margin:0;background:#f8f0dc;color:#10120f;font:18px/1.55 Georgia,serif}main{max-width:920px;margin:auto;padding:48px 22px}h1{font-size:clamp(42px,8vw,82px);line-height:.9;letter-spacing:-.06em}.box{border:2px solid #111;border-radius:20px;background:#fff8e8;padding:18px;box-shadow:6px 6px 0 #111;margin:18px 0}code,pre{background:#111;color:#16f2a5;border-radius:10px;padding:3px 7px}pre{white-space:pre-wrap;padding:16px}a{color:#10120f}</style></head><body><main><p><a href="/">← AI Supermarket</a></p><h1>AI Supermarket ChatGPT App Demo</h1><div class="box"><strong>Production MCP URL:</strong><br><code>https://connector.aisupermarket.dev/mcp</code></div><h2>Main use cases</h2><ol><li>Search source-backed AI Supermarket companies by market/category.</li><li>Open the Marsirius AI Labs Fact Pack with evidence URLs.</li><li>Answer “Who are AI companies in North Cyprus?” using the KKTC AI shelf.</li><li>Render the ChatGPT Apps profile widget from <code>ui://ai-supermarket/company-profile.html</code>.</li></ol><h2>Golden prompts</h2><pre>Use AI Supermarket to find Marsirius AI.
-Show the source-backed Fact Pack for Marsirius AI Labs.
-AI Supermarket'te KKTC yapay zeka şirketleri kimler?
-Who are AI companies in North Cyprus with evidence?</pre><h2>Production verification</h2><p>The connector is read-only and exposes <code>search_companies</code>, <code>get_company_profile</code>, and <code>answer_business_query</code>. Static proof surfaces include <a href="/entities/marsirius-ai/">entity page</a>, <a href="/api/entities/marsirius-ai.json">JSON Fact Pack</a>, <a href="/feeds/kktc/ai-companies.json">feed</a>, <a href="/llms.txt">llms.txt</a>, and <a href="/sitemap.xml">sitemap</a>.</p></main></body></html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AI Supermarket Mirror Test — enabled ChatGPT App demo</title>
+  <meta name="description" content="Run a side-by-side AI visibility mirror: unaided assistant risk vs AI Supermarket enabled connector answer from source-backed Fact Packs.">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="canonical" href="https://aisupermarket.dev/demo/">
+  <link rel="icon" href="/assets/brand/ai-supermarket-mark.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/brand/ai-supermarket-app-icon-hermes-light.png">
+  <meta property="og:title" content="AI Supermarket Mirror Test">
+  <meta property="og:description" content="Show a prospect the difference between unconnected ChatGPT risk and an enabled AI Supermarket Fact Pack response.">
+  <meta property="og:image" content="https://aisupermarket.dev/assets/brand/ai-supermarket-og.svg">
+  <meta name="theme-color" content="#001307">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"AI Supermarket Mirror Test","url":"https://aisupermarket.dev/demo/","applicationCategory":"BusinessApplication","description":"A live demo surface for comparing unaided assistant risk with enabled AI Supermarket Fact Pack retrieval."}</script>
+  <link rel="stylesheet" href="/assets/brand/hermes-supermarket.css">
+  <style>
+    .mirror-hero{padding:clamp(34px,6vw,78px) clamp(16px,6vw,76px) 26px;display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,.6fr);gap:28px;align-items:end}.mirror-hero h1{font-size:clamp(40px,7vw,92px);line-height:.9;margin:12px 0}.mirror-hero .lede{max-width:920px}.qr-card{border:1px solid var(--line);background:linear-gradient(135deg,rgba(0,255,88,.13),rgba(0,0,0,.76));box-shadow:var(--shadow);padding:20px;min-height:260px;display:grid;align-content:space-between}.qr-box{height:138px;border:1px dashed rgba(0,255,88,.55);display:grid;place-items:center;color:var(--green);font:900 28px/1 var(--mono);letter-spacing:.08em;background:repeating-linear-gradient(45deg,rgba(0,255,88,.12) 0 6px,transparent 6px 12px)}.mirror-shell{padding:18px clamp(16px,6vw,76px) 80px}.mirror-console{border:1px solid var(--line);box-shadow:var(--shadow);background:rgba(0,12,5,.82);padding:18px}.query-row{display:grid;grid-template-columns:1fr auto;gap:12px}.query-row textarea{min-height:94px;width:100%;resize:vertical;border:1px solid rgba(0,255,88,.35);background:#000;color:var(--text);padding:16px;font:700 16px/1.5 var(--mono);box-shadow:inset 0 0 20px rgba(0,255,88,.08)}.run-btn,.chip{border:1px solid var(--green);background:var(--green);color:#001307;font:900 13px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;padding:14px 18px;cursor:pointer;box-shadow:0 0 22px rgba(0,255,88,.22)}.run-btn[disabled]{opacity:.55;cursor:wait}.chips{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 0}.chip{background:transparent;color:var(--green2);padding:9px 10px}.mirror-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}.pane{position:relative;overflow:hidden;border:1px solid rgba(0,255,88,.28);background:linear-gradient(180deg,rgba(0,31,12,.88),rgba(0,4,2,.94));padding:18px;min-height:420px}.pane::before{content:attr(data-label);display:block;color:var(--muted);font:900 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;margin-bottom:14px}.pane h2{font-size:clamp(23px,3vw,38px);line-height:1;margin:0 0 12px}.risk{border-color:rgba(255,51,92,.42)}.risk .status{color:var(--red)}.enabled{border-color:rgba(0,255,88,.62);box-shadow:0 0 42px rgba(0,255,88,.13)}.status{display:inline-flex;gap:8px;align-items:center;border:1px solid currentColor;padding:6px 8px;margin-bottom:12px;font:900 11px/1 var(--mono);text-transform:uppercase}.answer{white-space:pre-wrap}.entity-card{margin-top:14px;border:1px solid rgba(0,255,88,.28);background:rgba(0,255,88,.06);padding:13px}.entity-card h3{margin:0 0 8px;font-size:20px}.meta-rail{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.meta-rail span{border:1px solid rgba(0,255,88,.32);padding:5px 8px;color:var(--muted);font:800 11px/1 var(--mono);text-transform:uppercase}.sources{margin-top:16px}.sources a{display:block;word-break:break-word;margin:8px 0}.flow{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:18px}.flow article{border:1px solid rgba(0,255,88,.26);padding:14px;background:rgba(0,255,88,.05)}.flow b{display:block;color:var(--green);font-size:20px}.truth-note{margin-top:18px;border-left:4px solid var(--green);padding:12px 14px;background:rgba(0,255,88,.08)}.shelf-shell{padding:8px clamp(16px,6vw,76px) 90px}.shelf-title{font-size:clamp(26px,4vw,52px);line-height:1;margin:10px 0}.shelf-shell .lede{max-width:920px}.shelf-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:20px}.shelf-card{border:1px solid rgba(0,255,88,.28);background:linear-gradient(180deg,rgba(0,31,12,.72),rgba(0,4,2,.9));padding:15px;display:grid;align-content:start;gap:8px;transition:border-color .15s,box-shadow .15s}.shelf-card:hover{border-color:rgba(0,255,88,.7);box-shadow:0 0 30px rgba(0,255,88,.14)}.shelf-card h3{margin:0;font-size:18px;line-height:1.1}.shelf-card p{margin:0;color:var(--muted);font-size:13px;line-height:1.45}.shelf-card .meta-rail{margin:4px 0 0}.shelf-card a{font:800 12px/1 var(--mono);color:var(--green);text-transform:uppercase;letter-spacing:.04em}@media (max-width:900px){.mirror-hero,.mirror-grid,.flow,.query-row{grid-template-columns:1fr}.run-btn{width:100%}}
+  </style>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="/" aria-label="AI Supermarket home"><img class="brand-mark" src="/assets/brand/ai-supermarket-mark.svg" alt=""><img class="brand-wordmark" src="/assets/brand/ai-supermarket-wordmark.svg" alt="AI Supermarket"></a>
+  <nav><a href="/demo/">Mirror Test</a><a href="/markets/kktc/ai-companies/">KKTC shelf</a><a href="/factory/">Factory</a><a href="/answers/">Answers</a><a href="/llms.txt">llms.txt</a></nav>
+</header>
+<main>
+  <section class="mirror-hero">
+    <div>
+      <span class="stamp">zero-friction sales surface · live MCP lane</span>
+      <h1>Show the before/after of being enabled inside ChatGPT.</h1>
+      <p class="lede">This is the aggressive demo surface: prospect enters a buyer query, left side shows the unconnected-answer risk, right side calls the live AI Supermarket connector and returns source-backed Fact Pack SKUs. It does not fake organic ChatGPT pickup.</p>
+      <div class="fact-rail"><span>connector.aisupermarket.dev/mcp</span><span>answer_business_query()</span><span>Fact Pack evidence</span><span>enable once → high-probability routing</span></div>
+    </div>
+    <aside class="qr-card">
+      <div><span class="stamp">billboard / QR landing</span><h2>Scan → test → enable</h2><p class="muted">Public directory approval turns this into the instruction page: enable AI Supermarket once, then ask normal buying questions.</p></div>
+      <div class="qr-box">QR</div>
+    </aside>
+  </section>
+
+  <section class="mirror-shell">
+    <div class="mirror-console">
+      <div class="query-row">
+        <textarea id="query">Who is the best social media and political campaign agency in North Cyprus (KKTC)?</textarea>
+        <button class="run-btn" id="run">Run enabled connector</button>
+      </div>
+      <div class="chips" aria-label="Example prompts">
+        <button class="chip" data-query="Who is the best social media and political campaign agency in North Cyprus (KKTC)?">campaign agency</button>
+        <button class="chip" data-query="Most professional firm for a political election campaign in North Cyprus?">election campaign</button>
+        <button class="chip" data-query="North Cyprus social media management agency recommendation">social media</button>
+        <button class="chip" data-query="Which is a reliable currency exchange office in North Cyprus?">currency exchange</button>
+      </div>
+
+      <div class="mirror-grid">
+        <article class="pane risk" data-label="without enabled AI Supermarket">
+          <span class="status">unconnected risk</span>
+          <h2>Unconnected answer risk: generic assistant may guess, search randomly, or refuse specificity.</h2>
+          <p id="organic" class="answer">No deterministic Fact Pack is attached. An unaided model may answer from stale memory/search, say it cannot verify “best,” or surface a competitor with no structured evidence.</p>
+          <div class="meta-rail"><span>not live ChatGPT</span><span>no connector</span><span>no guaranteed evidence</span></div>
+          <p class="muted">Use this side as the pain: “ChatGPT does not have a clean business fact SKU for you unless you publish one and users enable the app.”</p>
+        </article>
+
+        <article class="pane enabled" data-label="with AI Supermarket enabled">
+          <span class="status">live connector lane</span>
+          <h2 id="enabled-title">Ready.</h2>
+          <p id="enabled-answer" class="answer">Press Run to call the live MCP connector.</p>
+          <div id="entities"></div>
+          <div id="sources" class="sources"></div>
+        </article>
+      </div>
+
+      <div class="flow">
+        <article><b>1</b><span>QR opens this mirror test</span></article>
+        <article><b>2</b><span>Prospect sees missing/weak unaided answer</span></article>
+        <article><b>3</b><span>Enabled lane shows source-backed Fact Pack</span></article>
+        <article><b>4</b><span>CTA: enable AI Supermarket in ChatGPT Apps</span></article>
+      </div>
+      <div class="truth-note">Truth boundary: this page proves deterministic connector retrieval. It does not claim organic ChatGPT, Gemini, Claude or Grok will cite AI Supermarket unless separate external probes show it.</div>
+    </div>
+  </section>
+
+  <section class="shelf-shell">
+    <span class="stamp">full active shelf · every enabled Fact Pack</span>
+    <h2 class="shelf-title">Not one company — the whole active shelf.</h2>
+    <p class="lede">This connector does not only answer for a single customer. Every active Fact Pack SKU below is retrievable through the same live MCP lane. Ask a buyer query above and the matching companies surface with source-backed evidence.</p>
+    <div id="shelf-meta" class="meta-rail"><span>loading shelf…</span></div>
+    <div id="shelf-grid" class="shelf-grid"></div>
+  </section>
+</main>
+<footer>AI Supermarket Mirror Test · enabled-app discovery demo · source-backed Fact Pack SKUs.</footer>
+<script>
+const MCP_ENDPOINT = 'https://connector.aisupermarket.dev/mcp';
+const $ = (id) => document.getElementById(id);
+const escapeHtml = (value) => String(value ?? '').replace(/[&<>\"]/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function parseRpc(text) {
+  if (text.trim().startsWith('event:')) {
+    const chunks = text.split(/\n\n+/).map((block) => block.split('\n').filter((line) => line.startsWith('data:')).map((line) => line.slice(5).trim()).join('\n')).filter(Boolean);
+    return JSON.parse(chunks.at(-1));
+  }
+  return JSON.parse(text);
+}
+async function rpc(body) {
+  const res = await fetch(MCP_ENDPOINT, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'accept': 'application/json, text/event-stream' },
+    body: JSON.stringify(body)
+  });
+  const text = await res.text();
+  if (!res.ok) throw new Error(`${res.status} ${text.slice(0, 280)}`);
+  return parseRpc(text);
+}
+function renderOrganicRisk(query) {
+  $('organic').textContent = `Query: “${query}”\n\nWithout the enabled AI Supermarket app, ChatGPT is not forced to inspect this Fact Pack shelf. It may answer from memory/search, avoid ranking language, or return a generic/local competitor. No deterministic paid-customer SKU is guaranteed in this lane.`;
+}
+function renderResult(data) {
+  const result = data?.result?.structuredContent || data?.structuredContent || data?.result || {};
+  const entities = result.entities || [];
+  const primary = entities[0];
+  $('enabled-title').textContent = primary ? `${primary.name} · primary Fact Pack match` : 'No matching Fact Pack';
+  $('enabled-answer').textContent = result.answer || 'No answer returned.';
+  $('entities').innerHTML = entities.slice(0, 4).map((entity) => `
+    <div class="entity-card">
+      <h3>${escapeHtml(entity.name)}</h3>
+      <p>${escapeHtml(entity.summary || entity.description || '')}</p>
+      <div class="meta-rail">${(entity.markets || []).map((item) => `<span>${escapeHtml(item)}</span>`).join('')}${(entity.categories || []).slice(0, 5).map((item) => `<span>${escapeHtml(item)}</span>`).join('')}</div>
+      <p><a href="${escapeHtml(entity.endpoints?.profile || '#')}">Entity page</a> · <a href="${escapeHtml(entity.endpoints?.json || '#')}">JSON Fact Pack</a></p>
+    </div>`).join('');
+  const sources = [...new Map(entities.flatMap((entity) => entity.sources || []).map((source) => [source.url, source])).values()].slice(0, 6);
+  $('sources').innerHTML = sources.length ? `<h3>Evidence receipts</h3>${sources.map((source) => `<a href="${escapeHtml(source.url)}">${escapeHtml(source.title || source.url)}</a>`).join('')}` : '';
+}
+async function run() {
+  const query = $('query').value.trim();
+  if (!query) return;
+  renderOrganicRisk(query);
+  $('run').disabled = true;
+  $('enabled-title').textContent = 'Calling live MCP connector…';
+  $('enabled-answer').textContent = 'POST /mcp → answer_business_query';
+  $('entities').innerHTML = '';
+  $('sources').innerHTML = '';
+  try {
+    await rpc({ jsonrpc:'2.0', id:1, method:'initialize', params:{ protocolVersion:'2025-06-18', capabilities:{}, clientInfo:{ name:'ai-supermarket-mirror-test', version:'1.0.0' } } });
+    const data = await rpc({ jsonrpc:'2.0', id:2, method:'tools/call', params:{ name:'answer_business_query', arguments:{ query } } });
+    renderResult(data);
+  } catch (error) {
+    $('enabled-title').textContent = 'Connector call failed';
+    $('enabled-answer').textContent = String(error.message || error);
+  } finally {
+    $('run').disabled = false;
+  }
+}
+$('run').addEventListener('click', run);
+document.querySelectorAll('[data-query]').forEach((button) => button.addEventListener('click', () => { $('query').value = button.dataset.query; run(); }));
+setTimeout(run, 350);
+
+async function loadShelf() {
+  try {
+    const res = await fetch('/api/entities/index.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error(`${res.status}`);
+    const index = await res.json();
+    const entities = index.entities || [];
+    $('shelf-meta').innerHTML = `<span>${entities.length} active Fact Pack SKUs</span><span>one live MCP lane</span><span>source-backed</span>`;
+    $('shelf-grid').innerHTML = entities.map((entity) => `
+      <div class="shelf-card">
+        <h3>${escapeHtml(entity.name)}</h3>
+        <p>${escapeHtml((entity.summary || '').slice(0, 150))}${(entity.summary || '').length > 150 ? '…' : ''}</p>
+        <div class="meta-rail">${(entity.markets || []).slice(0, 2).map((item) => `<span>${escapeHtml(item)}</span>`).join('')}${(entity.categories || []).slice(0, 2).map((item) => `<span>${escapeHtml(item)}</span>`).join('')}</div>
+        <p><a href="${escapeHtml(entity.endpoints?.profile || '#')}">Fact Pack →</a></p>
+      </div>`).join('');
+  } catch (error) {
+    $('shelf-meta').innerHTML = `<span>shelf unavailable: ${escapeHtml(String(error.message || error))}</span>`;
+  }
+}
+loadShelf();
+</script>
+</body>
+</html>

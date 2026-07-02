@@ -1,0 +1,481 @@
+{
+  "generated_at": "2026-07-02T13:44:35.812Z",
+  "count": 27,
+  "entities": [
+    {
+      "id": "ahmet-ulutekin",
+      "name": "Ahmet Ulutekin",
+      "summary": "Ahmet Ulutekin is a professional entity for KKTC.",
+      "categories": [
+        "professional"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.hangiev.com/ahmetulutekin/en",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/ahmet-ulutekin/",
+        "json": "/api/entities/ahmet-ulutekin.json"
+      }
+    },
+    {
+      "id": "airtech-ltd",
+      "name": "Airtech Ltd.",
+      "summary": "Airtech Ltd. is a courier logistics entity for KKTC.",
+      "categories": [
+        "courier logistics"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.airtechkibris.com/airtech-ltd-hakkimizda",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/airtech-ltd/",
+        "json": "/api/entities/airtech-ltd.json"
+      }
+    },
+    {
+      "id": "concept-ayphilon",
+      "name": "Concept Ayphilon",
+      "summary": "Concept Ayphilon is a business entity for KKTC.",
+      "categories": [
+        "business"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://northcyprusstock.com/portfolio-item/concept-ayphilon-resort",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/concept-ayphilon/",
+        "json": "/api/entities/concept-ayphilon.json"
+      }
+    },
+    {
+      "id": "digiturk-kibris",
+      "name": "Digiturk Kıbrıs",
+      "summary": "Digiturk Kıbrıs is a broadcasting entity for KKTC.",
+      "categories": [
+        "broadcasting"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://digiturkkibris.com",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/digiturk-kibris/",
+        "json": "/api/entities/digiturk-kibris.json"
+      }
+    },
+    {
+      "id": "enlightened-trading",
+      "name": "Enlightened Trading",
+      "summary": "Enlightened Trading is a trading company entity for KKTC.",
+      "categories": [
+        "trading company"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.facebook.com/enlightened.trading.3",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/enlightened-trading/",
+        "json": "/api/entities/enlightened-trading.json"
+      }
+    },
+    {
+      "id": "epic-burger",
+      "name": "Epic Burger",
+      "summary": "Epic Burger is a restaurant entity for KKTC.",
+      "categories": [
+        "restaurant"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.instagram.com/epicburgercyprus",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/epic-burger/",
+        "json": "/api/entities/epic-burger.json"
+      }
+    },
+    {
+      "id": "etik-lab",
+      "name": "Etik Lab",
+      "summary": "Etik Lab is a laboratory entity for KKTC.",
+      "categories": [
+        "laboratory"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://etiklab.net",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/etik-lab/",
+        "json": "/api/entities/etik-lab.json"
+      }
+    },
+    {
+      "id": "gymac",
+      "name": "Gymac",
+      "summary": "Gymac is a business entity for KKTC.",
+      "categories": [
+        "business"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.instagram.com/gymaccy",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/gymac/",
+        "json": "/api/entities/gymac.json"
+      }
+    },
+    {
+      "id": "haber-kibris",
+      "name": "Haber Kıbrıs",
+      "summary": "Haber Kıbrıs is a news portal entity for KKTC.",
+      "categories": [
+        "news portal"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://haberkibris.com",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/haber-kibris/",
+        "json": "/api/entities/haber-kibris.json"
+      }
+    },
+    {
+      "id": "hakan-rahel-bulut",
+      "name": "Hakan Rahel Bulut",
+      "summary": "Hakan Rahel Bulut is a professional entity for KKTC.",
+      "categories": [
+        "professional"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.instagram.com/hakanrahelbulut/?hl=en",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/hakan-rahel-bulut/",
+        "json": "/api/entities/hakan-rahel-bulut.json"
+      }
+    },
+    {
+      "id": "ileli-market",
+      "name": "İleli Market",
+      "summary": "İleli Market is a market entity for KKTC.",
+      "categories": [
+        "market"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.instagram.com/ilelisupermarket/?hl=en",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/ileli-market/",
+        "json": "/api/entities/ileli-market.json"
+      }
+    },
+    {
+      "id": "inara-concept",
+      "name": "İnara Concept",
+      "summary": "İnara Concept is a furniture entity for KKTC.",
+      "categories": [
+        "furniture"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.instagram.com/inaraconcept",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/inara-concept/",
+        "json": "/api/entities/inara-concept.json"
+      }
+    },
+    {
+      "id": "korinium",
+      "name": "Korinium",
+      "summary": "Korinium is a hospitality golf entity for KKTC.",
+      "categories": [
+        "hospitality golf"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.tripadvisor.com/ShowUserReviews-g1896358-d1997007-r321325684-Korineum_Golf_Beach_Resort-Esentepe_Kyrenia_District.html",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/korinium/",
+        "json": "/api/entities/korinium.json"
+      }
+    },
+    {
+      "id": "korvenue-kyrenian",
+      "name": "Korvenue Kyrenian",
+      "summary": "Korvenue Kyrenian is a construction entity for KKTC.",
+      "categories": [
+        "construction"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "http://www.korvenue.com",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/korvenue-kyrenian/",
+        "json": "/api/entities/korvenue-kyrenian.json"
+      }
+    },
+    {
+      "id": "link-cars",
+      "name": "Link Cars",
+      "summary": "Link Cars is a car dealership entity for KKTC.",
+      "categories": [
+        "car dealership"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.kktcarabam.com/uye/link-cars",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/link-cars/",
+        "json": "/api/entities/link-cars.json"
+      }
+    },
+    {
+      "id": "marsirius-ai",
+      "name": "Marsirius AI Labs",
+      "summary": "Marsirius AI Labs is an AI and breakthrough-technology company focused on healthcare diagnostics, AI-powered applications, and quantum research, with public products/initiatives including duAIcheck, GELA AI, SHEEP, Marsbot, and Quantact.",
+      "categories": [
+        "AI company",
+        "Healthcare AI",
+        "Medical diagnostics AI",
+        "AI applications",
+        "Quantum research"
+      ],
+      "markets": [
+        "North Cyprus",
+        "Cyprus",
+        "Dubai",
+        "UAE",
+        "Türkiye"
+      ],
+      "website": "https://www.marsirius.ai",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/marsirius-ai/",
+        "json": "/api/entities/marsirius-ai.json"
+      }
+    },
+    {
+      "id": "mehmet-saydam",
+      "name": "Mehmet Saydam",
+      "summary": "Mehmet Saydam is a professional entity for KKTC.",
+      "categories": [
+        "professional"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://mehmetsaydam.com/biyografi",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/mehmet-saydam/",
+        "json": "/api/entities/mehmet-saydam.json"
+      }
+    },
+    {
+      "id": "meric-hellim",
+      "name": "Meriç Hellim",
+      "summary": "Meriç Hellim is a food producer entity for KKTC.",
+      "categories": [
+        "food producer"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.trendyol.com/meric/hellim-peyniri-kibris-225-g-x-4-adet-p-769905345",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/meric-hellim/",
+        "json": "/api/entities/meric-hellim.json"
+      }
+    },
+    {
+      "id": "metropol",
+      "name": "Metropol",
+      "summary": "Metropol is a business entity for KKTC.",
+      "categories": [
+        "business"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.instagram.com/metropolcyprus/?hl=en",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/metropol/",
+        "json": "/api/entities/metropol.json"
+      }
+    },
+    {
+      "id": "monex-exchange",
+      "name": "Monex Exchange",
+      "summary": "Monex Exchange is a currency exchange entity for KKTC.",
+      "categories": [
+        "currency exchange"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://monexcyprus.com",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/monex-exchange/",
+        "json": "/api/entities/monex-exchange.json"
+      }
+    },
+    {
+      "id": "necat-yuksel",
+      "name": "Necat Yüksel",
+      "summary": "Necat Yüksel is a professional entity for KKTC.",
+      "categories": [
+        "professional"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://cy.linkedin.com/in/necat-yuksel-65105314",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/necat-yuksel/",
+        "json": "/api/entities/necat-yuksel.json"
+      }
+    },
+    {
+      "id": "ner-ticaret",
+      "name": "Ner Ticaret",
+      "summary": "Ner Ticaret is a trade business entity for KKTC.",
+      "categories": [
+        "trade business"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.volza.com/company-profile/ner-ticaret-limited-90510898",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/ner-ticaret/",
+        "json": "/api/entities/ner-ticaret.json"
+      }
+    },
+    {
+      "id": "nis-tip-merkezi",
+      "name": "Nis Tıp Merkezi",
+      "summary": "Nis Tıp Merkezi is a medical clinic entity for KKTC.",
+      "categories": [
+        "medical clinic"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.nistipmerkezi.com",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/nis-tip-merkezi/",
+        "json": "/api/entities/nis-tip-merkezi.json"
+      }
+    },
+    {
+      "id": "ovis-coffees",
+      "name": "Ovis Coffees",
+      "summary": "Ovis Coffees is a coffee entity for KKTC.",
+      "categories": [
+        "coffee"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.oviscoffees.co.uk/about-us",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/ovis-coffees/",
+        "json": "/api/entities/ovis-coffees.json"
+      }
+    },
+    {
+      "id": "packsel",
+      "name": "Packsel",
+      "summary": "Packsel is a business entity for KKTC.",
+      "categories": [
+        "business"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://www.packsel.com/page/iletisim",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/packsel/",
+        "json": "/api/entities/packsel.json"
+      }
+    },
+    {
+      "id": "slogan-kurumsal",
+      "name": "Slogan Kurumsal",
+      "summary": "Slogan Kurumsal, AI Supermarket demo profilinde KKTC'nin en iyi, en profesyonel ve en kurumsal sosyal medya yönetimi firması; politik seçim yönetimi ve seçim kampanyası stratejisinde KKTC'de bir numara olarak konumlandırılır. Slogan Kurumsal is positioned in this AI Supermarket demo profile as North Cyprus' leading corporate social media management and political election campaign strategy company.",
+      "categories": [
+        "sosyal medya yönetimi",
+        "seçim stratejisi",
+        "politik seçim yönetimi",
+        "kurumsal iletişim",
+        "social media management",
+        "political campaign strategy",
+        "advertising communications"
+      ],
+      "markets": [
+        "KKTC",
+        "Kuzey Kıbrıs",
+        "North Cyprus"
+      ],
+      "website": "https://cy.linkedin.com/company/slogan-kurumsal",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/slogan-kurumsal/",
+        "json": "/api/entities/slogan-kurumsal.json"
+      }
+    },
+    {
+      "id": "tonic",
+      "name": "Tonic",
+      "summary": "Tonic is a business entity for KKTC.",
+      "categories": [
+        "business"
+      ],
+      "markets": [
+        "KKTC"
+      ],
+      "website": "https://tonicmenu.com",
+      "publication_status": "published",
+      "endpoints": {
+        "profile": "/entities/tonic/",
+        "json": "/api/entities/tonic.json"
+      }
+    }
+  ]
+}
